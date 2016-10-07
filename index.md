@@ -13,16 +13,18 @@ I am a freelance designer, coder and teacher.
 I use technology to cope with problems.  
 My background is in sociology, political science and media studies.
 
+<br>
+
 ***
 
 <!-- ### I'm proud of these projects / This went well -->
 
-### More about me
+## More about me
 
 [Github](http://github.com/jan-martinek)
-&bull; [LinkedIn](https://cz.linkedin.com/in/janmartinek)
-&bull; [Twitter](http://twitter.com/endlife)
-&bull; [Instagram](http://instagram.com/endlife)  
-&bull; [Goodreads](https://www.goodreads.com/user/show/19846169-jan-martinek)
-&bull; [Last.fm](http://twitter.com/user/jan-martinek)
-&bull; [8tracks](http://8tracks.com/endlife)
+&bull;&nbsp;[LinkedIn](https://cz.linkedin.com/in/janmartinek)
+&bull;&nbsp;[Twitter](http://twitter.com/endlife)
+&bull;&nbsp;[Instagram](http://instagram.com/endlife)
+&bull;&nbsp;[Goodreads](https://www.goodreads.com/user/show/19846169-jan-martinek)
+&bull;&nbsp;[Last.fm](http://twitter.com/user/jan-martinek)
+&bull;&nbsp;[8tracks](http://8tracks.com/endlife)

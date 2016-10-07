@@ -6,11 +6,13 @@ template: home
 	<img class="portrait" src="%base_url%/assets/portrait.jpg" alt="A photo of me: gazing into the camere in a Dreamer t-shirt.">
 </div>
 
-## *Zajímám se o&nbsp;porozumění.*
+## *Zajímá mě porozumění.*
 
 — Jsem designér, programátor a učitel na volné noze.  
 — Při řešení problémů využívám technologie.  
 — Mám zázemí v sociologii, politologii a studiu médií.
+
+<br>
 
 ***
 
