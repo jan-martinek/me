@@ -8,9 +8,9 @@ template: home
 
 ## *Zajímá mě porozumění.*
 
-— Jsem designér, programátor a učitel na volné noze.  
-— Při řešení problémů využívám technologie.  
-— Mám zázemí v sociologii, politologii a studiu médií.
+Jsem designér, programátor a učitel na volné noze.  
+Při řešení problémů využívám technologie.  
+Mám zázemí v sociologii, politologii a studiu médií.
 
 <br>
 
