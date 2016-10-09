@@ -1,6 +1,7 @@
 ---
-title: Jan Martinek: Interested in understanding
+title: Zajímá mě porozumění
 template: home
+description: Jsem designér, programátor a učitel na volné noze. Při řešení problémů využívám technologie.
 ---
 <div class="column">
 	<img class="portrait" src="%base_url%/assets/portrait.jpg" alt="A photo of me: gazing into the camere in a Dreamer t-shirt.">

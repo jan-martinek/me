@@ -1,5 +1,6 @@
 ---
-title: Jan Martinek: Interested in understanding
+title: Interested in understanding
+description: Freelance designer, coder and teacher. I use technology to cope with problems. 
 lang: en
 template: home
 ---
