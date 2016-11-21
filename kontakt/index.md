@@ -7,8 +7,10 @@ template: page
 **telefon**: +420 604 271 721  
 **skype**: honza.martinek  
 
-**korespondenční adresa**:  
-Jiříkovského 8, 602 00 Brno  
+### Korespondenční adresa
+
+Wiesenthalova 1187/3  
+155 00 Praha 5
 
 ## Fakturační údaje
 

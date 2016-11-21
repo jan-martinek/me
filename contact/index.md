@@ -10,8 +10,8 @@ template: page
 
 ### Correspondence address
 
-Jirikovskeho 8  
-602 00 Brno  
+Wiesenthalova 1187/3  
+155 00 Praha 5  
 Czech Republic
 
 ## Invoice info
