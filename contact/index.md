@@ -16,14 +16,8 @@ Czech Republic
 
 ## Invoice info
 
-### Banking info
-
-**account number:** 94&#8209;2593570277/0100  
-**bank:** Komerční&nbsp;banka  
-**BIC/SWIFT:** KOMBCZPPXXX  
-**IBAN**: CZ45&nbsp;0100&nbsp;000­0&nbsp;9425&nbsp;9357&nbsp;0­277
-
-**paypal**: jan.martinek@post.cz
+**ID**: 738 80 060  
+**VAT ID**: CZ8704026298
 
 ### Invoice address
 Jan Martinek  
@@ -31,5 +25,11 @@ Hovězí 35
 756 01 Hovězí  
 Czech Republic
 
-**ID**: 738 80 060  
-**VAT ID**: CZ8704026298
+### Banking info
+
+**account number:** 1191689035/3030  
+**bank:** Air Bank a.s.  
+**BIC/SWIFT:** AIRACZPP  
+**IBAN:** CZ7030300000001191689035
+
+**paypal**: honza.martinek@gmail.com
