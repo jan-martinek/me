@@ -14,11 +14,26 @@ I am a freelance designer, coder and teacher.
 I use technology to cope with problems.  
 My background is in sociology, political science and media studies.
 
-<br>
+## Right now
 
-***
+- I design *book-shaped text for tomorrow* with [Ivana Lukeš Rybanská][ivana].
+- I work on a *good diagramming app* with [Lukáš Kubánek][lukas].
+- I teach courses on sociology and *actual* computer basics at [Muni][muni].
+- I develop *[Peer Blender][blender]*: a peer-assessment-based e-learning environment.
+- In lead a [small team][demagogteam] developing a fact-checking platform *[Demagog2][demagogsrc]*.
+- I design a CRM for novice fundraisers that should help them to start working methodically (coming public soon).
+
+[ivana]: https://www.linkedin.com/in/ivanarybanska/
+[lukas]: http://lukaskubanek.com
+[muni]: https://muni.cz
+[blender]: http://peerblender.com
+[demagogsrc]: https://github.com/Demagog2/Demagog.cz
+[demagogteam]: https://github.com/orgs/Demagog2/teams/core
+[demagogcz]: http://demagog.cz
 
 <!-- ### I'm proud of these projects / This went well -->
+
+---
 
 ## More about me
 

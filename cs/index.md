@@ -13,14 +13,27 @@ Jsem designér, programátor a učitel na volné noze.
 Při řešení problémů využívám technologie.  
 Mám zázemí v sociologii, politologii a studiu médií.
 
-<br>
+## Právě teď
 
-***
+- Navrhuji *dobrou elektronickou publikaci* s [Ivanou Lukeš Rybanskou][ivana].
+- Pracuji na *dobré diagramovací aplikaci* s [Lukášem Kubánkem][lukas].
+- Učím kurzy sociologie a *skutečných* základů práce s počítačem na [KISKu][kisk].
+- Vyvíjím *[Peer Blender][blender]*: e-learning postavený na peer-assessmentu.
+- S [týmem][demagogteam] vyvíjíme novou verzi platformy pro fact-checking *[Demagog2][demagogsrc]*.
+- Navrhuju CRM pro začátečníky ve fundraisingu, který by jim měl pomoci se zaváděním procesů do vlastní práce. (Výsledky brzy.)
+
+[ivana]: https://www.linkedin.com/in/ivanarybanska/
+[lukas]: http://lukaskubanek.com
+[kisk]: http://kisk.cz
+[blender]: http://peerblender.com
+[demagogsrc]: https://github.com/Demagog2/Demagog.cz
+[demagogteam]: https://github.com/orgs/Demagog2/teams/core
+[demagogcz]: http://demagog.cz
 
 <!-- ## Tohle se povedlo -->
 
 
-
+---
 
 ## Více o mně
 
