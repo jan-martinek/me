@@ -14,7 +14,7 @@ I am a freelance designer, coder and teacher.
 I use technology to cope with problems.  
 My background is in sociology, political science and media studies.
 
-## Right now
+## These days
 
 - I design *book-shaped text for tomorrow* with [Ivana Lukeš Rybanská][ivana].
 - I work on a *good diagramming app* with [Lukáš Kubánek][lukas].

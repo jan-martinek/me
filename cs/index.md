@@ -13,7 +13,7 @@ Jsem designér, programátor a učitel na volné noze.
 Při řešení problémů využívám technologie.  
 Mám zázemí v sociologii, politologii a studiu médií.
 
-## Právě teď
+## V těchto dnech
 
 - Navrhuji *dobrou elektronickou publikaci* s [Ivanou Lukeš Rybanskou][ivana].
 - Pracuji na *dobré diagramovací aplikaci* s [Lukášem Kubánkem][lukas].
