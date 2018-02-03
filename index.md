@@ -20,7 +20,7 @@ My background is in sociology, political science and media studies.
 - I work on a *good diagramming app* with [Lukáš Kubánek][lukas].
 - I teach courses on sociology and *actual* computer basics at [Muni][muni].
 - I develop *[Peer Blender][blender]*: a peer-assessment-based e-learning environment.
-- In lead a [small team][demagogteam] developing a fact-checking platform *[Demagog2][demagogsrc]*.
+- I lead a [small team][demagogteam] that works on a fact-checking platform *[Demagog2][demagogsrc]*.
 - I design a CRM for novice fundraisers that should help them to start working methodically (coming public soon).
 
 [ivana]: https://www.linkedin.com/in/ivanarybanska/
