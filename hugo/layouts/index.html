@@ -1,0 +1,35 @@
+{{ define "main" }}
+<main class="home">
+  <h1>words</h1>
+  <div class="row">
+  {{ range $i, $article := first 2 .Params.articles }}
+    {{ $page := $.Site.GetPage "page" . }}
+    {{ if eq $i 0 }}
+      {{ partial "large-brick.html" $page }}
+    {{ else }}
+      {{ partial "brick.html" $page }}
+    {{ end }}
+  {{ end }}
+  </div>
+
+  <div class="row">
+  {{ range last 3 .Params.articles }}
+    {{ $page := $.Site.GetPage "page" . }}
+    {{ partial "brick.html" $page }}
+  {{ end }}
+  </div>
+
+  <p><a href="/archive/">archive</a></p>
+
+
+  <h1>bytes</h1>
+  <div class="row">
+  {{ range .Params.articles }}
+    {{ $page := $.Site.GetPage "page" . }}
+    {{ partial "brick.html" $page }}
+  {{ end }}
+  </div>
+
+  {{ .Content }}
+</main>
+{{ end }}

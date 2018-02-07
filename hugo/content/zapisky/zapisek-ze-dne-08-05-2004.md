@@ -1,0 +1,15 @@
+---
+title: Zápisek ze dne 8. května 2004
+date: '2004-05-08 17:00:00 +0200'
+date_gmt: '2004-05-08 15:00:00 +0200'
+category: nezařazené
+tags: []
+comments: []
+---
+<div >  <a href="wallpaper.php"><img alt="pohádka" src="/assets/migrated/old-images/box.jpg"></a>  <a href="wallpaper.php"><img alt="pohádka" src="/assets/migrated/old-images/crossing.jpg"></a>  </div>
+<p>Ve čtvrtek jsem si přehnanou aktivitou nahnal křeč do obou nohou, ale nepodařilo se mi utopit se,  tak jsem zase zpátky :). Na dnešek jsem plánoval už rok pořádnou procházku -  <a href="http://www.spacir.unas.cz/">špacír</a> - 100km po kopcích v okolí (což bych sice neušel, ale aspoň  kousek by byl pěkný..).. Pak se na to Soc vykašlal &amp; nakonec nešel nikdo.. Tak jsem dnešek strávil  v poklidu na chatě, kde jsem hrabnal trávu, hnojil záhonek &amp; sázel jiřiny.. Doufal jsem, že mě pobyt na chatě  přivede na jiné myšlenky, což se splnilo hned po příjezdu - ještě před sázením, hrabáním etc. -</p>
+<p>a) pod  kopcem se konaly nějaké cyklistické závody - spousta namakaných šílenců mi mírně snížila sebevědomí :)  pomalu jsem se proplížil kusem cesty, kudy probíhala závodní trasa - chlápek upozorňující na zatáčku se  tvářil značně nedůvěřivě a když jsem překážku označující zatáčku obešel ulehčeně vydechl :).</p>
+<p>b) minulý rok  jsme pouštěli vodu (musí být na zimu zavřená aby nepraskly trubky) a vytopili tak trochu sklep. letos už jsme  si na sklep dávali pozor a kohoutky byly pevně zatažené. Což není zjevně předpoklad absolutního úspěchu,  protože voda z baterie nad dřezem byla nastavená mimo dřez a stékala na zem. Stejně jako minulý rok jsem  tento dorbný zádrhel objevil já :). Hm, až se cítím provinile :).</p>
+<p>Na chatě bylo celý den relativně pěkně, ale sluníčko nesvítilo (a na protější svah celý den svítilo,  což fakt nechápu) -> trochu kosa. Při odjezdu začalo mírně pršet, což se při průjezdu Zděchovem zvrhlo v docela  slušný deštík, ale pak to zas přestalo. Ještě jsem kamarádce zavezl cédéčko &amp; po cestě zpátky jsem zjistil,  že jsem dešti jenom ujel. Pořádnému deštíku :). Takhle parádně jsem nezmokl od cesty do Valmezu o minulých  prázdninách :). Zase zůstal suchý jenom mobil, foťák jsem si raděj z bezpečnostních důvodů ani nebral.  Moje kolo začíná vypadat špatně. Chtelo by to minimálně vyměnit kolo, protože už je (podle servisáka) tak  pokřivené, že už se ty osmice dělají skoro samy (což můžu potvrdit :/). Co už. Dokud kola neupadnou,  tak to snad nějak ujezdím :).</p>
+<p>Naše vesnice dnes slaví 500 let. Od založení asi ne, nejspíš něco jako první písemná zmínka. Kdo ví, já ne.  Každopádně v devět večer už místní rozhlas dlouho nehrál. A už dlouho nehrál nic jiného než dechovku (popřípadě  neumětelské Vánoční koledy zpívané místním sborem (uáá)). V devět večer se ozvala na celou vesnici Vltava Bédi  Šlehajdy a vystrojil ohňostroj. Na místní poměry megaohňostroj. Z náměstí k nám doléhal vzrušený jásot fanoušků  na náměstí. Fanoušků, tedy přihlížejících :). Hm. Sranda. Přidal jsem se ke vřavě svým plyšovým kohoutem co  dělá kykyryký, když se pořádně zmáčkne, ale asi jsem zanikl v hluku ohňostroje :).</p>
+<p>Stačí. Mějte se krásně..</p>

@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article>
+  <h1>{{ htmlUnescape .Title }}</h1>
+  {{ .Content }}
+</article>
+{{ end }}
+
+{{ define "header" }}
+  {{ partial "header.cs.html" . }}
+{{ end }}
+
+{{ define "lang" }}cs{{ end }}

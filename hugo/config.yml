@@ -1,0 +1,24 @@
+---
+# Site
+baseurl: "https://jan-martinek.com"
+title: "Jan Martinek"
+enableRobotsTXT: true
+googleAnalytics: "UA-563461-2"
+# Content
+languageCode: "en-us"
+defaultContentLanguage: "en"
+# Formats
+metaDataFormat: "yaml"
+pygmentsUseClasses: true
+pygmentsCodeFences: true
+
+taxonomies:
+  project: projects
+  tag: tags
+
+# -----------------------------
+# DO NOT CHANGE BELOW THIS LINE
+# -----------------------------
+disableLiveReload: true
+watch: false
+---

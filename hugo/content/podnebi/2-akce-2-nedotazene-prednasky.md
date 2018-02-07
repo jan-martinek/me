@@ -1,0 +1,23 @@
+---
+title: 2 akce, 2 nedotažené přednášky
+date: '2012-07-02 11:36:59 +0200'
+date_gmt: '2012-07-02 10:36:59 +0200'
+category: kolem,  cokoliv
+tags: []
+comments: []
+---
+<h3>1)</h3>
+<p>Ve středu jsem byl na Letní škole KISKu jako lektor. Nejdřív musím poznamenat, že jsem nekritický fanoušek <a href="http://kisk.phil.muni.cz/">KISKu</a> – mají zajímavý mezioborový studijní program s přesahem, propojený přes skutečně zajímavé bloky expertů s praxí, kde když vypíšou <a href="http://kisk.phil.muni.cz/letni-skola-mistrovske-kurzy-2012">týdenní letní školu</a> na konci zkouškového, přihlásí se 150 lidí. Na naší katedře je problém uspořádat jednodenní výjezd za město v průběhu semestru.</p>
+<p>Na místě jsem měl jednu ze tří přednášek – vedle Honzy Řezáče a Martina Kopty. Vedle takto zvučných jmen jsem se ocitl trochu náhodou, protože týden před akcí krachl jiný lektor. Jako téma jsem si nakonec vybral Mobile First a workshop jsem se snažil táhnout spíše směrem k návrhu služby – takže jsme vymýšleli nejen to, jak by měla dnešní webovka primárně vymýšlená pro mobil vypadat, ale především pro koho by měla být, jak by mu měla pomoct, proč to celé vlastně deláme a co všechno kolem musíme promyslet, aby to dobře fungovalo. Vtipné bylo, že další dvě témata workshopů byla <em>Webdesign z pohledu zákazníka</em> a <em>Obsahová strategie</em> a všichni jsme řešili prakticky to samé :-)</p>
+<p>Přednášku jsem dělal jen krátce předem, takže mi jeden klíčový nedostatek docvakl až se závěrečným slajdem: omezil jsem se na <em>proč</em> a skoro nic jsem neřekl o tom, <em>jak</em> navrhovat webové stránky pro mobily. Z odpoledního workshopu jsem měl trochu obavy, ale nakonec – i díky skvělým účastníkům – si myslím, že to bylo přínosné.</p>
+<div style="width:425px" id="__ss_13509623"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/janmartinek/mobile-first-letn-kola-kisku" title="Mobile first (Letní škola KISKu)" target="_blank">Mobile first (Letní škola KISKu)</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/13509623" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0" allowfullscreen></iframe>
+<div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/janmartinek" target="_blank">Jan Martinek</a> </div>
+</p></div>
+<h3>2)</h3>
+<p>O pár dní dřív jsem mluvil o UX státu na <a href="http://www.barcampbrno.cz/">barcampu v Brně</a>. Přednášku jsem měl celkem hotovou už z berlínského UXcampu, ale před akcí jsem ji ještě předělával jednak do češtiny a jednak jsem dolaďoval některé drobnosti. Tentokrát jsem neudělal chybu v tom, že bych na něco zapomněl, ale právě naopak – podařilo se mi jeden z příkladů tak nafouknout, že z něj vzniklo prakticky samostatné téma, které přehlušilo původní přednášku. Ano, modří už vědí – reforma stipendijní komise na naší fakultě sebrala snad 25 minut z celkových 40, které moje přednáška trvala. Musím se ještě mrknout na <a href="http://www.superlectures.com/barcampbrno2012/lecture.php?lang=cz&id=9">záznam</a>.</p>
+<p>Propříště musím příklady a zbytek přednášky o trochu víc vyvážit. (Ano, tohle téma bych rád ještě někam posunul, společně s blogem <a href="http://ux-of-a-country.tumblr.com/">UX of a Country</a>.)</p>
+<div style="width:425px" id="__ss_13509594"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/janmartinek/ux-sttu-barcamp-brno-2012" title="UX státu - Barcamp Brno 2012" target="_blank">UX státu - Barcamp Brno 2012</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/13509594" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0" allowfullscreen></iframe>
+<div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/janmartinek" target="_blank">Jan Martinek</a> </div>
+</p></div>
+<p>Jinak k barcampu – letos mě docela překvapilo, že mě skoro žádná z přednášek nenadchla nebo aspoň nenaštvala. Chyběl mi takový ten pocit, že musím vyzkoušet něco super nového. Tak snad příště...</p>
+<p>Pozn.: Obojí vložené slajdy jsem inspirován <a href="http://twitter.com/jmtcz">Jeanne Trojan</a> proložil krátkými textíky, které z obyčejných slajdů dělají superslajdy! Takže kdyžtak mrkněte. Asi rok jsem řešil, jak pěkně upravovat poznámky, aby byly užitečné, a ono stačí napsat to přímo do slajdů. Hehe.</p>

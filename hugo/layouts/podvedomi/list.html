@@ -1,0 +1,22 @@
+{{ define "main" }}
+<main>
+  <h1>{{ .Title }}</h1>
+  <ul class="articles">
+    {{ range .Data.Pages }}
+      <li>
+        <a href="{{ .RelPermalink }}">
+        <span class="date">{{ .Date.Local.Format "January 2, 2006" }}</span>
+        <span class="title">{{ htmlUnescape .Title }}</span>
+        <span class="summary">{{ .Summary }}</span>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+</main>
+{{ end }}
+
+{{ define "header" }}
+  {{ partial "header.cs.html" . }}
+{{ end }}
+
+{{ define "lang" }}cs{{ end }}

@@ -1,0 +1,5 @@
+<a href="{{ .RelPermalink }}" class="brick">
+  <img src="{{ .Param "img" }}" alt="">
+  <h2>{{ htmlUnescape .Title }}</h2>
+  <p class="date">{{ .Date.Local.Format "January 2, 2006" }}</p>
+</a>
