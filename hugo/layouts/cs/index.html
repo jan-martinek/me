@@ -1,0 +1,24 @@
+{{ define "main" }}
+<main class="home">
+
+  <h2>bytes</h2>
+  <div class="row">
+  {{ range .Params.projekty }}
+    {{ $page := $.Site.GetPage "page" . }}
+    {{ partial "project-brick.html" $page }}
+  {{ end }}
+  </div>
+
+  {{ .Content }}
+</main>
+{{ end }}
+
+{{ define "header" }}
+  {{ partial "header.cs.html" . }}
+{{ end }}
+
+{{ define "footer" }}
+  {{ partial "footer.cs.html" . }}
+{{ end }}
+
+{{ define "lang" }}cs{{ end }}

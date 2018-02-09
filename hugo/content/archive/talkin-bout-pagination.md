@@ -2,6 +2,7 @@
 title: Talkin' bout pagination (and&nbsp;digital books)
 keywords: reading, digital, page, book
 date: 2017-06-21
+projects: [next-book]
 ---
 Cheap title? Maybe. Though, when you think about book as an object, pagination is its nature. It defines how one interacts with a book. It's *the central affordance* of a book.
 

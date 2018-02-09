@@ -1,0 +1,8 @@
+<a href="{{ .RelPermalink }}" class="brick project-brick">
+  {{ if isset .Params "img" }}
+    <img src="/img/{{ .Param "img" }}.svg">
+  {{ end }}
+
+  <h3>{{ htmlUnescape .Title }}</h3>
+  <p class="summary">{{ .Param "description" }}</p>
+</a>

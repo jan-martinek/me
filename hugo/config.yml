@@ -13,7 +13,9 @@ pygmentsUseClasses: true
 pygmentsCodeFences: true
 
 taxonomies:
+  language: lang
   project: projects
+  projekt: projekty
   tag: tags
 
 # -----------------------------

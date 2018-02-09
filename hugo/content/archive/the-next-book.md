@@ -2,6 +2,7 @@
 title: The Next Book
 date: 2017-04-12
 tags: [project, work, next book, book]
+projects: [next-book]
 lang: en
 ---
 > I have worked with Ivana Lukeš Rybanská from publishing house [Nová Beseda](https://www.novabeseda.cz) since last year on their digital edition. Well, I finally feel like there's enough puzzle pieces glued together to speak up about it. *And yes, we glued the pieces together to form a ball.*
@@ -24,40 +25,3 @@ Our first Next Book will arrive in June 2017.
 
 - **#iWantMore:** Follow my blog ([rss](https://jan-martinek.com/articles/feed)) and consider subscribing to our Next Book newsletter. First one is [already in the making](https://next-book.github.io/newsletter/). 
 - **#meetup!** If you can get to Prague, come to the first of [Next Book meetups](https://www.facebook.com/events/1437506909641388/) on May 18th. (We'll be also in Berlin & Budapest soon, too.)
-
-<div class="column">
-<!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
-<form action="//novabeseda.us10.list-manage.com/subscribe/post?u=44617f2648f8fe83ae9e150a4&amp;id=28c0b50b31" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-<div class="mc-field-group">
-    <h3 style="margin: 0">Next Book Newsletter</h3>
-    <p style="margin: 0">Bi-weekly info about Next Book project and book tech.</p>
-    
-    <p><input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="e-mail address">
-    
-    &nbsp;&nbsp; 
-    
-    <input type="checkbox" value="2" name="group[11545][2]" id="mce-group[11545]-11545-1" checked>&nbsp;<label for="mce-group[11545]-11545-1">english version</label>
-    
-    &nbsp;&nbsp; 
-    
-    <input type="checkbox" value="1" name="group[11545][1]" id="mce-group[11545]-11545-0">&nbsp;<label for="mce-group[11545]-11545-0">česká verze</label> 
-    
-    </div>
-</ul>
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_44617f2648f8fe83ae9e150a4_28c0b50b31" tabindex="-1" value=""></div>
-    <div class="clear">
-        <p><input type="submit" value="Subscribe →" name="subscribe" id="mc-embedded-subscribe" class="button">
-        </p>
-    </div>
-    </div>
-</form>
-</div>
-<!--End mc_embed_signup-->
-</div>

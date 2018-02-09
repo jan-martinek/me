@@ -21,12 +21,11 @@
 
   <p><a href="/archive/">archive</a></p>
 
-
-  <h1>bytes</h1>
+  <h2>bytes</h2>
   <div class="row">
-  {{ range .Params.articles }}
-    {{ $page := $.Site.GetPage "page" . }}
-    {{ partial "brick.html" $page }}
+  {{ range .Params.featuredProjects }}
+    {{ $page := $.Site.GetPage "taxonomy" . }}
+    {{ partial "project-brick.html" $page }}
   {{ end }}
   </div>
 
