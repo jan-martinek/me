@@ -1,3 +1,4 @@
 /etc/* http://etc.jan-martinek.com/:splat
 /tmp/* http://tmp.jan-martinek.com/:splat
 /adminer/* http://adminer.jan-martinek.com/:splat
+/articles* /archive:splat

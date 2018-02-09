@@ -1,6 +1,7 @@
 ---
 title: Interested in understanding
 description: Freelance designer, coder and teacher. I use technology to cope with problems.
+layout: page
 ---
 <div class="column">
     <img class="portrait" src="/assets/migrated/portrait.jpg" alt="A photo of me: gazing into the camere in a Dreamer t-shirt.">

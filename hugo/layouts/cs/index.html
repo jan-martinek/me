@@ -1,15 +1,25 @@
 {{ define "main" }}
 <main class="home">
 
-  <h2>bytes</h2>
+  <section>
+    <img class="portrait" src="/assets/migrated/portrait.jpg" alt="A photo of me: gazing into the camere in a Dreamer t-shirt.">
+
+    <p>
+      Jsem designér, programátor a učitel na volné noze.<br>
+      Při řešení problémů využívám technologie.<br>
+      Mám zázemí v sociologii, politologii a studiu médií.
+    </p>
+
+    <p><b>Zajímá mě porozumění.</b></p>
+  </section>
+
+  <h2>projekty</h2>
   <div class="row">
-  {{ range .Params.projekty }}
-    {{ $page := $.Site.GetPage "page" . }}
+  {{ range .Params.featuredProjects }}
+    {{ $page := $.Site.GetPage "taxonomy" . }}
     {{ partial "project-brick.html" $page }}
   {{ end }}
   </div>
-
-  {{ .Content }}
 </main>
 {{ end }}
 

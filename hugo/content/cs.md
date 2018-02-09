@@ -1,17 +1,13 @@
 ---
 title: Zajímá mě porozumění
-type: podnebi
-layout: single
+type: cs
+layout: index
 description: Jsem designér, programátor a učitel na volné noze. Při řešení problémů využívám technologie.
+featuredProjects:
+  - projekty/planovaci-karty
+  - projekty/demagog
+  - projekty/wordsbytes
 ---
-<img class="portrait" src="/assets/migrated/portrait.jpg" alt="A photo of me: gazing into the camere in a Dreamer t-shirt.">
-
-## *Zajímá mě porozumění.*
-
-Jsem designér, programátor a učitel na volné noze.  
-Při řešení problémů využívám technologie.  
-Mám zázemí v sociologii, politologii a studiu médií.
-
 ## V těchto dnech
 
 - Navrhuji *dobrou elektronickou publikaci* s [Ivanou Lukeš Rybanskou][ivana].

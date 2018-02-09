@@ -16,39 +16,40 @@
   --trans-sepia: rgba(115, 64, 33, 0.1);
 
   /* chroma */
-  --chroma-keyword: #006699;
-  --chroma-operator: #555555;
-  --chroma-operator-word: #000000;
-  --chroma-number: #ff6600;
-  --chroma-string: #cc3300;
-  --chroma-regex: #33aaaa;
-  --chroma-symbol: #ffcc33;
-  --chroma-prompt: #000099;
-  --chroma-error: #aa0000;
-  --chroma-error-bg: #ffaaaa;
-  --chroma-deleted: #ffcccc;
-  --chroma-comment: #0099ff;
-  --chroma-comment-pre: #009999;
-  --chroma-line: #ffffcc;
-  --chroma-na: #330099;
-  --chroma-nb: #336666;
-  --chroma-nc: #00aa88;
-  --chroma-no: #336600;
-  --chroma-nd: #9999ff;
-  --chroma-ni: #999999;
-  --chroma-ne: #cc0000;
-  --chroma-nf: #cc00ff;
-  --chroma-nl: #9999ff;
-  --chroma-nn: #00ccff;
-  --chroma-nt: #330099;
-  --chroma-nv: #003333;
-  --chroma-gr: #ff0000;
-  --chroma-gh: #003300;
-  --chroma-gi: #ccffcc;
-  --chroma-go: #aaaaaa;
-  --chroma-gu: #003300;
-  --chroma-gt: #99cc66;
-  --chroma-w: #bbbbbb;
+  --chroma-keyword: #069;
+  --chroma-operator: #555;
+  --chroma-operator-word: #000;
+  --chroma-number: #f60;
+  --chroma-string: #c30;
+  --chroma-regex: #3aa;
+  --chroma-symbol: #fc3;
+  --chroma-prompt: #009;
+  --chroma-error: #a00;
+  --chroma-error-bg: #faa;
+  --chroma-deleted: #fcc;
+  --chroma-comment: #09f;
+  --chroma-comment-pre: #099;
+  --chroma-line: #ffc;
+  --chroma-kt: #078;
+  --chroma-na: #309;
+  --chroma-nb: #366;
+  --chroma-nc: #0a8;
+  --chroma-no: #360;
+  --chroma-nd: #99f;
+  --chroma-ni: #999;
+  --chroma-ne: #c00;
+  --chroma-nf: #c0f;
+  --chroma-nl: #99f;
+  --chroma-nn: #0cf;
+  --chroma-nt: #309;
+  --chroma-nv: #033;
+  --chroma-gr: #f00;
+  --chroma-gh: #030;
+  --chroma-gi: #cfc;
+  --chroma-go: #aaa;
+  --chroma-gu: #030;
+  --chroma-gt: #9c6;
+  --chroma-w: #bbb;
 
   background-image: url('/img/horizontal.svg'), url('/img/horizontal.svg');
   background-position: 50% -620px, 50% 112%;
@@ -65,8 +66,14 @@ article {
   max-width: 42rem;
 }
 
+section {
+  overflow: hidden;
+  margin: 0 0 2rem;
+}
+
 footer {
-  padding: 0 2rem 4rem;
+  background: var(--trans-sepia);
+  padding: 2rem 2rem 4rem;
 }
 
 p,
@@ -137,12 +144,6 @@ main a:visited {
 }
 
 header {
-  /* full-width */
-  width: 100vw;
-  max-width: none;
-  margin-left: -50vw;
-  position: relative;
-  left: 50%;
   padding: 2rem;
   display: flex;
 }
@@ -160,12 +161,19 @@ header nav li {
 
 header h1 {
   font-size: 1rem;
+  line-height: 1.6em;
   flex: 1;
   margin: 0;
 }
 
+header h1 .subtitle {
+  font-weight: normal;
+}
+
 header nav li { margin-left: 1rem; }
 header nav li:last-child { margin-left: 2rem; }
+
+footer header { padding: 0 0 1rem; }
 
 hr {
   margin: 3rem auto;
@@ -237,22 +245,24 @@ article h1 {
   padding-bottom: 0;
 }
 
-article p.date {
+article p.date,
+article p.subtitle {
   text-align: center;
   color: var(--faint);
   margin: 0 0 3rem;
 }
 
+article.page h1 {
+  position: static;
+  width: auto;
+  margin: 2rem 0;
+  padding: 0;
+  text-align: left;
+}
+
 main.home {
   margin: 0;
   max-width: none;
-}
-
-main.home h1 {
-  text-align: left;
-  padding-top: 0;
-  padding-bottom: 0;
-  margin-bottom: 1rem;
 }
 
 .brick {
@@ -267,19 +277,9 @@ main.home h1 {
   background: linear-gradient(135deg, var(--trans-bg) 0%, var(--pink) 100%);
 }
 
-.large-brick {
-  flex: 2;
-}
-
-.brick h2 {
+.brick h3 {
   font-size: 1.5rem;
-  margin: 0;
-  padding: 3rem 1rem 1rem;
-}
-
-.large-brick h2 {
-  font-size: 2rem;
-  padding: 2rem 1rem 1rem;
+  margin: 2rem 1rem 1rem;
 }
 
 .brick img {
@@ -299,8 +299,7 @@ main.home h1 {
 .brick .summary {
   height: 6rem;
   overflow: hidden;
-  padding: 0 1rem;
-  margin: 0;
+  margin: 0 1rem;
 }
 
 .brick .date {
@@ -308,10 +307,84 @@ main.home h1 {
   font-weight: bold;
 }
 
+.large-brick h3 {
+  font-size: 2rem;
+  margin: 2rem 1rem 1rem;
+}
+
+.large-brick {
+  flex: 2;
+}
+
+.project-brick h3 {
+  margin-top: 0.5rem;
+}
+
+.project-brick .summary {
+  margin-bottom: 1rem;
+  height: auto;
+}
+
+.project-brick img {
+  position: static;
+  height: 60px;
+  opacity: 0.5;
+  margin: 1rem 0 0.5rem 1rem;
+}
+
+.portrait {
+  float: left;
+  display: block;
+  max-width: 200px;
+  margin-right: 1rem;
+  opacity: 0.8;
+}
+
+.project-icon {
+  display: block;
+  margin: -100px auto 1rem;
+  opacity: 0.5;
+  height: 100px;
+}
+
+.icon {
+  opacity: 0.5;
+}
+
+.inline-icon {
+  display: inline-block;
+  margin: -0.5% 0 0;
+  width: auto;
+  height: 1.4em;
+  opacity: 0.6;
+}
+
+.brick .icon svg {
+  height: 100px;
+}
+
+main.home h2,
+.divider {
+  border-bottom: 3px solid var(--pink);
+}
+
+.divider {
+  font-size: 1rem;
+  color: var(--pink);
+}
+
 @media screen and (min-width: 700.1px) {
   .row { display: flex; }
   .brick { flex: 1; }
   .large-brick { flex: 2; }
+
+  main.home h2 {
+    text-align: left;
+    padding: 0.5rem 0;
+    margin-bottom: 0;
+    font-size: 1rem;
+    color: var(--pink);
+  }
 }
 
 @media screen and (max-width: 700px) {
@@ -320,13 +393,21 @@ main.home h1 {
     padding-top: 1rem;
   }
 
-  header,
   footer,
   article,
   main { padding: 0 1rem; }
 
-  header { display: block; }
+  header {
+    display: block;
+    padding: 0 1rem 1rem;
+  }
   header h1 { font-size: 1.5rem; }
+
+  footer {
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    margin-top: 3rem;
+  }
 
   header nav {
     text-align: left;
@@ -341,7 +422,8 @@ main.home h1 {
     padding: 1rem;
   }
 
-  article p.date { text-align: left; }
+  article p.date,
+  article p.subtitle { text-align: left; }
 
   article > img,
   article > figure > img,
@@ -353,7 +435,39 @@ main.home h1 {
     left: 50%;
   }
 
+  main.home h2 {
+    padding: 0 1rem 0.5rem;
+    margin: 3rem -1rem 0;
+  }
+
+  .inline-icon {
+    position: static;
+  }
+
+  .project-icon {
+    margin: 1rem 0;
+    float: right;
+  }
+
+  .brick {
+    margin: 0 -1rem;
+  }
+
   .brick p.date { padding-bottom: 1rem; }
+
+  .project-brick h3 {
+    margin-top: 1rem;
+  }
+
+  .project-brick img {
+    float: right;
+    height: 60px;
+    margin: 1rem;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .portrait { max-width: 100%; }
 }
 
 /* CHROMA */
@@ -446,7 +560,7 @@ main.home h1 {
 
 /* KeywordType */
 .chroma .kt {
-  color: #007788;
+  color: var(--chroma-kt);
   font-weight: bold;
 }
 

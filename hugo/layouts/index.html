@@ -1,6 +1,6 @@
 {{ define "main" }}
 <main class="home">
-  <h1>words</h1>
+  <h2>words</h2>
   <div class="row">
   {{ range $i, $article := first 2 .Params.articles }}
     {{ $page := $.Site.GetPage "page" . }}
@@ -29,6 +29,17 @@
   {{ end }}
   </div>
 
-  {{ .Content }}
+
+  <h2>me</h2>
+
+  <img class="portrait" src="/assets/migrated/portrait.jpg" alt="A photo of me: gazing into the camere in a Dreamer t-shirt.">
+
+  <p>
+    I am a freelance designer, coder and teacher.<br>
+    I use technology to cope with problems.<br>
+    My background is in sociology, political science and media studies.
+  </p>
+
+  <p><b>I am interested in&nbsp;understanding.</b></p>
 </main>
 {{ end }}
