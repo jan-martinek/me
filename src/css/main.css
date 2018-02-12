@@ -229,15 +229,9 @@ article > p > img {
 
 article h1,
 main h1 {
-  /* full-width */
-  width: 100vw;
-  margin-left: -50vw;
-  position: relative;
-  left: 50%;
   margin-top: 2rem;
   margin-bottom: 2rem;
   padding: 2rem;
-  text-align: center;
 }
 
 article h1 {
@@ -247,7 +241,6 @@ article h1 {
 
 article p.date,
 article p.subtitle {
-  text-align: center;
   color: var(--faint);
   margin: 0 0 3rem;
 }
@@ -373,10 +366,24 @@ main.home h2,
   color: var(--pink);
 }
 
-@media screen and (min-width: 700.1px) {
+@media screen and (min-width: 600.1px) {
   .row { display: flex; }
   .brick { flex: 1; }
   .large-brick { flex: 2; }
+
+  article h1,
+  main h1 {
+    width: 100vw;
+    margin-left: -50vw;
+    position: relative;
+    left: 50%;
+    text-align: center;
+  }
+
+  article p.date,
+  article p.subtitle {
+    text-align: center;
+  }
 
   main.home h2 {
     text-align: left;
@@ -387,7 +394,7 @@ main.home h2,
   }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 600px) {
   :root {
     font-size: 15px;
     padding-top: 1rem;
@@ -418,12 +425,8 @@ main.home h2,
 
   article h1,
   main h1 {
-    text-align: left;
-    padding: 1rem;
+    padding: 0;
   }
-
-  article p.date,
-  article p.subtitle { text-align: left; }
 
   article > img,
   article > figure > img,
