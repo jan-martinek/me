@@ -1,9 +1,10 @@
 ---
-title: 'Jak oslovit ženu v různých situacích — případové studie. Díl čtvrtý: Ve&nbsp;výtahu.'
+title: 'Díl čtvrtý: Ve&nbsp;výtahu.'
 date: '2014-05-01 15:10:28 +0200'
 date_gmt: '2014-05-01 14:10:28 +0200'
 category: kolem
 tags: []
+series: [Jak oslovit ženu v různých situacích — případové studie.]
 comments: []
 ---
 <p>Přes rameno máš koženou tašku typu messenger a najednou stojíš ztuhlý a necelých 17 metrů před tebou se otevírají dveře výtahu. To však není to hlavní. Každý den přicházíš do firemního sídla, pečlivě oholen a s chorobnou touhou pozměnit osud tisíců uživatelů mobilní aplikace jednoduše nazvané "Vydrž!". Dnes však sleduješ tu, jejíž osobní zájmeno by romantičtěji naladěný student střední školy načal verzálkou zatímco diskutér na Novinky.cz by pro stejný účel neváhal využít ani klávesy CAPS LOCK v celém rozsahu onoho krátkého slova hraničícího svou konotovanou jemností s květy stromů, které kvetou až na úplném na konci jara, a jejíž oči zastaví i nejoddanějšího příznivce hermeneutiky na jeho cestě mezi zkušeností a porozuměním.</p>
@@ -30,6 +31,3 @@ Kreslíš modrou fixou na flipchart a víš, že na to máš málo času. Odpov�
 <p><strong>Budoucnost</strong><br />
 Odjíždíš ze sedmého patra spolu s její vůní a telefonním číslem, napsaným zelenou fixou v pravém horním rožku jinak téměř rovnoměrně popsaného flipchartu. Po zavření dveří se odklopí poklop na stropě kabiny výtahu a kolem tvých náhle zcela unavených rukou propadne na podlahu pugét lučních květin. Ne každá životní situace musí být do detailu smysluplně vypointovaná. „A ano, mohl jsem být stručnější a přímočařejší.“ Zpětně je všechno nevykonané obhajitelnější.</p>
 <p>Sehneš se pro květiny. Pak utrhneš list papíru z flipchartu a sroluješ ho, vypneš vibrační stresové upozornění na svých kardio hodinkách, přečteš si dobře míněnou narychlo psanou zprávu od kolegy <em>„Zny pirtahjue sebeveodmi!!”</em> a vystoupíš z výtahu do kanceláří devátého patra. Kanceláří prosvětlených ranním sluncem.</p>
-<hr>
-<p style="text-align: center"><strong>Všechny díly:</strong><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-prvni-u-kadernice/">Díl první: U kadeřnice.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-druhy-na-twitteru/">Díl druhý: Na Twitteru.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-treti-na-louce">Díl třetí: Na louce.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-ctvrty-ve-vytahu/">Díl čtvrtý: Ve výtahu.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-paty-v-divadle/">Díl pátý: V divadle.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-sesty-vlastni-blbosti/">Díl šestý: Vlastní blbostí.</a><br />
-<a href="http://podnebi.jan-martinek.com/10-tipu-pro-osloveni-zeny-prostrednictvim-obsahu/">Díl sedmý: Prostřednictvím obsahu.</a></p>

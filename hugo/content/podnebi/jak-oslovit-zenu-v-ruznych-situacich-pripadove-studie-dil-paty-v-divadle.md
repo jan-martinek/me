@@ -1,9 +1,10 @@
 ---
-title: 'Jak oslovit ženu v různých situacích — případové studie. Díl pátý: V&nbsp;divadle.'
+title: 'Díl pátý: V&nbsp;divadle.'
 date: '2014-05-02 13:11:23 +0200'
 date_gmt: '2014-05-02 12:11:23 +0200'
 category: kolem
 tags: []
+series: [Jak oslovit ženu v různých situacích — případové studie.]
 comments: []
 ---
 <p><em>Různé divadelní druhy a žánry vyžadují zcela odlišné strategie oslovení ženy.</em></p>
@@ -39,6 +40,3 @@ V případě neúspěchu spáchejte seppuku. Definice neúspěchu závisí na va
 Své nejhlubší pocity vyjádřete pomocí rozžhaveného žulového bloku a stříkáním syrové ropy z připraveného kanystru. Přesvědčte své okolí, že i tato doména osobního je politická. (Pozor, ropa je docela viskózní. Proto je nutné pořídit kanystr s dostatečně širokým ústím.)</p>
 <p><strong>Představení se zapojením diváků</strong><br />
 Pokud chodíte rádi a často na představení zapojující diváka do dění, nejspíše je pro vás čtení tohoto článek zbytečné. Jak zlomyslné je umístit tento fakt až na konec článku, že? Lolík!</p>
-<hr>
-<p style="text-align: center"><strong>Všechny díly:</strong><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-prvni-u-kadernice/">Díl první: U kadeřnice.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-druhy-na-twitteru/">Díl druhý: Na Twitteru.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-treti-na-louce">Díl třetí: Na louce.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-ctvrty-ve-vytahu/">Díl čtvrtý: Ve výtahu.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-paty-v-divadle/">Díl pátý: V divadle.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-sesty-vlastni-blbosti/">Díl šestý: Vlastní blbostí.</a><br />
-<a href="http://podnebi.jan-martinek.com/10-tipu-pro-osloveni-zeny-prostrednictvim-obsahu/">Díl sedmý: Prostřednictvím obsahu.</a></p>

@@ -1,9 +1,10 @@
 ---
-title: 'Jak oslovit ženu v různých situacích — případové studie. Díl třetí: Na&nbsp;louce.'
+title: 'Díl třetí: Na&nbsp;louce.'
 date: '2014-04-30 15:32:47 +0200'
 date_gmt: '2014-04-30 14:32:47 +0200'
 category: kolem
 tags: []
+series: [Jak oslovit ženu v různých situacích — případové studie.]
 comments: []
 ---
 <p><em>S Radimem Okrouhlým, specialistou na louky a jejich flóru, faunu a socio-historický vývoj, jsme se bavili především o tom, jak obtížné je oslovit ženu na louce.</em></p>
@@ -18,6 +19,3 @@ comments: []
 <p><strong>Poslední dotaz. Pokud by se milému čtenáři podařilo oslovit ženu na louce: existují nějaká rizika, kterých by si měl být vědom?</strong></p>
 <p>Kravince a klíšťata. (vážná tvář)</p>
 <p><strong>Děkuji za rozhovor. (vážná tvář)</strong></p>
-<hr>
-<p style="text-align: center"><strong>Všechny díly:</strong><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-prvni-u-kadernice/">Díl první: U kadeřnice.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-druhy-na-twitteru/">Díl druhý: Na Twitteru.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-treti-na-louce">Díl třetí: Na louce.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-ctvrty-ve-vytahu/">Díl čtvrtý: Ve výtahu.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-paty-v-divadle/">Díl pátý: V divadle.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-sesty-vlastni-blbosti/">Díl šestý: Vlastní blbostí.</a><br />
-<a href="http://podnebi.jan-martinek.com/10-tipu-pro-osloveni-zeny-prostrednictvim-obsahu/">Díl sedmý: Prostřednictvím obsahu.</a></p>

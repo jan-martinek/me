@@ -1,9 +1,10 @@
 ---
-title: Jak oslovit ženu v různých situacích — bonusy na DVD
+title: Bonusy na DVD
 date: '2014-05-22 11:37:03 +0200'
 date_gmt: '2014-05-22 10:37:03 +0200'
 category: kolem
 tags: []
+series: [Jak oslovit ženu v různých situacích — případové studie.]
 comments: []
 ---
 <p>Hluboká erudice nedávno publikovaného seriálu vzbudila vlnu požadavků na osvětlení stejného aktu při jiných příležitostech a na jiných místech. Bohužel není možné uspokojit všechny, proto se v tomto bonusovém vydání věnujeme pouze těm nejčastějším dotazům. Některé odpovědi byly získány dotazováním jiných expertům, jimž zde — bez sebemenší potřeby dotyčné jmenovat — děkujeme. </p>
@@ -46,8 +47,3 @@ comments: []
 <hr>
 <p><strong>Kde najdu zkrácenou verzi?</strong></p>
 <p>Nikde.</p>
-<hr>
-<p style="text-align: center"><strong>Všechny díly:</strong><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-prvni-u-kadernice/">Díl první: U kadeřnice.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-druhy-na-twitteru/">Díl druhý: Na Twitteru.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-treti-na-louce">Díl třetí: Na louce.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-ctvrty-ve-vytahu/">Díl čtvrtý: Ve výtahu.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-paty-v-divadle/">Díl pátý: V divadle.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-sesty-vlastni-blbosti/">Díl šestý: Vlastní blbostí.</a><br />
-<a href="http://podnebi.jan-martinek.com/10-tipu-pro-osloveni-zeny-prostrednictvim-obsahu/">Díl sedmý: Prostřednictvím obsahu.</a></p>
-<hr>
-<p style="text-align: center"> Napište mi na twitteru <a href="http://twitter.com/endlife_cs">@endlife_cs</a>.</p>

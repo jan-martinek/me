@@ -3,6 +3,19 @@
   <h1>{{ htmlUnescape .Title }}</h1>
   <p class="date">{{ .Date.Local.Format "January 2, 2006" }}</p>
   {{ .Content }}
+
+  {{ if .Params.series }}
+    <hr>
+    <h2>{{ index (.Params.series) 0 }}</h2>
+    <ul>
+      {{ $series := .Params.series }}
+      {{ range .Site.Pages.Reverse }}
+        {{ if $has_common_series := intersect $series .Params.series | len | lt 0 }}
+          <li><a href="{{ .RelPermalink }}">{{ htmlUnescape .Title }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  {{ end }}
 </article>
 {{ end }}
 

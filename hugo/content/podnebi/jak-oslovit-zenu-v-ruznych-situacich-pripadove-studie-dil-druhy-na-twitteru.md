@@ -1,9 +1,10 @@
 ---
-title: 'Jak oslovit ženu v různých situacích — případové studie. Díl druhý: Na&nbsp;Twitteru.'
+title: 'Díl druhý: Na&nbsp;Twitteru.'
 date: '2014-04-29 19:18:44 +0200'
 date_gmt: '2014-04-29 18:18:44 +0200'
 category: kolem
 tags: []
+series: [Jak oslovit ženu v různých situacích — případové studie.]
 comments: []
 ---
 <p>Dnes se seznámíme s netriviálním, zato ale velmi názorným, pečlivě zdokumentovaným a spolehlivým postupem, jak oslovit ženu, na niž a/nebo na jejíž komunikační artefakty se již nějaký čas upírá váš zrak, prostřednictvím nejsebestřednější sociální sítě — Twitteru.</p>
@@ -29,6 +30,3 @@ comments: []
 <li>Nahromaděnou pozitivní energii můžete využít i jinak, například k nákupu letenek do Francie či Nizozemí, k opravě dlouho pokažené kuchyňské vodovodní baterie nebo k experimentování s čerstvě vylovenými úhoři.</li>
 <li>Pokud je vaším záměrem celou operaci vykonat pomocí mobilního telefonu či tabletu, rozhodně nepoužívejte zmíněné klávesové zkratky! Za současného stavu techniky však takový postup nemůžeme doporučit.</li>
 </ul>
-<hr>
-<p style="text-align: center"><strong>Všechny díly:</strong><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-prvni-u-kadernice/">Díl první: U kadeřnice.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-druhy-na-twitteru/">Díl druhý: Na Twitteru.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-treti-na-louce">Díl třetí: Na louce.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-ctvrty-ve-vytahu/">Díl čtvrtý: Ve výtahu.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-paty-v-divadle/">Díl pátý: V divadle.</a><br><a href="http://podnebi.jan-martinek.com/jak-oslovit-zenu-v-ruznych-situacich-pripadove-studie-dil-sesty-vlastni-blbosti/">Díl šestý: Vlastní blbostí.</a><br />
-<a href="http://podnebi.jan-martinek.com/10-tipu-pro-osloveni-zeny-prostrednictvim-obsahu/">Díl sedmý: Prostřednictvím obsahu.</a></p>
