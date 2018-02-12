@@ -7,18 +7,29 @@
 
   {{ $title := delimit (slice .Title "&middot;" .Site.Title) " " }}
   <title>{{ $title }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary | plainify }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
 
-  <meta name="description" content="{{ .Description }}">
   <link rel="canonical" href="{{ .Permalink }}">
 
-  <link rel="manifest" href="{{ "/manifest.json" | relURL }}">
+  <link rel="manifest" href="{{ "/manifest.webmanifest" | relURL }}">
   <meta name="application-name" content="{{ $title }}">
-  <meta name="theme-color" content="#2271ff">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#e2dbdf">
+  <meta name="msapplication-TileColor" content="#e2dbdf">
+  <meta name="theme-color" content="#e2dbdf">
 
   {{ if .RSSLink }}
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ $title }}" />
     <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ $title }}" />
   {{ end }}
+
+  {{ partial "og.html" . }}
+  {{ template "_internal/google_news.html" . }}
+  {{ template "_internal/schema.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
 
   <link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700|Inconsolata:400,700&subset=latin-ext" rel="stylesheet">
   <link rel="stylesheet" href="{{ "static/css/main.css" | relURL }}">

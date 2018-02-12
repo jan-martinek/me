@@ -1,7 +1,7 @@
 ---
 # Site
-baseurl: "https://jan-martinek.com"
-title: "Jan Martinek"
+baseurl: "https://www.jan-martinek.com"
+title: Jan Martinek
 enableRobotsTXT: true
 googleAnalytics: "UA-563461-2"
 # Content
@@ -11,6 +11,12 @@ defaultContentLanguage: "en"
 metaDataFormat: "yaml"
 pygmentsUseClasses: true
 pygmentsCodeFences: true
+
+params:
+  author: Jan Martinek
+  description: What is humane digital future like? Let's find out together. Trying to teach && learn, design && build, talk && share.
+  site_description: What is humane digital future like? Let's find out together. Trying to teach && learn, design && build, talk && share.
+  images: ["https://www.jan-martinek.com/img/blank.png"]
 
 taxonomies:
   language: lang

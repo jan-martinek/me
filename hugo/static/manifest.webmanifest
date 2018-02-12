@@ -1,0 +1,27 @@
+{
+  "dir": "ltr",
+  "name": "Jan Martinek: words && bytes",
+  "description": "Writing about humane digital future.",
+  "short_name": "words && bytes",
+  "icons": [{
+    "src": "/img/icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  },
+  {
+    "src": "/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "scope": "/",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "theme_color": "#D0C3E0",
+  "background_color": "#F3EDE6"
+}
