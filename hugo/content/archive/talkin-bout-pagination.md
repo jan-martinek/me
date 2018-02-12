@@ -4,7 +4,7 @@ keywords: reading, digital, page, book
 date: 2017-06-21
 projects: [next-book]
 ---
-Cheap title? Maybe. Though, when you think about book as an object, pagination is its nature. It defines how one interacts with a book. It's *the central affordance* of a book.
+When you think of a book as of an object, you may find that pagination is its nature. It defines how one interacts with a book. It becomes *the central affordance* of a book.
 
 > [Book] came to replace the scroll thanks to several problems that limited the scroll's function and readability. For one, scrolls were very long, sometimes as long as ten meters. This made them hard to hold open and read, a difficulty not helped by the fact that most scrolls in that era were read horizontally, instead of vertically as scrolling virtual documents are read now.
 > 
