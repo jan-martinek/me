@@ -2,7 +2,9 @@
   Link: </static/css/main.css>; rel=preload; as=style
 
 /favicon*
+  cache-control: public, max-age=31536000, immutable
 /assets/*
+  cache-control: public, max-age=31536000, immutable
 /img/*
   cache-control: public, max-age=31536000, immutable
 
