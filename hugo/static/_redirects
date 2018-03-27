@@ -1,3 +1,4 @@
+https://jan-martinek.netlify.com/* https://www.jan-martinek.com/:splat 301!
 /etc/* http://etc.jan-martinek.com/:splat
 /tmp/* http://tmp.jan-martinek.com/:splat
 /adminer/* http://adminer.jan-martinek.com/:splat
