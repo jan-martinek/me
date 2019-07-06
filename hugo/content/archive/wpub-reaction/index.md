@@ -96,13 +96,13 @@ Other than that, most of the functionality is achievable in any browser as it is
 
 
 
-next-book aims to define standardized interfaces and procedures that may be implemented using the current open web technologies.
+<!-- next-book aims to define standardized interfaces and procedures that may be implemented using the current open web technologies. -->
 
 
-based the open web, let’s bring the books to the open web.
+<!-- based the open web, let’s bring the books to the open web. -->
 
 
-Next-book is an idea, a prototype and set of area worth of standardizing. Inste
+<!-- Next-book is an idea, a prototype and set of area worth of standardizing. Inste -->
 
 
 
