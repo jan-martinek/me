@@ -133,11 +133,13 @@ WPUB works with a very broadly defined “publication” and that comes at a cos
 
 Some uses such as alphabetically ordered “Encyclopedia of Stuff” [UC40] feel outdated in a digital format. Not necessarily wrong to be published as a publication, but it does not feel right to apply a concept of “a reading order” to them. 
 
-When working on next-book, it took some time to arrive at a definition of what a book is — we came to something along the lines of *“a longer text that the reader might want to read over multiple sittings”*, where text might be multimedia, reader might be listener and reading might include annotating or restructuring the text. Yes, it’s not easy.
+- I believe it’s important to exclude many things that ever existed on paper solely because paper was the only medium that carried print.
+
+When working on next-book, it took us some time to arrive at a definition of what a book is — we came to something along the lines of *“a self-contained, static, rich, mostly linear, longer text that the reader might want to read in large chunks*, where reading might include annotating or restructuring the text. Yes, it’s not easy.
 
 We wanted to create a basic building block of a very wide spectrum of social interactions: from reading calmly in a public space to searching in the book collection via regular expressions to checking the bookshelf at a friend’s house.
 
-(And we did not want to use any form of the word „consumption“ as the description of what people primarily do with publications.)
+And we did not want to use any form of the word „consumption“ as the description of what people primarily do with publications.
 
 [UC40]: https://w3c.github.io/dpub-pwp-ucr/#uc_reading-order_alphabetical
 [UC42]: https://w3c.github.io/dpub-pwp-ucr/#uc_toc_answers
