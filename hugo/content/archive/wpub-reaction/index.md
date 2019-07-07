@@ -22,9 +22,9 @@ style: |
 >
 > — [Publishing WG Telco, 2019-07-01][telco]
 
-WPUB intended to bring publishing to the open web, similarly as [next-book][nb], a cute little octopus-shaped project I’ve been working on for some time now (I’ll briefly introduce it below, no need to click away).
+WPUB intended to bring publishing to the open web. I've been observing the drafting process over the last two years and rewriting a comparison between WPUB and [next-book][nb], a cute little octopus-shaped project I’ve been working on for some time now (I’ll briefly introduce it below, no need to click away). Both approaches appear similar in broad terms, but differ in ambitions and solutions.
 
-I've been observing the drafting process over the last two years and rewriting a comparison of those two approaches in their ambitions and solutions. This might be the right moment to share it because the value proposition is quite monumental — and believable:
+This might be the right moment to share the article because the value proposition of publishing on the web is quite monumental — and believable:
 
 > We believe there is great value in combining this older tradition of portable, bounded publications with the pervasive accessibility, addressability, and interconnectedness of the Open Web Platform (OWP). **New models of economic sustainability and innovative experiences of knowledge depend on this.** 
 >
@@ -285,6 +285,8 @@ Thus, if there‘s anything that is worth taking over from EPUB to next-book *as
 - I’ll try to work with some institution that creates book-shaped content to produce next-book at some scale over the summer. (I’m eyeing [Standard E-books][standard] for a long time, but I did not feel that the prototype is good enough.)
 
 - I’ll try to work with an academic publisher (or similar) that produces books at scale, so that next-book is tried in a production environment.
+
+- I’ll cover the code of the prototype with automated tests to make contributing easier.
 
 If you feel that all this is in any way good, please let me know. If you’d like to join forces in any way, please let me know right now! 
 
