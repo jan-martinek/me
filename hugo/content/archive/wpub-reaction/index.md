@@ -243,7 +243,7 @@ When we started thinking about the soon-to-be next-book in late 2016, I checked 
 
 This is the dark side that I have to acknowledge: I knew little about EPUB when defining and implementing next-book. 
 
-I still know just a little now and most of what I register are terrified shrieks published under #eprdctn hashtag (okay, it’s not that bad, bud it doesn‘t feel comforting). I believe that a lot will be lost with the transition to the open web, but at the same time, I don’t think it’s worth 
+I still know just a little now and most of what I register are terrified shrieks published under #eprdctn hashtag (okay, it’s not that bad, bud it doesn‘t feel comforting). I believe that a lot will be lost with the transition to the open web, but at the same time, I don’t think it’s worth the opportunity of opening the possibilities.
 
 Thus, if there‘s anything that is worth taking over from EPUB to next-book *as is*, I might be for it. I just might not know about it. And crucially, I'm not the one to say what’s good.
 
@@ -282,13 +282,15 @@ Thus, if there‘s anything that is worth taking over from EPUB to next-book *as
 
 - I’ll try to conform with WPUB manifest spec in next-book as much as possible, so that next-book effectively *becomes WPUB*.
 
-- I’ll try to bring in more people, so that the project gets a more realistic outline — in it’s vision, schope, short time goals etc.
+- I’ll try to bring the in-browser UI of a basic next-book to the level of a standard e-book.
 
 - I’ll try to work with some institution that creates book-shaped content to produce next-book at some scale over the summer. (I’m eyeing [Standard E-books][standard] for a long time, but I did not feel that the prototype is good enough.)
 
 - I’ll try to work with an academic publisher (or similar) that produces books at scale, so that next-book is tried in a production environment.
 
 - I’ll cover the code of the prototype with automated tests to make contributing easier.
+
+- I’ll try to bring in more people, so that the project gets a more realistic outline — in it’s vision, schope, short time goals etc. (And to make all these goals above to use plural pronouns, haha.)
 
 If you feel that all this is in any way good, please let me know. If you’d like to join forces in any way, please let me know right now! 
 
