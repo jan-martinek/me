@@ -133,13 +133,16 @@ WPUB works with a very broadly defined “publication” and that comes at a cos
 
 Some uses such as alphabetically ordered “Encyclopedia of Stuff” [UC40] feel outdated in a digital format. Not necessarily wrong to be published as a publication, but it does not feel right to apply a concept of “a reading order” to them. 
 
-- I believe it’s important to exclude many things that ever existed on paper solely because paper was the only medium that carried print.
 
-When working on next-book, it took us some time to arrive at a definition of what a book is — we came to something along the lines of *“a self-contained, static, rich, mostly linear, longer text that the reader might want to read in large chunks*, where reading might include annotating or restructuring the text. Yes, it’s not easy.
+### Defining a publication
+
+When working on next-book, it took us some time to arrive at a definition of what a book is — we came to something along the lines of *“a self-contained, static, rich, mostly linear, longer text that the reader might want to read in large chunks”*, where reading might include all manner of active reception. Yes, it’s not easy.
 
 We wanted to create a basic building block of a very wide spectrum of social interactions: from reading calmly in a public space to searching in the book collection via regular expressions to checking the bookshelf at a friend’s house.
 
-And we did not want to use any form of the word „consumption“ as the description of what people primarily do with publications.
+Also, we did not want to use any form of the word „consumption“ as the description of what people primarily do with publications. Maybe that’s what made us to keep the word “book” in the name instead of more general term — it’s reasonable to widen the application of a standard and to focus on a core concept to keep it stable at the same time.
+
+I believe it’s important to intentionally exclude from a definition many things that ever existed on paper solely because paper was the only medium that carried print. Without such discussion, we drag the future into the past.
 
 [UC40]: https://w3c.github.io/dpub-pwp-ucr/#uc_reading-order_alphabetical
 [UC42]: https://w3c.github.io/dpub-pwp-ucr/#uc_toc_answers
@@ -301,6 +304,8 @@ I want to know whether this is a workable future for me by March 2020, so any en
 
 ## Credit
 
-I’m mostly to blame for the development of next-book in the last two years. It would be much harder without support from [Nová beseda][beseda] publishing house and it would not exist without a very intensive first six months of development with [Ivana Lukeš Rybanská](https://twitter.com/ifcen).
+I’m mostly to blame for the development of next-book in the last two years. It would be much harder without support from [Nová beseda][beseda] publishing house and it would not exist without a very intensive first six months of idea development with [Ivana Lukeš Rybanská](https://twitter.com/ifcen). Thanks!
+
+
 
 
