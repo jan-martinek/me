@@ -43,9 +43,10 @@ Not everything can be done this way (packaging, local management), but we can ta
 
 [www]: https://www.w3.org/History/1989/proposal.html
 
+
 ## EPUB, WPUB, and next-book
 
-  
+I draw the comparison in very broad strokes, please shout “objection!” if you see any error in my thinking (and then ping me on twitter maybe, if you are not in a hearing distance).
 
 ![](./comparison.svg)
 
@@ -65,7 +66,7 @@ Mobi is obvious; EPUB is open, but it relies on an ecosystem of several vendors 
 Browsers are now getting “streamlined“ in ways that hinder their use for web navigation (such as concealing the path in the address bar), but they’re still usable as a general way to reach any HTML file on the web.
 
 
-# What is impossible with today’s browsers
+## What is impossible with today’s browsers
 
 **Local content management**, be it books or apps needs primary conceptualization. [Offline apps][pwas] are technically viable, but the experience is still confusing: surviving disconnection feels natural (just a bit spooky), but it still feels weird to type a web URL into address bar while offline.
 
@@ -269,21 +270,21 @@ Thus, anything worth taking over from EPUB to the open web *as is*, let’s take
 
 ## The current shape of the next-book
 
-- It’s (not just) an idea.
+It’s (not just) an idea.
 
-- There’s a working second generation prototype (book generator and browser code). The prototype is not the next-book, it’s a working implementation.
+There’s a working second generation prototype (book generator and browser code). The prototype is not the next-book, it’s a working implementation.
 
-- It’s incomplete, buggy, and not [well documented][docs], sometimes the prototype *is the documentation* of the idea. Many ideas are just coded in, as the field is so vast (possibly more than ten football fields).
+It’s incomplete, buggy, and not [well documented][docs], sometimes the prototype *is the documentation* of the idea. Many ideas are just coded in, as the field is so vast (possibly more than ten football fields).
 
-- There’s no prototype of the *sync functionality* — a web service that stores book‘s state and allows keeping the book in sync over different devices. Publishers, book clubs, local “bookshelf” apps, etc. may use such a service. (Locally managed server might be the way to overcome the packaging limitation of current browsers — and maybe to free browsers the problem completely.)
+There’s no prototype of the *sync functionality* — a web service that stores book‘s state and allows keeping the book in sync over different devices. Publishers, book clubs, local “bookshelf” apps, etc. may use such a service. (Locally managed server might be the way to overcome the packaging limitation of current browsers — and maybe to free browsers the problem completely.)
 
-- Everything’s [up on Github][gh].
+Everything’s [up on Github][gh].
 
-- There’s a reference edition of [Lawrence Lessig’s Free Culture][fc]. Right now there’s a project backed by a Czech publisher [Nová Beseda][beseda] that focuses on annotation practices and allows me to work on next-book part-time (last year some publishers tried next-book in a similar project and [produced their own books][nbeu]).
+There’s a reference edition of [Lawrence Lessig’s Free Culture][fc]. Right now there’s a project backed by a Czech publisher [Nová Beseda][beseda] that focuses on annotation practices and allows me to work on next-book part-time (last year some publishers tried next-book in a similar project and [produced their own books][nbeu]).
 
-- Only a handful of people touched the code, most of them not voluntarily (just another assignment in an IT job at a publisher).
+Only a handful of people touched the code, most of them not voluntarily (just another assignment in an IT job at a publisher).
 
-- I’m aware that I might be rediscovering the wheel, but there are *so many* wheels that you need to mount on every web project.
+I’m aware that I might be rediscovering the wheel, but there are *so many* wheels that you need to mount on every web project.
 
 [gh]: https://github.com/next-book
 [fc]: https://github.com/next-book/free-culture
@@ -294,17 +295,19 @@ Thus, anything worth taking over from EPUB to the open web *as is*, let’s take
 
 ## Next steps
 
-- I’ll try to conform with WPUB manifest spec in next-book as much as possible so that next-book effectively *becomes WPUB*.
+I’ll try to conform with WPUB manifest spec in next-book as much as possible so that next-book effectively *becomes WPUB*.
 
-- I’ll try to bring the in-browser UI of a basic next-book to the level of a standard e-book.
+I’ll try to bring the in-browser UI of a basic next-book to the level of a standard e-book.
 
-- I’ll try to work with some institution that creates book-shaped content to produce next-book at some scale over the summer. (I’m eyeing [Standard E-books][standard] for a long time, but I did not feel that the prototype had been good enough.)
+I’ll try to work with some institution that creates book-shaped content to produce next-book at some scale over the summer. (I’m eyeing [Standard E-books][standard] for a long time, but I did not feel that the prototype had been good enough.)
 
-- I’ll try to work with an academic publisher (or similar) that produces books at scale so that next-book is tested in a production environment.
+I’ll try to work with an academic publisher (or similar) that produces books at scale so that next-book is tested in a production environment.
 
-- I’ll cover the code of the prototype with automated tests to make contributing easier.
+I’ll cover the code of the prototype with automated tests to make contributing easier.
 
-- I’ll try to bring in more people so that the project gets a more realistic outline — in its vision, scope, short time goals, etc. (And to make most of these goals to use a plural pronoun.)
+I’ll try to bring in more people so that the project gets a more realistic outline — in its vision, scope, short time goals, etc. (And to make most of these goals to use a plural pronoun.)
+
+***
 
 If you feel that all this is in any way good, please let me know. If you’d like to join forces in any way, please let me know right now!
 
@@ -313,7 +316,7 @@ I want to know whether this is a workable future for me by March 2020, so any en
 [standard]: https://standardebooks.org
 
 
-## A side note: business?
+### A side note: business?
 
 I did not mention the business side of things. It’s vital to create a sustainable solution, and that requiers people getting paid for what they create. The creation of a standard itself is obviously no such thing.
 
