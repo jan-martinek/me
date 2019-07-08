@@ -186,6 +186,16 @@ figure img {
   max-width: 100%;
 }
 
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  text-align: left;
+  border: 1px solid var(--gray);
+  padding: 0.5rem;
+}
+
 .articles {
   display: block;
   list-style-type: none;

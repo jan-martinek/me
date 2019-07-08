@@ -3,18 +3,6 @@ title: WPUB and future of digital publishing
 keywords: wpub, next-book, publishing, web, open web
 date: 2019-07-04
 draft: true
-scripts: [p5.min.js, main.js]
-style: |
-  <style>
-    header, article, footer {
-      position: relative;
-      z-index: 1;
-    }
-    canvas {
-      position: fixed;
-      top: 0; left: 0;
-    }
-  </style>
 ---
 **Wow. On Monday last week, W3C’s Publishing Working Group [decided to shelve][telco] the [Web Publication’s spec draft][wpub] (WPUB), citing little support from publishers and browser vendors.** Working Group will focus on audiobooks where traction is present. 
 
@@ -58,7 +46,7 @@ Not everything can be done this way (packaging, local management), but we can ta
 
 ## EPUB, WPUB, and next-book
 
-In very broads strokes, though please shout “objection!” if you see any error in my thinking (and then ping me on twitter maybe).
+I draw the comparison in very broads strokes, please shout “objection!” if you see any error in my thinking (and then ping me on twitter maybe, if you are not in a hearing distance).
 
 ![](./comparison.svg)
 
@@ -95,9 +83,11 @@ Other than that, most of the functionality is achievable in any browser as it is
 ## What are the essential parts of next-book now?
 
 - Definition of some parts of a publication (see [Free Culture][fc]).
-- A generator that builds/binds the book from HTML and other resources ([nb-mapper]).
+- A generator that builds/binds the book from HTML and other resources ([nb-mapper]). It mainly adds markup to make parts of the book addressable and produces a canonical form of a book.
 - Some code that provides browser UI and APIs ([nb-base]).
-- Server app that stores user-created metadata.
+- Server app that stores user-created data.
+
+![](./next-book.svg)
 
 [nb-mapper]: http://github.com/next-book/nb-mapper
 [nb-base]: http://github.com/next-book/nb-base
@@ -112,7 +102,7 @@ Before I start, I’d like to stress, that I write from the point of a view of o
 
 ### What is a publication?
 
-I’m not sure what is the supposed starting point of the Use Cases doc aside from „what‘s wrong with e-books.“ The spec misses any historical conceptualization of a publication such as found in [Amaranth Borsuk’s The Book][thebook], who distinguishes a book as “object, content, idea, and interface.” 
+I’m not sure what is the supposed starting point of the [Use Cases and Requirements][ucr] doc aside from „what‘s wrong with e-books.“ The spec misses any historical conceptualization of a publication such as found in [Amaranth Borsuk’s The Book][thebook], who distinguishes a book as “object, content, idea, and interface.” 
 
 This might help when structuring those “certain requirements from print media that users desire” in a kind of McLuhanian effort, establishing how the technological progress could improve the use of a medium. In the 90s we were outdating paper-based practices, now we’re outdating VGA/CRT- and dial-up-based practices. 
 
@@ -120,7 +110,7 @@ WPUB works with a very broadly defined “publication” and that comes at a cos
 
 **Sometimes WPUB treats a publication as a content**, especially when considering what is essential a what is not (fonts? eh). From a book-reading or even web-browsing perspective, this feels wrong — would I want to treat typesetting of a book as non-essential?
 
-**Sometimes WPUB treats a publication as a photocopy of a printed book**, keeping the structure of a paginated volume. Is this a right way to structure a digital hypertext-enabled content? For example, the [use case doc][ucr] refers to “answers at the back” of a textbook:
+**Sometimes WPUB treats a publication as a photocopy of a printed book**, keeping the structure of a paginated volume. Is this a right way to structure a digital hypertext-enabled content? For example, the spec refers to “answers at the back” of a textbook:
 
 > Chandrasekhar has been assigned a set of exercises in his 
   math WP textbook. To double check his work, he wants to easily navigate to the answers in the back of the WP. [UC42]
@@ -130,15 +120,15 @@ WPUB works with a very broadly defined “publication” and that comes at a cos
 Some uses such as alphabetically ordered “Encyclopedia of Stuff” [UC40] feel outdated in a digital format. Not necessarily wrong to be published as a publication, but it does not feel right to apply a concept of “a reading order” to them. 
 
 
-### Defining a publication
-
-When working on next-book, it took us some time to arrive at a definition of what a book is — we came to something along the lines of *“a self-contained, static, rich, mostly linear, longer text that the reader might want to read in large chunks”*, where reading might include all manner of active reception. Yes, it’s not easy.
-
-We wanted to create a basic building block of a very wide spectrum of social interactions: from reading calmly in a public space to searching in the book collection via regular expressions to checking the bookshelf at a friend’s house.
-
-Also, we did not want to use any form of the word „consumption“ as the description of what people primarily do with publications. Maybe that’s what made us keep the word “book” in the name instead of the more general term — it’s reasonable to widen the application of a standard and to focus on a core concept to keep it stable at the same time.
-
-I believe it’s important to intentionally exclude from a definition many things that ever existed on paper solely because paper was the only medium that carried print. Without such discussion, we drag the future into the past.
+> ### Defining a publication
+> 
+> When working on next-book, it took us some time to arrive at a definition of what a book is — we came to something along the lines of *“a self-contained, static, rich, mostly linear, longer text that the reader might want to read in large chunks”*, where reading might include all manner of active reception. Yes, it’s not easy.
+> 
+> We wanted to create a basic building block of a very wide spectrum of social interactions: from reading calmly in a public space to searching in the book collection via regular expressions to checking the bookshelf at a friend’s house.
+> 
+> Also, we did not want to use any form of the word „consumption“ as the description of what people primarily do with publications. Maybe that’s what made us keep the word “book” in the name instead of the more general term — it’s reasonable to widen the application of a standard and to focus on a core concept to keep it stable at the same time.
+> 
+> I believe it’s important to intentionally exclude from a definition many things that ever existed on paper solely because paper was the only medium that carried print. Without such discussion, we drag the future into the past.
 
 [UC40]: https://w3c.github.io/dpub-pwp-ucr/#uc_reading-order_alphabetical
 [UC42]: https://w3c.github.io/dpub-pwp-ucr/#uc_toc_answers
@@ -181,14 +171,14 @@ I’d love to manage all my local content in one place, including above mentione
 
 There’s a mention of *non-WP (non-Web Publication) user agents* that should be able to access “at least (…) basic functionality of the book” in a manner of progressive enhancement. This once again builds a wall between open web and Web Publications (*optimized for WP-agent and 800\*600 resolution*).
 
-Let’s abolish the notion of WP user agent entirely. Publications can be still enhanced in specialized agents (browsers, browser plug-ins, e-ink readers, audio players), but making browsers the central node brings in all the potential of an open platform.
+Let’s abolish the notion of a *specialized WP user agent* entirely. Publications can be still enhanced in various agents (browsers, browser plug-ins, e-ink readers, audio players) via extensions, but making full-fledged browsers the central node brings in all the potential of an open platform.
 
-Stop half-way and e-books will still be the pain very similar to HTML e-mails, supporting rendering engine from Word 2007.
+Stop half-way and e-books will still be the pain very similar to HTML e-mails, painstakingly supporting rendering engine from Word 2007.
 
 Also, meeting together on the open web is much better for accessibility and internationalization. I somehow cannot accept that the doc needs to mention the necessity of a good support for right-to-left writing or privacy settings. That should be device/browser vendor’s job.
 
 
-### No such thing as society
+### No such thing as society 
 
 The spec is concerned mainly with the single-user consumption and overlooks most of the broader array of social interactions. 
 
@@ -220,12 +210,33 @@ How hard is to implement solutions to comply with the [Use Cases and Requirement
 
 I tried to categorize the use cases [check CSV if you want](./wpub-use-cases.csv) and I arrived at six unevenly defined categories of use cases.
 
-- 26 UCs that require **structure/format definition** (manifest, identification and metadata, packaging, updating)
-- 13 UCs that require **specialized UI** (annotations, addressing parts of a book)
-- 6 UCs that require **additional infrastructure** (licensing, updating)
-- 24 UCs that require **user agent development** (browser improvement, audiobook players, assistive tech, local book storage)
-- 2 UCs that cope with **problems that arise from other parts of the spec**
-- 55 UCs that require something that **can be implemented using open web platform**, but do not easily overlap with categories mentioned above
+<table>
+  <tr><th>UC&nbsp;count</th><th>requirement</th></tr>
+  <tr>
+    <td>26</td>
+    <td><strong>structure/format definition</strong> (manifest, identification and metadata, packaging, updating)</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td><strong>specialized UI</strong> (annotations, addressing parts of a book)</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td><strong>additional infrastructure</strong> (licensing, updating)</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td><strong>user agent development</strong> (browser improvement, audiobook players, assistive tech, local book storage)</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>solve <strong>problems that arise from other parts of the spec</strong></td>
+  </tr>
+  <tr>
+    <td>55</td>
+    <td>something that <strong>can be implemented using open web platform</strong>, but do not easily overlap with categories mentioned above</td>
+  </tr>
+</table>
 
 ![](./treemap.svg)
 
