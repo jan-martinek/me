@@ -272,26 +272,29 @@ Thus, anything worth taking over from EPUB to the open web *as is*, let’s take
 
 It’s (not just) an idea.
 
-There’s a working second generation prototype (book generator and browser code). The prototype is not the next-book, it’s a working implementation.
+There’s a working second generation prototype (book generator and browser code). The prototype is not the next-book, it’s a working implementation. Tech detail: Generator works on top of [jsdom], browser code uses [react]+[Redux].
 
 It’s incomplete, buggy, and not [well documented][docs], sometimes the prototype *is the documentation* of the idea. Many ideas are just coded in, as the field is so vast (possibly more than ten football fields).
 
 There’s no prototype of the *sync functionality* — a web service that stores book‘s state and allows keeping the book in sync over different devices. Publishers, book clubs, local “bookshelf” apps, etc. may use such a service. (Locally managed server might be the way to overcome the packaging limitation of current browsers — and maybe to free browsers the problem completely.)
 
-Everything’s [up on Github][gh].
+Everything’s [up on Github][gh]. Licensed under MIT License, though I’m considering a switch to GNU GPL.
 
-There’s a reference edition of [Lawrence Lessig’s Free Culture][fc]. Right now there’s a project backed by a Czech publisher [Nová Beseda][beseda] that focuses on annotation practices and allows me to work on next-book part-time (last year some publishers tried next-book in a similar project and [produced their own books][nbeu]).
+There’s a reference edition of [Lawrence Lessig’s Free Culture][fc] ([source code][fc-code]). Right now there’s a project backed by a Czech publisher [Nová Beseda][beseda] that focuses on annotation practices and allows me to work on next-book part-time (last year some publishers tried next-book in a similar project and [produced their own books][nbeu]).
 
 Only a handful of people touched the code, most of them not voluntarily (just another assignment in an IT job at a publisher).
 
 I’m aware that I might be rediscovering the wheel, but there are *so many* wheels that you need to mount on every web project.
 
 [gh]: https://github.com/next-book
-[fc]: https://github.com/next-book/free-culture
+[fc]: https://next-book.github.io/free-culture/
+[fc-code]: https://github.com/next-book/free-culture
 [nbeu]: https://next-book.eu/en/
 [docs]: https://next-book.github.io
 [beseda]: https://www.novabeseda.cz
-
+[jsdom]: https://github.com/jsdom/jsdom
+[react]: https://reactjs.org
+[redux]: https://redux.js.org
 
 ## Next steps
 
