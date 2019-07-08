@@ -1,6 +1,9 @@
 {{ define "main" }}
 <article>
   <h1>{{ htmlUnescape .Title }}</h1>
+  {{ with .Params.subtitle }}
+    <p class="subtitle">{{ . }}</p>
+  {{ end }}
   <p class="date">{{ .Date.Local.Format "January 2, 2006" }}</p>
   {{ .Content }}
 

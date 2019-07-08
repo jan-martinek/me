@@ -253,8 +253,11 @@ article h1 {
   padding-bottom: 0;
 }
 
-article p.date,
 article p.subtitle {
+  margin: 1rem 0 0;
+}
+
+article p.date {
   color: var(--faint);
   margin: 0 0 3rem;
 }

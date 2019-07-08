@@ -1,7 +1,7 @@
 ---
 title: The Next Book
 date: 2017-04-12
-tags: [project, work, next book, book]
+tags: [project, work, next book, book, digital-publishing]
 projects: [next-book]
 lang: en
 ---

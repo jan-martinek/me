@@ -1,6 +1,6 @@
 ---
 title: WPUB and future of digital publishing
-keywords: wpub, next-book, publishing, web, open web
+keywords: wpub, next-book, publishing, web, open-web, digital-publishing
 date: 2019-07-08
 ---
 **Wow. On Monday last week, W3C’s Publishing Working Group [decided to shelve][telco] the [Web Publication’s spec draft][wpub] (WPUB), citing little support from publishers and browser vendors.** Working Group will focus on audiobooks where traction is present. 
