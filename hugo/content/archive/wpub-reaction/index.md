@@ -45,13 +45,15 @@ Not everything can be done this way (packaging, local management), but we can ta
 
 ## EPUB, WPUB, and next-book
 
-I draw the comparison in very broads strokes, please shout “objection!” if you see any error in my thinking (and then ping me on twitter maybe, if you are not in a hearing distance).
+  
 
 ![](./comparison.svg)
 
-- EPUB is a standard derived from the open web standards, living aside in its own environment.
-- WPUB would be a standard building on top of the open web standards, adding features required for publishing and reading publications.
-- Next-book would be a set of extendable standards implemented with open web technologies to enable publishing and reading.
+**EPUB** is a standard derived from the open web standards, living aside in its own environment.
+
+**WPUB** would be a standard building on top of the current open web standards, adding features required for publishing and reading publications.
+
+**Next-book** would be a set of extendable standards implemented with open web technologies to enable publishing and reading.
 
 
 ## Severely constrained?
@@ -237,11 +239,11 @@ I tried to categorize the use cases [check CSV if you want](./wpub-use-cases.csv
   </tr>
 </table>
 
-![](./treemap.svg)
-
 The last category is obviously a lazily assembled mixed bag of requirements, however, their unifying attribute is critical (included are the first 12 UCs that mostly retell the current basics of the open web platform).
 
 I’d add most of the first three categories (9 of the 26, 13, and 5 of the 6 — 27 in total) as also easily implemented with the web technologies. That makes 82 out of 126 UCs easy to solve within the current open web platform. The rest covers topics such as book packaging and offline storage (25 UCs) and user agent development (16 UCs).
+
+![](./treemap.svg)
 
 But I’d very much like to stop brandishing these silly numbers — the important thing is that this list was created as a retrospective look into shortcomings of e-books, not as a look into social practice of reading.
 
