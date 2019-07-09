@@ -197,9 +197,9 @@ But there‘s more to book than this.
 
 There’s a lot to be explored: and no, there’s no clear answer to those questions. But the open web is required not as a place to * find the answer*, but as a place to *ask the question*.
 
-Only with the open platform can be the crazy ideas tried and executed. *“Let’s scrape all linked content that is in public domain or CC-licensed and include it in the generated book so that the offline experience gets better and the web gets incidentally archived!“* Is that a good or a bad idea? I don’t know, let’s try.
+Only with the open platform can be the crazy ideas tried and executed. *“Let’s scrape all linked content that is in public domain or CC-licensed and include it in the generated book so that the offline experience gets better and the web gets incidentally archived!“* or maybe *“Reading UI should include tools for editing the text of the book, so that readers may cut those Foucault’s sentences into paragraphs and rearrange the ideas as they struggle to interpret them.”* Are these ideas good or a bad? I don’t know, let’s try.
 
-(There’s a mention of a need for robust versioning ([UC126]) that enables annotations to withstand changes in the text. Versioning itself is a very social activity that changes a lot of what we see in books: books are immutable by definition. They’re printed, and that‘s it.)
+Even in the spec, there’s a mention of a need for robust versioning ([UC126]) that enables annotations to withstand changes in the book’s text. Versioning itself is a very social activity that changes a lot of what we see in books: they are immutable by definition. Books are printed, and that‘s it. There’s a lot of work that needs to be done so that things like this get well accepted and used.
 
 [UC73]: https://w3c.github.io/dpub-pwp-ucr/#uc_pwp_offline_lending
 [UC58]: https://w3c.github.io/dpub-pwp-ucr/#uc_print-page_bookmark
