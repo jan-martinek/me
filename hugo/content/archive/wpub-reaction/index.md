@@ -1,5 +1,5 @@
 ---
-title: WPUB and future of digital publishing
+title: WPUB and the future of digital publishing
 keywords: wpub, next-book, publishing, web, open-web, digital-publishing
 date: 2019-07-08
 ---
@@ -298,21 +298,21 @@ I’m aware that I might be rediscovering the wheel, but there are *so many* whe
 
 ## Next steps
 
-I’ll try to conform with WPUB manifest spec in next-book as much as possible so that next-book effectively *becomes WPUB*.
+Get next-book to conform with WPUB manifest spec as much as possible so that next-book effectively *becomes WPUB*.
 
-I’ll try to bring the in-browser UI of a basic next-book to the level of a standard e-book.
+Bring the in-browser UI of a basic next-book to the level of a standard e-book.
 
-I’ll try to work with some institution that creates book-shaped content to produce next-book at some scale over the summer. (I’m eyeing [Standard E-books][standard] for a long time, but I did not feel that the prototype had been good enough.)
+Start collaboration with some institution that creates book-shaped content (e.g. fan-fiction, public domain classics) to produce next-book at some scale over the summer. (I’m eyeing [Standard E-books][standard] for a long time, but I did not feel that the prototype had been good enough.)
 
-I’ll try to work with an academic publisher (or similar) that produces books at scale so that next-book is tested in a production environment.
+Work with an academic publisher (or similar) that produces books at scale so that next-book is tested in a production environment.
 
-I’ll cover the code of the prototype with automated tests to make contributing easier.
+Cover the code of the prototype with automated tests to make contributing easier.
 
-I’ll try to bring in more people so that the project gets a more realistic outline — in its vision, scope, short time goals, etc. (And to make most of these goals to use a plural pronoun.)
+Bring in more people so that the project gets a more realistic outline — in its vision, scope, short time goals, etc.
 
 ***
 
-If you feel that all this is in any way good, please let me know. If you’d like to join forces in any way, please let me know right now!
+If you feel that any of above is in any way good, please let me know. If you’d like to join forces in any way, please let me know right now!
 
 I want to know whether this is a workable future for me by March 2020, so any encouragement is very appreciated, help or cooperation even more so.
 
