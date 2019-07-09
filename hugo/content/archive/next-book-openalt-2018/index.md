@@ -1,11 +1,9 @@
 ---
 title: "Next-book: browser as a natural environment for e-reading"
-subtitle: commented slides from OpenAlt 2018
+subtitle: Commented slides from my talk at the [OpenAlt conference](https://openalt.cz/2018/) in Brno (Czechia)
 tags: [next-book, publishing, web, open web, crisis, digital-publishing]
 date: 2018-11-03
 ---
-Below are commented slides from my talk at the [OpenAlt conference](https://openalt.cz/2018/) in Brno (Czech Rep.).
-
 ![](nextbook-openalt-2018-comments.002.jpeg)
 
 Many people have happy memories of reading their favorite book. So of course, let’s focus on that 
