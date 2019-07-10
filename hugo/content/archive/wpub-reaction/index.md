@@ -154,11 +154,11 @@ WPUB works with a very broadly defined “publication” and that comes at a cos
 **Sometimes WPUB views a publication as a photocopy of a printed book**, keeping the structure of a paginated volume. Is this a right way to structure a digital hypertext-enabled content? For example, the spec refers to “answers in the back” of a textbook:
 
 > Chandrasekhar has been assigned a set of exercises in his 
-  math WP textbook. To double check his work, he wants to easily navigate to the answers in the back of the WP. [UC42]
+  math WP textbook. To double check his work, he wants to easily navigate to the answers in the back of the WP. ([UC42])
 >
-> The answers of the test are given at the end of the publication. [UC88]
+> The answers of the test are given at the end of the publication. ([UC88])
 
-Some uses such as alphabetically ordered “Encyclopedia of Stuff” [UC40] feel outdated in a digital format. Not necessarily wrong to be published as a publication, but it does not feel right to apply a concept of “a reading order” to them. 
+Some uses such as alphabetically ordered “Encyclopedia of Stuff” ([UC40]) feel outdated in a digital format. Not necessarily wrong to be published as a publication, but it does not feel right to apply a concept of “a reading order” to them. 
 
 
 > ### Defining a publication
@@ -259,33 +259,59 @@ I tried to categorize the use cases ([check CSV if you want](./wpub-use-cases.cs
   <tr><th>UC&nbsp;count</th><th>requirement</th></tr>
   <tr>
     <td>26</td>
-    <td><strong>structure/format definition</strong> (manifest, identification and metadata, packaging, updating)</td>
+    <td>
+      <strong>structure/format definition</strong>:<br>
+      packaging (17)<br>
+      identification and metadata (*5)<br>
+      manifest (*2)<br>
+      updating (*2)
+    </td>
   </tr>
   <tr>
     <td>13</td>
-    <td><strong>specialized UI</strong> (annotations, addressing parts of a book)</td>
+    <td>
+      <strong>specialized UI</strong>:<br>
+      addressing parts of a book (*10)<br>
+      annotations (*3)
+    </td>
   </tr>
   <tr>
     <td>6</td>
-    <td><strong>additional infrastructure</strong> (licensing, updating)</td>
+    <td>
+      <strong>additional infrastructure</strong>:<br>
+      licensing (*5)<br>
+      updating (1)
+    </td>
   </tr>
   <tr>
     <td>24</td>
-    <td><strong>user agent development</strong> (browser improvement, audiobook players, assistive tech, local book storage)</td>
+    <td>
+      <strong>user agent development</strong>:<br>
+      audiobook players/linked modalities (10)<br>
+      local book storage (8)<br>
+      browser improvement (4)<br>
+      assistive tech (*2)
+    </td>
   </tr>
   <tr>
     <td>2</td>
-    <td>solve <strong>problems that arise from other parts of the spec</strong></td>
+    <td>
+      solve <strong>problems that arise from other parts of the spec</strong>
+    </td>
   </tr>
   <tr>
-    <td>55</td>
-    <td>something that <strong>can be implemented using open web platform</strong>, but do not easily overlap with categories mentioned above</td>
+    <td>*55</td>
+    <td>
+      something that <strong>can be implemented using open web platform</strong>, but do not easily overlap with categories mentioned above
+    </td>
   </tr>
 </table>
 
 The last category is obviously a lazily assembled mixed bag of requirements, however, their unifying attribute is critical (included are the first 12 UCs that mostly reiterate through the current basics of the open web platform).
 
-I’d add most of the first three categories (9 of the 26, 13, and 5 of the 6 — 27 in total) as also easily implemented with the web technologies. That makes 82 out of 126 UCs easy to solve within the current open web platform. The rest covers topics such as book packaging and offline storage (25 UCs) and user agent development (16 UCs).
+I’d add most of the first three categories: 9 of the format-related, 13 of the UI category, all 5 of the licensing ones and both of the assistive tech — 29 in total. **That makes 84 out of 126 UCs easy to solve within the current open web platform.**
+
+The rest covers topics such as book packaging and offline storage (25 UCs) and user agent development (14 UCs), and two UCs solve spec-related issues.
 
 ![](./treemap.svg)
 
@@ -307,11 +333,29 @@ I still don’t know too much now, and most of what I register are terrified shr
 
 Thus, anything worth taking over from EPUB to the open web *as is*, let’s take it. Also, converting existing books shouldn’t be too hard.
 
+### Book and static website generators
+
+Book production projects like [GitBook] and [Magic Book] are comparable to static website generators (such as [Hugo], [Jekyll] or [Gatsby]). 
+
+Their focus on books comes from the fact that they pre-date the static/[JAMstack] hype or because there’s a twist to the formula — for example, [GitBook] provides an excellent UI for writing, and though it carries “book” in its name, it focuses on documentation.
+
+The docs, references, and specs are just a few of the print-based formats already made obsolete by their much easier-to-use digital alternatives: documentation generators with support for easy versioning *and* Q&A sites such as [Stack Overflow] or [Quora].
+
+Next-book is adopting the static generator process and similarly tries to produce a book: focusing on delivering a better experience for readers of non-fiction, novels, long reads, fan-fiction, etc.
+
 [#eprdctn]: https://twitter.com/search?q=%23eprdctn&src=typd
 [charter]: http://idpf.org/epub/30/wg-charter
 [beyond]: http://epubsecrets.com/epub-and-beyond-digital-publishing-w3c.php
 [readium]: https://readium.org
 [borg]: https://en.wikipedia.org/wiki/Borg
+[GitBook]: http://gitbook.com/
+[Magic Book]: https://github.com/magicbookproject/magicbook
+[Hugo]: https://gohugo.io/
+[Jekyll]: http://jekyllrb.com/
+[Gatsby]: https://github.com/gatsbyjs
+[JAMstack]: https://jamstack.org
+[Stack Overflow]: https://stackoverflow.com
+[Quora]: https://www.quora.com
 
 
 ## The current shape of the next-book
