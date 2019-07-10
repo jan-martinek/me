@@ -37,7 +37,7 @@ style: |
 
 WPUB intended to bring publishing to the open web. I've been observing the drafting process over the last two years and simultaneously (re)writing a comparison between WPUB and [next-book][nb], a cute octopus-shaped project I’ve been working on. 
 
-This might be the right moment to ship the article because WPUB is fading away, but the value proposition of publishing on the web is quite monumental:
+This might be the right moment to ship the article because WPUB is fading away and more importantly, because the value proposition of publishing on the web is quite monumental:
 
 > We believe there is great value in combining this older tradition of portable, bounded publications with the pervasive accessibility, addressability, and interconnectedness of the Open Web Platform (OWP). **New models of economic sustainability and innovative experiences of knowledge depend on this.** 
 >
@@ -368,7 +368,7 @@ If you know about any organization possibly willing to cooperate or fund the dev
 
 Fly me an [e-mail], ping me on [twitter][tw]. You may even click this attention-hungry CTA button just to see its `:active` state:
 
-<p><a class="button" href="mailto:honza.martinek@gmail.com">Respond to the call</button></a></p>
+<p><a class="button" href="mailto:info@jan-martinek.com">Respond to the call</button></a></p>
 
 
 I want to know whether this is a workable future for me by March 2020, so any encouragement is very appreciated, help or cooperation even more so.
@@ -378,13 +378,13 @@ I want to know whether this is a workable future for me by March 2020, so any en
 
 I did not mention the business side of things. It’s vital to create a sustainable solution, and that requiers people getting paid for what they create. I hope that people will get paid for the books they publish — and I hope that I’ll be able to publish and read them too.
 
-In the long run, even the standard development needs to become sustainable, but that’s not a problem to tackle right now. (I’m going to establish a crowdfunding platform for my own work, but that might not cover all that’s needed for next-book, even in the short term.)
+In the long run, even the standard development needs to become sustainable, but that’s not a problem to tackle right now. (I’m going to try to establish a funding platform for my own work, but that might not cover all that’s needed for next-book, even in the short term.)
 
 
 ## Credit
 
 I’m mostly to blame for the development of next-book in the last two years. It would be much harder without support from [Nová beseda][beseda] publishing house, and it would not exist without a very intensive first six months of idea development with [Ivana Lukeš Rybanská](https://twitter.com/ifcen). Thanks!
 
-[e-mail]: mailto:honza.martinek@gmail.com
+[e-mail]: mailto:info@jan-martinek.com
 
 
