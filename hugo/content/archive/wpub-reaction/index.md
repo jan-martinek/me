@@ -309,13 +309,18 @@ I tried to categorize the use cases ([check CSV if you want](./wpub-use-cases.cs
 
 The last category is obviously a lazily assembled mixed bag of requirements, however, their unifying attribute is critical (included are the first 12 UCs that mostly reiterate through the current basics of the open web platform).
 
-I’d add most of the first three categories: 9 of the format-related, 13 of the UI category, all 5 of the licensing ones and both of the assistive tech — 29 in total. **That makes 84 out of 126 UCs easy to solve within the current open web platform.**
+I’d add most of the first three categories (29 in total, marked with an \*asterisk in the table): 
 
-The rest covers topics such as book packaging and offline storage (25 UCs) and user agent development (14 UCs), and two UCs solve spec-related issues.
+- 9 of the format-related use cases, 
+- 13 of the UI category, 
+- all 5 of the licensing ones, and 
+- both of the assistive tech 
+
+**That makes 84 out of 126 UCs easy to solve within the current open web platform.** The rest covers topics such as book packaging and offline storage (25 UCs) and user agent development (14 UCs), and two UCs solve spec-related issues.
 
 ![](./treemap.svg)
 
-But I’d very much like to stop brandishing these silly numbers: there are two important take-aways:
+But I’d very much like to stop brandishing these silly numbers. There are two important take-aways:
 
 1. There’s a lot that can be done with current web technologies.
 2. This list was created as a retrospective look into shortcomings of e-books, not as a look into social practice of reading — as a result, it’s very much incomplete.
@@ -341,7 +346,7 @@ Their focus on books comes from the fact that they pre-date the static/[JAMstack
 
 The docs, references, and specs are just a few of the print-based formats already made obsolete by their much easier-to-use digital alternatives: documentation generators with support for easy versioning *and* Q&A sites such as [Stack Overflow] or [Quora].
 
-Next-book is adopting the static generator process and similarly tries to produce a book: focusing on delivering a better experience for readers of non-fiction, novels, long reads, fan-fiction, etc.
+Next-book is adopting the static generator process and similarly tries to produce a book: focusing on delivering a better experience for readers of non-fiction, novels, long reads, fan-fiction, scientific literature, etc.
 
 [#eprdctn]: https://twitter.com/search?q=%23eprdctn&src=typd
 [charter]: http://idpf.org/epub/30/wg-charter
