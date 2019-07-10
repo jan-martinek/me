@@ -33,6 +33,10 @@
 
   <link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700|Inconsolata:400,700&subset=latin-ext" rel="stylesheet">
   <link rel="stylesheet" href="{{ "static/css/main.css" | relURL }}">
+
+  {{ with .Params.style }}
+    {{ . | safeHTML }}
+  {{ end }}
 </head>
 <body>
   {{ block "header" . }}
@@ -42,6 +46,12 @@
   {{ end }}
   {{ block "footer" . }}
     {{ partial "footer.en.html" . }}
+  {{ end }}
+
+  {{ with .Params.scripts }}
+    {{ range . }}
+      <script type="text/javascript" src="./{{ . }}"></script>
+    {{ end }}
   {{ end }}
 </body>
 </html>

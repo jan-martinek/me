@@ -2,6 +2,32 @@
 title: WPUB and the future of digital publishing
 keywords: wpub, next-book, publishing, web, open-web, digital-publishing
 date: 2019-07-08
+style: |
+  <style>
+    a.button {
+      display: inline-block;
+      padding: 0.5rem 1rem 0.4rem;
+      
+      background: rgb(157, 72, 89);
+      color: rgb(243, 237, 230);
+
+      border-radius: 2px;
+      box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.3);
+      will-change: transform;
+      transform-origin: 50% 50%;
+      transition: ease-in-out 0.2s;
+    }
+
+    a.button:hover {
+      transform: translateY(-2px);
+      box-shadow: 3px 5px 2px rgba(0, 0, 0, 0.3);
+    }
+
+    a.button:active {
+      transform: translateX(6px) scale(1.3) rotate(3deg) translateY(-2px);
+    }
+  </style>
+
 ---
 **Wow. On Monday last week, W3C’s Publishing Working Group [decided to shelve][telco] the [Web Publication’s spec draft][wpub] (WPUB), citing little support from publishers and browser vendors.** Working Group will focus on audiobooks where some traction is present. 
 
@@ -17,7 +43,7 @@ This might be the right moment to ship the article because WPUB is fading away, 
 >
 > — [Web Publications Use Cases and Requirements][ucr]
 
-*Note:* If there’s anything wrong or mistaken, please don’t hesitate to write me an e-mail or tweet at me at [@endlife][tw].
+*Note:* If there’s anything wrong or mistaken, please don’t hesitate to write me an [e-mail] or tweet at me at [@endlife][tw].
 
 [nb]: https://next-book.github.io
 [ucr]: https://w3c.github.io/dpub-pwp-ucr/
@@ -52,7 +78,7 @@ Not everything can be done this way (packaging, local management), but we can ta
 
 ## EPUB, WPUB, and next-book
 
-I draw the comparison in very broad strokes, please shout “objection!” if you see any error in my thinking (and then ping me on twitter maybe, if you are not in a hearing distance).
+I draw the comparison in very broad strokes, please shout “objection!” if you see any error in my thinking (and then ping me on [twitter][tw] maybe, if you are not in a hearing distance).
 
 ![](./comparison.svg)
 
@@ -330,13 +356,22 @@ Cover the code of the prototype with automated tests to make contributing easier
 
 Bring in more people so that the project gets a more realistic outline — in its vision, scope, short time goals, etc.
 
-***
+[standard]: https://standardebooks.org
 
-If you feel that any of above is in any way good, please let me know. If you’d like to join forces in any way, please let me know right now!
+## Call to action
+
+If you feel that any of the above is in any way good, please let me know.
+
+If you’d like to join forces in any way, please let me know right now!
+
+If you know about any organization possibly willing to cooperate or fund the development somehow, please link us up.
+
+Fly me an [e-mail], ping me on [twitter][tw]. You may even click this attention-hungry CTA button just to see its `:active` state:
+
+<p><a class="button" href="mailto:honza.martinek@gmail.com">Respond to the call</button></a></p>
+
 
 I want to know whether this is a workable future for me by March 2020, so any encouragement is very appreciated, help or cooperation even more so.
-
-[standard]: https://standardebooks.org
 
 
 ### A side note: business?
@@ -350,6 +385,6 @@ In the long run, even the standard development needs to become sustainable, but 
 
 I’m mostly to blame for the development of next-book in the last two years. It would be much harder without support from [Nová beseda][beseda] publishing house, and it would not exist without a very intensive first six months of idea development with [Ivana Lukeš Rybanská](https://twitter.com/ifcen). Thanks!
 
-
+[e-mail]: mailto:honza.martinek@gmail.com
 
 
