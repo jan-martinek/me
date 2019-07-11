@@ -235,7 +235,8 @@ th, td {
 
 article > img,
 article > figure > img,
-article > p > img {
+article > p > img,
+article > p > a > img {
   display: block;
   width: calc(100% + 4rem);
   margin-left: -2rem;
