@@ -407,7 +407,7 @@ Bring in more people so that the project gets a more realistic outline — in it
 
 [standard]: https://standardebooks.org
 
-## Call to action
+## *The* call to action
 
 If you feel that any of the above is in any way good, please let me know.
 
