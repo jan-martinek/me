@@ -1,20 +1,44 @@
 {{ define "main" }}
 <article>
-  <h1>{{ htmlUnescape .Title }}</h1>
+  <h1>{{ htmlUnescape .Title | markdownify }}</h1>
   {{ with .Params.subtitle }}
     <p class="subtitle">{{ . | markdownify }}</p>
   {{ end }}
   <p class="date">{{ .Date.Local.Format "January 2, 2006" }}</p>
   {{ .Content }}
 
-  {{ if .Params.series }}
-    <hr>
-    <h2>{{ index (.Params.series) 0 }}</h2>
-    <ul>
-      {{ $series := .Params.series }}
-      {{ range .Site.Pages.Reverse }}
-        {{ if $has_common_series := intersect $series .Params.series | len | lt 0 }}
-          <li><a href="{{ .RelPermalink }}">{{ htmlUnescape .Title }}</a></li>
+
+  {{ if gt (len .Data.Pages) 0 }}
+  <h2 class="divider">Related articles</h2>
+  <ul class="articles">
+    {{ range .Data.Pages }}
+      <li>
+        <a href="{{ .RelPermalink }}">
+        <span class="date">{{ .Date.Local.Format "January 2, 2006" }}</span>
+        <span class="title">{{ htmlUnescape .Title | markdownify }}</span>
+        <span class="summary">{{ .Summary }}</span>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+
+  {{ if .Params.projects }}
+    <h2 class="divider">{{ index (.Params.projects) 0 }} &rarr;</h2>
+    <ul class="articles">
+      {{ $series := .Params.projects }}
+      {{ $permalink := .RelPermalink }}
+      {{ range .Site.Pages }}
+        {{ if $has_common_series := intersect $series .Params.projects | len | lt 0 }}
+          {{ if ne $permalink .RelPermalink }}
+            <li>
+              <a href="{{ .RelPermalink }}">
+              <span class="date">{{ .Date.Local.Format "January 2, 2006" }}</span>
+              <span class="title">{{ htmlUnescape .Title | markdownify }}</span>
+              <span class="summary">{{ .Summary }}</span>
+              </a>
+            </li>
+          {{ end }}
         {{ end }}
       {{ end }}
     </ul>
