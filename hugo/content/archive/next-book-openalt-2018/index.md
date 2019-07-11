@@ -155,7 +155,7 @@ In 2018 a second prototype was built. The generator is based on DOM implemented 
 
 There‘s a reference edition of [Lawrence Lessig’s Free Culture](https://next-book.github.io/free-culture/) that uses current next-book implementation.
 
-![](nextbook-openalt-2018-comments.048.jpeg)
+[![](nextbook-openalt-2018-comments.048.jpeg)](https://next-book.github.io)
 
 If you are interested, check [other articles on my site on digital publishing](/tags/digital-publishing) and [next-book.github.com](https://next-book.github.io).
 
