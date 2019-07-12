@@ -1,6 +1,7 @@
 ---
 title: PDF is not the future
 lang: en
+tags: [digital-publishing]
 date: 2015-06-05
 ---
 

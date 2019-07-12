@@ -26,7 +26,7 @@
       <li>
         <a href="{{ .RelPermalink }}">
         <span class="date">{{ .Date.Local.Format "January 2, 2006" }}</span>
-        <span class="title">{{ htmlUnescape .Title }}</span>
+        <span class="title">{{ htmlUnescape .Title | markdownify }}</span>
         <span class="summary">{{ .Summary }}</span>
         </a>
       </li>

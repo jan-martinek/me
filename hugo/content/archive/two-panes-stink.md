@@ -1,6 +1,7 @@
 ---
 title: Two-pane markdown editors stink
 lang: en
+tags: [digital-publishing, markdown]
 date: 2015-07-06
 ---
 

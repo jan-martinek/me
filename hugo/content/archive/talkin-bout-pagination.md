@@ -1,6 +1,6 @@
 ---
-title: Talkin' bout pagination (and&nbsp;digital books)
-keywords: reading, digital, page, book
+title: Talkin' bout pagination and&nbsp;digital books
+tags: [reading, digital, page, book, digital-publishing, next-book]
 date: 2017-06-21
 projects: [next-book]
 ---

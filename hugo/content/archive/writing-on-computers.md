@@ -1,6 +1,7 @@
 ---
 title: "I’d like to write an article. Note: I use a computer."
 lang: en
+tags: [digital-publishing, digital]
 date: 2015-06-26
 ---
 

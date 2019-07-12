@@ -1,6 +1,8 @@
 ---
 title: Let's *actually use* computers when reading
+tags: [digital-publishing]
 draft: true
+projects: [next-book]
 ---
 That paper/display discussion is nonsense. Computers in any form are not just books that do not smell good. Digital isn't just a display technology. Please help.
 

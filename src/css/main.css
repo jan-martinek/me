@@ -186,6 +186,16 @@ figure img {
   max-width: 100%;
 }
 
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  text-align: left;
+  border: 1px solid var(--gray);
+  padding: 0.5rem;
+}
+
 .articles {
   display: block;
   list-style-type: none;
@@ -225,8 +235,14 @@ figure img {
 
 article > img,
 article > figure > img,
-article > p > img {
+article > p > img,
+article > p > a > img {
   display: block;
+  width: calc(100% + 4rem);
+  margin-left: -2rem;
+}
+
+article > table {
   width: calc(100% + 4rem);
   margin-left: -2rem;
 }
@@ -243,8 +259,11 @@ article h1 {
   padding-bottom: 0;
 }
 
-article p.date,
 article p.subtitle {
+  margin: 1rem 0 0;
+}
+
+article p.date {
   color: var(--faint);
   margin: 0 0 3rem;
 }
@@ -366,6 +385,7 @@ main.home h2,
 }
 
 .divider {
+  margin-top: 4rem;
   font-size: 1rem;
   color: var(--pink);
 }
@@ -451,8 +471,16 @@ main.home h2,
 
   article > img,
   article > figure > img,
-  article > p > img {
+  article > p > img,
+  article > p > a > img {
     display: block;
+    width: 100vw;
+    margin-left: -50vw;
+    position: relative;
+    left: 50%;
+  }
+
+  article > table {
     width: 100vw;
     margin-left: -50vw;
     position: relative;
