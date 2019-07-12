@@ -1,7 +1,7 @@
 ---
 title: words && bytes
 articles:
-  - archive/wpub-reaction/index.md
+  - archive/wpub-next-book/index.md
   - archive/talkin-bout-pagination.md
   - archive/big-early-web-innovations.md
   - archive/how-to-be-wrong.md
