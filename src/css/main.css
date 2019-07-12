@@ -242,6 +242,11 @@ article > p > a > img {
   margin-left: -2rem;
 }
 
+article > table {
+  width: calc(100% + 4rem);
+  margin-left: -2rem;
+}
+
 article h1,
 main h1 {
   margin-top: 2rem;
@@ -466,8 +471,16 @@ main.home h2,
 
   article > img,
   article > figure > img,
-  article > p > img {
+  article > p > img,
+  article > p > a > img {
     display: block;
+    width: 100vw;
+    margin-left: -50vw;
+    position: relative;
+    left: 50%;
+  }
+
+  article > table {
     width: 100vw;
     margin-left: -50vw;
     position: relative;

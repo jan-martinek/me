@@ -1,7 +1,7 @@
 ---
 title: WPUB and the future of digital publishing
 keywords: wpub, next-book, publishing, web, open-web, digital-publishing
-date: 2019-07-08
+date: 2019-07-11
 projects: [next-book]
 style: |
   <style>
@@ -38,7 +38,7 @@ style: |
 
 WPUB intended to bring publishing to the open web. I've been observing the drafting process over the last two years and simultaneously (re)writing a comparison between WPUB and [next-book][nb], a cute octopus-shaped project I’ve been working on. 
 
-This might be the right moment to ship the article because WPUB is fading away and more importantly, because the value proposition of publishing on the web is quite monumental:
+This might be the right moment to ship the article because WPUB is fading away, and more importantly, the value proposition of publishing on the web is *quite monumental*:
 
 > We believe there is great value in combining this older tradition of portable, bounded publications with the pervasive accessibility, addressability, and interconnectedness of the Open Web Platform (OWP). **New models of economic sustainability and innovative experiences of knowledge depend on this.** 
 >
@@ -59,7 +59,7 @@ I write this for those who work in e-book publishing (**#eprdctn**) and feel tha
 
 > If you never heard of WPUB until today and still want to learn about next-book, you might want to check [these annotated slides from my Nov 2018 talk][slides].
 
-First, I’ll explain what next-book is, because the comparison is what makes this article tick — both approaches appear similar in broad terms but differ in ambitions and solutions.
+First, I’ll explain what next-book is, because its comparison with WPUB is what makes this article tick — both approaches appear similar in broad terms but differ in ambitions and solutions.
 
 Then I’ll try to explain what feels wrong to me about WPUB spec. And later I’ll try to convince you to join the next-book permanent revolution… or maybe just to check out the prototype.
 
@@ -70,7 +70,7 @@ Then I’ll try to explain what feels wrong to me about WPUB spec. And later I�
 
 *The web* [was created for documents][www]. Over the last 15 years, apps and flashy microsites have become a significant part of the web. Those started to set goals for browser development. Browsers transformed from simple document viewers to powerful programming environments with fantastic presentation powers.
 
-Next-book wants to take this power back and use it to display documents or — more specifically — publications. Instead of developing a new spec for browsers, next-book aims to use current open web technologies.
+Next-book wants to take this power back and use it to display publications. Instead of developing a new spec for browsers, next-book uses existing open web technologies.
 
 Not everything can be done this way (packaging, local management), but we can take off and open the publishing to experimentation that is *severely constrained* by current tools.
 
@@ -87,15 +87,18 @@ I draw the comparison in very broad strokes, please shout “objection!” if yo
 
 **WPUB** would be a standard building on top of the current open web standards, adding features required for publishing and reading publications.
 
-**Next-book** would be a set of extendable standards implemented with open web technologies to enable publishing and reading.
+**Next-book** would be a set of extendable standards implemented with open web technologies to enable advancements in publishing and reading.
 
 
 ## What are the essential parts of the next-book prototype now?
 
-- Definition of parts of a publication’s source (see [Free Culture][fc]).
-- A generator that builds/binds the book from HTML and other resources ([nb-mapper]). It mainly adds markup to make parts of the book addressable and produces a canonical form of a book.
-- Some code that provides browser UI and APIs ([nb-base]).
-- Server app that stores user-created data (not written yet).
+**Source**: Basic structure of a publication is defined. This structure is expressed in every HTML file that contains its text, so a generator is used to bind the book together from source HTML.
+
+**Generator**: There’s a generator that builds/binds the book from HTML and other resources ([nb-mapper]). It mainly adds markup to make parts of the book addressable and produces a canonical form of a book.
+
+**Book interface**: In-browser code builds upon this structure and provides some browser UI and APIs ([nb-base]).
+
+**Trace storage**: A library-like app (running as an app locally or on a server) stores books and user-created data. This part of the infrastructure is not written yet.
 
 ![](./next-book.svg)
 
@@ -109,7 +112,7 @@ Current e-publishing formats are locked in specialized apps and hardware. (Somet
 
 Mobi is obvious; EPUB is open, but it relies on an ecosystem of several vendors that are not interested in environment cultivation — e.g., when Apple enhances EPUB, it becomes proprietary, branded as iBook and usable only in their own authoring and reading apps.
 
-Hacking a book collection together with Calibre should be for hackers, but today it’s the only way of gathering all your books on a single shelf (sometimes even ilegally).
+Hacking a book collection together with Calibre should be for hackers, but currently, it’s the only way of gathering all your books on a single shelf (sometimes even illegally).
 
 [msdrm]: https://www.npr.org/2019/07/07/739316746/microsoft-closes-the-book-on-its-e-library-erasing-all-user-content 
 
@@ -130,7 +133,7 @@ Both apps and PWA-wrapped documents are hidden somewhere in your browser. No int
 
 I’d love to have an audiobook player that allows me to continue *listening* where I finished *reading* the last time — but maybe I just love the idea. 
 
-*Real innovation™* would be to share a reading experience with someone else who uses a different modality in the same book: *“check my annotations in your audiobook!”*. Audiobooks [seem to generate some broader interest in partners of WPG][telco], so let’s hope it turns okay.
+*A real innovation™* would be to share a reading experience with someone else who uses a different modality in the same book: *“check my annotations in your audiobook!”*. Audiobooks [seem to generate some broader interest in partners of WPG][telco], so let’s hope it turns okay.
 
 [pwas]: https://en.wikipedia.org/wiki/Progressive_web_applications
 
@@ -144,15 +147,17 @@ Before I start, I’d like to stress that I write from the point of a view of on
 
 ### No clear concept of a publication
 
-I’m not sure what is the supposed starting point of the [Use Cases and Requirements][ucr] doc aside from „what’s wrong with e-books.“ The spec misses any historical conceptualization of a publication such as found in [Amaranth Borsuk’s The Book][thebook], who distinguishes a book as “object, content, idea, and interface.” 
+I’m not sure what is the supposed starting point of the [Use Cases and Requirements][ucr] doc aside from „what’s wrong with e-books.“ The spec misses any historical conceptualization of a publication such as found in [Amaranth Borsuk’s The Book][thebook], who distinguishes a book as “object, content, idea, and interface.”
 
 This might help when structuring those “certain requirements from print media that users desire” in a kind of McLuhanian effort, establishing how the technological progress could improve the use of a medium. In the 90s we were outdating paper-based practices, now we’re outdating VGA/CRT- and dial-up-based practices. 
 
 WPUB works with a very broadly defined “publication” and that comes at a cost: it covers almost anything that can be bound in a volume, but it also conceptually chains us to everything that ever had been bound in a volume.
 
-**Sometimes WPUB treats a publication as a content**, especially when considering what is essential a what is not (fonts? eh). From a book-reading or even web-browsing perspective, this feels wrong — would I want to treat typesetting of a book as non-essential?
+**Sometimes WPUB treats a publication as a content**, especially when considering [what is essential a what is not][req7]. From a book-reading or even web-browsing perspective, this feels wrong — would I want to treat typesetting of a book as non-essential? 
 
-**Sometimes WPUB views a publication as a photocopy of a printed book**, keeping the structure of a paginated volume. Is this a right way to structure a digital hypertext-enabled content? For example, the spec refers to “answers in the back” of a textbook:
+There’s probably a value in trimming books down to basics for specific uses. Though, wouldn’t it be better to follow some predictable and broad rules than just expecting that every book will have two or more well-defined tiers of volume? I don’t know.
+
+**Sometimes WPUB views a publication as a photocopy of a printed book**, keeping the structure of a paginated volume. Is this the right way to structure a digital hypertext-enabled content? For example, the spec refers to “answers in the back” of a textbook:
 
 > Chandrasekhar has been assigned a set of exercises in his 
   math WP textbook. To double check his work, he wants to easily navigate to the answers in the back of the WP. ([UC42])
@@ -160,6 +165,8 @@ WPUB works with a very broadly defined “publication” and that comes at a cos
 > The answers of the test are given at the end of the publication. ([UC88])
 
 Some uses such as alphabetically ordered “Encyclopedia of Stuff” ([UC40]) feel outdated in a digital format. Not necessarily wrong to be published as a publication, but it does not feel right to apply a concept of “a reading order” to them. 
+
+[req7]: https://w3c.github.io/dpub-pwp-ucr/#r_const-res
 
 
 > ### Defining a publication
@@ -187,7 +194,7 @@ There’s a [use case][UC57] that requires easy findability of a place in digita
 
 Dropping some anchors into the text is easy as pie, but keeping layout-dependent attributes from print in sync with a digital copy is a laborious manual work (don’t even get me started on commonplace publishing processes in parallel production of both printed and digital content).
 
-Moreover, most textbooks (referenced in [UC57]) already use fine-grained numbering systems. (And you may always fall back to search in digital environments if everything else fails.)
+Moreover, most textbooks (referenced in [UC57]) already use fine-grained numbering systems. And you may always fall back to search in digital environments if everything else fails.
 
 Similarly to the above mentioned alphabetic ordering of content, referencing pages in a digital publication might help in specific cases, but I’d generally prefer going the other way. A more robust solution such as auto-numbering all paragraphs or sentences (as it’s done in next-book) might bring the scaffolding that provides addresses for the manual use and also for the computer to traverse.
 
@@ -202,11 +209,11 @@ On the one hand, the spec propels audiobooks into the hypertextual present, abol
 
 On the other hand, books themselves (audio- or not) remain to be accessed either as a packaged file stored in the filesystem or — reluctantly — via server (by URL). Every book is an island.
 
-I think that we need a platform that goes beyond a book and uses the generalized structure of a publication for higher goals — such as collaborative annotation practices or just public display of a personal library. And such platform should be standardized together with the publication itself.
+I think that we need a platform that goes beyond a book and uses the generalized structure of a publication for higher goals — such as collaborative annotation practices or just public display of a personal library. These are either easily achieved with printed books (sharing annotations) or ridiculously hard (splitting private and public annotations). I believe that such platform should be standardized together with the publication itself.
 
 Reference managers such as Zotero, Mendeley, or Bookends work in a very similar way already: just working with web content is *a pain* (and other commonly used formats in academia are just pathetic in their internal structure). 
 
-In effect, it might look similar to the current crop of e-reading apps, just opening the publication in the browser (possibly via an in-app server, nixing the issues related to accessing the book as a local file), storing the data and providing APIs.
+In effect, it might look similar to the current crop of e-reading apps, just opening the publication in the browser and pulling the user-generated data. Possibly via an in-app server, nixing the issues related to accessing the book as a local file.
 
 I’d love to manage my local content in one place (and in the dreamy future, to have the PWAs displayed there too). Please don’t mix up this wish with abolishing the raw filesystem: on the contrary, I want a nicely presented access to the stuff that is now stored in my browser’s hidden temporary folders.
 
@@ -221,7 +228,7 @@ Let’s abolish the notion of a *specialized WP user agent* entirely. Publicatio
 
 Stop half-way and e-books will still be the pain very akin to HTML e-mails, painstakingly supporting rendering engine from MS Word 2007.
 
-Also, meeting together on the open web is much better for accessibility and internationalization. I somehow cannot accept that the doc needs to mention the necessity of a good support for right-to-left writing or for privacy settings. That should be device/browser vendor’s job.
+Also, meeting together on the open web is much better for accessibility and internationalization. I somehow cannot accept that the doc needs to mention the necessity of good support for right-to-left writing or for privacy settings. That should be the device/browser’s vendor’s job.
 
 
 ### No such thing as society 
@@ -239,7 +246,7 @@ But there’s more to book than this.
 - How do I present web publications on a book-fair?
 - How do I split my private annotations from those I want to send to my colleague and those I want to publish on the web?
 
-There’s a lot to be explored: and no, there’s no clear answer to those questions. But the open web is required not only as the place to *find the answer*, but as the place to *ask the question*.
+There’s a lot to be explored: and no, there’s no clear answer to those questions. But the open web is required not only as the place to *find the answer* but as the place to *ask the question*.
 
 Only with the open platform can be the crazy ideas tried and executed. *“Let’s scrape all linked content that is in public domain or CC-licensed and include it in the generated book so that the offline experience gets better and the web gets incidentally archived!“* or maybe *“Reading UI should include tools for editing the text of the book, so that readers may cut those Foucault’s sentences into paragraphs and rearrange the ideas as they struggle to interpret them.”* Are these ideas good or a bad? I don’t know, let’s try.
 
@@ -252,9 +259,9 @@ Even in the spec, there’s a mention of a need for robust versioning ([UC126]) 
 
 ### Overview
 
-How hard it is to implement solutions to comply with all the requirements in the [Use Cases and Requirements][ucr] doc using only the existing open web technologies?
+How hard is it to implement solutions to comply with all the requirements in the [Use Cases and Requirements][ucr] doc using only the existing open web technologies?
 
-I tried to categorize the use cases ([check CSV if you want](./wpub-use-cases.csv)) and I arrived at six unevenly defined categories of use cases.
+I tried to roughly categorize the use cases ([categorization in CSV](./wpub-use-cases.csv)) and arrived at six unevenly defined categories of use cases. I marked with an asterisk in the table (and color fill in the chart below) requirements that can be met by solutions using just the existing open web platform.
 
 <table>
   <tr><th>UC&nbsp;count</th><th>requirement</th></tr>
@@ -303,23 +310,23 @@ I tried to categorize the use cases ([check CSV if you want](./wpub-use-cases.cs
   <tr>
     <td>*55</td>
     <td>
-      something that <strong>can be implemented using open web platform</strong>, but do not easily overlap with categories mentioned above
+      requirements that <strong>can be met by solutions using just the existing open web platform</strong> and do not overlap with the categories above
     </td>
   </tr>
 </table>
 
-The last category is obviously a lazily assembled mixed bag of requirements, however, their unifying attribute is critical (included are the first 12 UCs that mostly reiterate through the current basics of the open web platform).
+The last category is obviously a lazily assembled mixed bag of requirements; however, their unifying attribute is critical. (Included are the first 12 UCs that mostly reiterate through the current basics of the open web platform.)
 
-I’d add most of the first three categories (29 in total, marked with an \*asterisk in the table): 
+I’d add most of the first three categories (29 in total): 
 
 - 9 of the format-related use cases, 
 - 13 of the UI category, 
 - all 5 of the licensing ones, and 
 - both of the assistive tech 
 
-**That makes 84 out of 126 UCs easy to solve within the current open web platform.** The rest covers topics such as book packaging and offline storage (25 UCs) and user agent development (14 UCs), and two UCs solve spec-related issues.
-
 ![](./treemap.svg)
+
+**That makes 84 out of 126 UCs easy to solve within the open web platform in its current shape.** The rest covers topics such as book packaging and offline storage (25 UCs) and user agent development (14 UCs). Two UCs solve spec-related issues.
 
 But I’d very much like to stop brandishing these silly numbers. There are two important take-aways:
 
@@ -370,7 +377,7 @@ It’s (not just) an idea.
 
 There’s a working second generation prototype (book generator and browser code). The prototype is not the next-book, it’s a working implementation. Tech detail: Generator works on top of [jsdom], browser code uses [react]+[Redux].
 
-It’s incomplete, buggy, and not [well documented][docs], sometimes the prototype *is the documentation* of the idea. Many ideas are just coded in, as the field is so vast (possibly more than ten football fields).
+It’s incomplete, buggy, and not [well documented][docs], sometimes the prototype *is the documentation* of the idea. Many ideas are just coded in, as the field is so vast (possibly more than ten football fields). Some ideas are just mentioned somewhere in the many mind-maps and docs written over the years.
 
 There’s no prototype of the *sync functionality* — a web service that stores book’s state and allows keeping the book in sync over different devices. Publishers, book clubs, local “bookshelf” apps, etc. may use such a service. (Locally managed server might be the way to overcome the packaging limitation of current browsers — and maybe to free browsers the problem completely.)
 
@@ -378,7 +385,7 @@ Everything’s [up on Github][gh]. Licensed under MIT License, though I’m cons
 
 There’s a reference edition of [Lawrence Lessig’s Free Culture][fc] ([source code][fc-code]). Right now there’s a project backed by a Czech publisher [Nová Beseda][beseda] that focuses on annotation practices and allows me to work on next-book part-time (last year some publishers tried next-book in a similar project and [produced their own books][nbeu]).
 
-Only a handful of people touched the code, most of them not voluntarily (just another assignment in an IT job at a publisher).
+Only a handful of people touched the code, most of them not voluntarily (just another assignment in an IT job at a publisher). There‘s no real community yet.
 
 I’m aware that I might be rediscovering the wheel, but there are *so many* wheels that you need to mount on every web project.
 
@@ -402,9 +409,11 @@ Start collaboration with some institution that creates book-shaped content (e.g.
 
 Work with an academic publisher (or similar) that produces books at scale so that next-book is tested in a production environment.
 
+Start tracking the development of all next-book code publicly using Github issues.
+
 Cover the code of the prototype with automated tests to make contributing easier.
 
-Bring in more people so that the project gets a more realistic outline — in its vision, scope, short time goals, etc.
+**Bring in more people so that the project gets a more realistic outline** — in its vision, scope, short time goals, etc.
 
 [standard]: https://standardebooks.org
 
@@ -414,19 +423,21 @@ If you feel that any of the above is in any way good, please let me know.
 
 If you’d like to join forces in any way, please let me know right now!
 
-If you know about any organization possibly willing to cooperate or fund the development somehow, please link us up.
+If you know about any organization possibly willing to cooperate or fund the development and organizing somehow, please link us up.
 
-Fly me an [e-mail], ping me on [twitter][tw]. You may even click this attention-hungry CTA button just to see its `:active` state:
+Fly me an [e-mail], ping me on [twitter][tw], report an issue on [github][gh].
 
-<p><a class="button" href="mailto:info@jan-martinek.com">Respond to the call</button></a></p>
+<blockquote>
+  <p>You may want to even click this attention-hungry CTA button just to see its <code>:active</code> state (it opens the mailto: dialog):</p>
+  <p><a class="button" href="mailto:info@jan-martinek.com">Respond to the call</button></a></p>
+</blockquote>
 
-
-I want to know whether this is a workable future for me by March 2020, so any encouragement is very appreciated, help or cooperation even more so.
+Let’s find a way forward — to discuss, to cooperate, to publish. I want to know whether this is a workable future for me (feasible — not certain, of course) by March 2020, so any encouragement is very appreciated, help or cooperation even more so.
 
 
 ### A side note: business?
 
-I did not mention the business side of things. It’s vital to create a sustainable solution, and that requiers people getting paid for what they create. I hope that people will get paid for the books they publish — and I hope that I’ll be able to publish and read them too.
+I did not mention the business side of things. It’s vital to create a sustainable solution, and that requires people getting paid for what they create. I hope that people will get paid for the books they publish — and I hope that I’ll be able to publish and read them too.
 
 In the long run, even the standard development needs to become sustainable, but that’s not a problem to tackle right now. (I’m going to try to establish a funding platform for my own work, but that might not cover all that’s needed for next-book, even in the short term.)
 
