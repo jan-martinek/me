@@ -413,7 +413,7 @@ Start tracking the development of all next-book code publicly using Github issue
 
 Cover the code of the prototype with automated tests to make contributing easier.
 
-**Bring in more people so that the project gets a more realistic outline** — in its vision, scope, short time goals, etc.
+**Bring in more people so that the project gets a more realistic outline** — in its vision, scope, short term goals, etc.
 
 [standard]: https://standardebooks.org
 
