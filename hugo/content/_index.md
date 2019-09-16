@@ -1,6 +1,7 @@
 ---
 title: words && bytes
 articles:
+  - archive/next-book-cloud/index.md
   - archive/wpub-next-book/index.md
   - archive/talkin-bout-pagination.md
   - archive/big-early-web-innovations.md
