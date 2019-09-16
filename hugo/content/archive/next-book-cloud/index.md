@@ -4,15 +4,17 @@ subtitle: Four basic elements of reading ecosystem
 tags: [next-book, publishing, web, open web, digital-publishing]
 date: 2019-09-16
 projects: [next-book]
-images: ["gen-cover.png"]
+images: ["/archive/next-book-cloud/gen-cover.png"]
 ---
 
 Next-book makes every book an application. Any reader can utilize all the perks of the open web platform in its current form — both owning the documents and using the power of the network.
 
+The reading experience is more than just seeing the lines of text. It’s also using a comfortable device, returning to a book I left unfinished or sharing notes with a friend. A broader infrastructure is required to make such interactions possible.
 
-## Air, Earth, Fire, and Water
 
-There are four different app types in the ecosystem:
+## Four elements
+
+There are four different kinds of apps in the ecosystem:
 
 - 🔥 The *book* is a web document that includes a Javascript app that does all the reading magic. You can view it on the web (it has an offline mode, too) or download it locally.
 - 💨 A *book source app* provides books as static web publications on a specific URL. Any hosting service using HTTPS is very close to becoming a book source.
