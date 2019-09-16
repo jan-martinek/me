@@ -1,6 +1,6 @@
 ---
 title: "Next-book’s open cloud"
-subtitle: Four basic elements of reading ecosystem
+subtitle: Four basic elements of a reading ecosystem
 tags: [next-book, publishing, web, open web, digital-publishing]
 date: 2019-09-16
 projects: [next-book]
