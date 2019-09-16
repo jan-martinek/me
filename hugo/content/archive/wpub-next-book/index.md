@@ -3,6 +3,7 @@ title: WPUB and the future of digital publishing
 keywords: wpub, next-book, publishing, web, open-web, digital-publishing
 date: 2019-07-11
 projects: [next-book]
+images: ["/archive/wpub-next-book/gen-cover.png"]
 style: |
   <style>
     a.button {

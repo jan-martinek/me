@@ -4,6 +4,7 @@ subtitle: Commented slides from my talk at the [OpenAlt conference](https://open
 tags: [next-book, publishing, web, open web, crisis, digital-publishing]
 date: 2018-11-03
 projects: [next-book]
+images: ["/archive/next-book-openalt-2018/gen-cover.png"]
 ---
 ![](nextbook-openalt-2018-comments.002.jpeg)
 

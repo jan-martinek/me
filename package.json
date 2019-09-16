@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.0.0-beta.32",
+    "phantomjs": "^2.1.7",
     "sanitize.css": "^5.0.0"
   },
   "devDependencies": {
@@ -50,6 +51,7 @@
     "workbox-cli": "^2.1.0"
   },
   "scripts": {
+    "covers": "node_modules/phantomjs/lib/phantom/bin/phantomjs covers.js",
     "build": "npm start build",
     "lint": "npm start lint",
     "start": "nps",
