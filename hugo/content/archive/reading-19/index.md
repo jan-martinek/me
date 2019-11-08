@@ -5,7 +5,7 @@ date: 2019-11-08
 projects: [next-book]
 images: ["/archive/reading-19/gen-cover.png"]
 ---
-The conference [**Reading in a Digital Environment**](conf) in Regensburg just ended, and I sat down in a café at Hauptbahnhof to write down some quick notes. 
+The conference [**Reading in a Digital Environment**][conf] in Regensburg just ended, and I sat down in a café at Hauptbahnhof to write down some quick notes. 
 
 ![](building.jpeg)
 
@@ -71,7 +71,7 @@ Thanks to everybody who dropped by and talked with me about the *next-book* open
 
 If you liked these notes or the poster, maybe subscribe to our [newsletter][nb]. It’s short ([see][nl-archive]) and it goes out every other Friday. I’ll compose the next one right after I publish this ☺️.
 
-Also, you may want to follow me on [twitter][tw] or to discuss this [article there](tweet).
+Also, you may want to follow me on [twitter][tw] or to discuss this [article there][tweet].
 
 ![](bookmark.jpeg)
 
