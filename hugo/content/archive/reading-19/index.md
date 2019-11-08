@@ -3,7 +3,7 @@ title: "Notes from #ReadingConf19"
 tags: [next-book, publishing, web, open web, digital-publishing]
 date: 2019-11-08
 projects: [next-book]
-images: ["/archive/next-book-cloud/gen-cover.png"]
+images: ["/archive/reading-19/gen-cover.png"]
 ---
 The conference [**Reading in a Digital Environment**](conf) in Regensburg just ended, and I sat down in a café at Hauptbahnhof to write down some quick notes. 
 
@@ -25,14 +25,14 @@ In most studies, there’s no significant difference in various metrics related 
 - gradual increase of use of digital devices in reading as the technology becomes more refined, but users developed their behaviors earlier and did not accommodate yet,
 - or “shallow” reading habits/behaviors which even [bleed into paper-based reading][bleed].
 
-This is not to say that these studies are meaningless or saying nothing. Also, these criticisms were frequently addressed in the posters and talks right away. I learned a lot today! (And most of what’s been said supports my focus on the software side of e-reading, so that‘s a great validation).
+This is not to say that these studies are meaningless or saying nothing. Also, these criticisms were frequently addressed in the posters and talks right away. I learned a lot today! (And most of what’s been said supports my focus on the software side of e-reading, so that’s a great validation).
 
 
 ## Display or display?
 
 One question kept brewing in me since [Anne Mangen’s keynote][mangen]: is *digital/screen* really a *single medium*? We regularly consider cinema and TV to be different media, as the technologies and their social use are different.
 
-However, it‘s very much **not apparent** that the tech behind PDFs, e-readers, or websites is very different. This might be the point that invalidates in extensive measures the conclusions of many talks and posters.
+However, it’s very much **not apparent** that the tech behind PDFs, e-readers, or websites is very different. This might be the point that invalidates in extensive measures the conclusions of many talks and posters.
 
 Few people mentioned a distinction between e-ink and the other displays, but again, this notion disregards specific interfaces — buttons/touch, scrolling/jumping, animations, annotation functionalities, typography, etc.
 
@@ -58,11 +58,11 @@ And this is not some general finding — the people who should read the most are
 
 I think this might be attributed to factors such as:
 
-- The current digital solutions are often limited in contrast with their paper alternative, and they‘re hard to extend — frequently it’s not a matter of technology, but a business need (as hard as it is, this creates a context, where PDF shines brightly — as something that can be mangled, tortured, cut apart and stitched together and it still works).
+- The current digital solutions are often limited in contrast with their paper alternative, and they’re hard to extend — frequently it’s not a matter of technology, but a business need (as hard as it is, this creates a context, where PDF shines brightly — as something that can be mangled, tortured, cut apart and stitched together and it still works).
 - New tech still finds its place and big businesses find ways to teach unhealthy habits (always on, notifications, interfaces hard to put away once opened).
 - Changing nature of elementary and high school education (in too many ways to be specific, but the impact of digitization is not small).
-- Today‘s students find themselves in more precarious circumstances — and not only in the US; I have just a limited experience in Czechia, but it surprised me that half of my full-time students also had a full-time job (I didn’t have the capacity to study this in-depth, though).
-- And I think we can hardly overstate the impact of the internet platform creators (Google, Facebook, Apple, Amazon) who use techniques that “enhance user engagement“ that retrain information behaviors of all their users. This is especially relevant in the case of the once hopeful “digital natives” ([one of the speakers][] talked about method of training users to use Google Search critically).
+- Today’s students find themselves in more precarious circumstances — and not only in the US; I have just a limited experience in Czechia, but it surprised me that half of my full-time students also had a full-time job (I didn’t have the capacity to study this in-depth, though).
+- And I think we can hardly overstate the impact of the internet platform creators (Google, Facebook, Apple, Amazon) who use techniques that “enhance user engagement“ that retrain information behaviors of all their users. This is especially relevant in the case of the once hopeful “digital natives” ([one of the speakers][salmeron] talked about method of training users to use Google Search critically).
 
 
 ## That’s all
@@ -79,7 +79,7 @@ Also, you may want to follow me on [twitter][tw] or to discuss this [article the
 
 [nl-archive]: https://us20.campaign-archive.com/home/?u=f81ac979da2d23765713d081e&id=89f546e1fd
 [poster]: https://twitter.com/endlife/status/1192375785010712576
-[tweet]: https://twitter.com/endlife
+[tweet]: https://twitter.com/endlife/status/1192918506951598080
 [bleed]: https://www.theguardian.com/commentisfree/2018/aug/25/skim-reading-new-normal-maryanne-wolf
 [tw]: https://twitter.com/endlife
 [nb]: https://next-book.info
