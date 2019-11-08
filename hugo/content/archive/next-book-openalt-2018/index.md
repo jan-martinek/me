@@ -72,7 +72,7 @@ To make it funnier, when Apple developed an extended version of EPUB (with impro
 
 ![](nextbook-openalt-2018-comments.030.jpeg)
 
-Another thing is that EPUB lives aside from web standards. It was reasonable back in 2017 when hardware was weak and needed
+Another thing is that EPUB lives aside from web standards. It was reasonable back in 2007 when hardware was weak and needed
 a specific set of boundaries to be efficient (or so I think). The EPUB standard moves on slower than the web, so the world of HTML5 is
 still something to be desired on most e-readers.
 
