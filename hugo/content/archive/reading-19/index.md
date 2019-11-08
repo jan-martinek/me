@@ -7,11 +7,15 @@ images: ["/archive/next-book-cloud/gen-cover.png"]
 ---
 The conference [**Reading in a Digital Environment**](conf) in Regensburg just ended, and I sat down in a café at Hauptbahnhof to write down some quick notes. 
 
+![](building.jpeg)
+
 First of all, thanks to the organizers! I’ve met a lot of new people and attended some great sessions. And, of course, a lot of new questions popped up. Here are some quickly drafted notes.
 
 ## Paper or display?
 
 As expected, this is the most frequently asked question. Is either of those better than the other? Interestingly, most studies come with a definitive „well, maybe not.“
+
+![](comprehension.jpeg)
 
 In most studies, there’s no significant difference in various metrics related to reading. Sometimes there’s some specific difference that can be frequently explained by 
 
@@ -33,6 +37,8 @@ However, it‘s very much **not apparent** that the tech behind PDFs, e-readers,
 Few people mentioned a distinction between e-ink and the other displays, but again, this notion disregards specific interfaces — buttons/touch, scrolling/jumping, animations, annotation functionalities, typography, etc.
 
 As it is crucial to be careful in assessing how to approach paper/digital in specific uses, I believe it is essential to be much more granular when delineating the media and, therefore, **abolish the notion of digital/screen/display media category**.
+
+![](medium.jpeg)
 
 
 ## Reading is a lot
@@ -66,6 +72,9 @@ Thanks to everybody who dropped by and talked with me about the *next-book* open
 If you liked these notes or the poster, maybe subscribe to our [newsletter][nb]. It’s short ([see][nl-archive]) and it goes out every other Friday. I’ll compose the next one right after I publish this ☺️.
 
 Also, you may want to follow me on [twitter][tw] or to discuss this [article there](tweet).
+
+![](bookmark.jpeg)
+
 
 
 [nl-archive]: https://us20.campaign-archive.com/home/?u=f81ac979da2d23765713d081e&id=89f546e1fd
