@@ -6,7 +6,7 @@ category: cokoliv,  photo
 tags: []
 comments: []
 ---
-<p>V úterý jsem na Facebook dal událost <a href="https://www.facebook.com/events/1383567628538754/">Brněnská fotonoc 2.0</a>. Zní to velmi zásadně a druhoverzně, ale vlastně šlo jen o výzvu k focení Brna během páteční noci. „2.0“ znamená, že jsme podobnou věc už <a href="http://www.flickr.com/photos/jan-martinek/sets/72157623971348259/with/4622421598/">kdysi provedli s kamarádem a bylo to fajn</a>.</p>
+<p>V úterý jsem na Facebook dal událost <a href="https://www.facebook.com/events/1383567628538754/">Brněnská fotonoc 2.0</a>. Zní to velmi zásadně a druhoverzně, ale vlastně šlo jen o výzvu k focení Brna během páteční noci. „2.0“ znamená, že jsme podobnou věc už <a href="https://www.flickr.com/photos/jan-martinek/sets/72157623971348259/with/4622421598/">kdysi provedli s kamarádem a bylo to fajn</a>.</p>
 <p><img src='/assets/migrated/wp-uploads/2013/08/dsc_6675.jpg' alt='dsc_6675.jpg' /></p>
 <p>Týden byl obtížný, ale nakonec přišel pátek a ač trochu nevyspalý, vydal jsem se fotit. <em>Překvapil mě rychlý nástup těžce negativního pocitu z celého večera:</em> Ať vyfotím cokoli ze Špilasu, bude to pohlednicový a všemi okoukaný pohled. Když fotím stíny, stejně to nikomu nic neřekne. Nejsem dost trpělivý. Ve městě mě zajímají lidé, <em>oni jsou město</em>, ale na dlouhé expozici jsou odsouzeni stát se stínem. Do rána nevydržím. Město je v pátek večer plné opilých cizinců, snad kromě Jakubáku. Má momentární situace mě stále víc tahala k obecnějšímu přemýšlení o sobě a nebylo o co stát. Začal jsem pochybovat o smyslu celé akce a především o volbě skličujícího pátečního večera. S postupující únavou jsem zvládl pár fotek, ale do postele jsem si už ve dvě lehal sklesle.</p>
 <hr>

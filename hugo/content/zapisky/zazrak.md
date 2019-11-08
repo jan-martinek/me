@@ -21,7 +21,7 @@ našel správné úřady <em>(&bdquo;Vy nejste odsuď, co?&ldquo;).</em></p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">Papírování</span> | <span class="comname">God.zilla</span> |  <a href="http://blog.sedenka.net">http://blog.sedenka.net</a> (pondělí&nbsp;25.&nbsp;04.&nbsp;2005,&nbsp;13:28)</p>
+<p style="font-weight:bold"><span class="compredmet">Papírování</span> | <span class="comname">God.zilla</span> |  <a href="https://blog.sedenka.net">https://blog.sedenka.net</a> (pondělí&nbsp;25.&nbsp;04.&nbsp;2005,&nbsp;13:28)</p>
 <p>Těš se na podpis pravé pracovní smlouvy.. ještě teď mi je špatně, když vidím barevný papír daňového úřadu ;)) </p>
 </div>
 </div>

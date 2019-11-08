@@ -27,7 +27,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (sobota&nbsp;16.&nbsp;09.&nbsp;2006,&nbsp;10:17)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (sobota&nbsp;16.&nbsp;09.&nbsp;2006,&nbsp;10:17)</p>
 <p>Ha, tak ty ho mas taky? To by jeden nerekl. Mluvim samozrejme o tom popisovaci cedecek, ktery dela na prvnich fotkach dustojne krovi ;) </p>
 </div>
 <div class="comment">
@@ -35,7 +35,7 @@ comments: []
 <p>ve skutečnosti jsem fotil tu fixu, aby bylo vidět, že ta klávesnice za ní skoro není vidět :) <br>  <br> a taky je přeci prestižní ukázat všem, že vlastním tento úzce specializovaný nástroj :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">God.zilla</span> |  <a href="mailto:jaroslav@sedenka.cz">mail</a>  <a href="http://blog.sedenka.cz">http://blog.sedenka.cz</a> (neděle&nbsp;17.&nbsp;09.&nbsp;2006,&nbsp;15:33)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">God.zilla</span> |  <a href="mailto:jaroslav@sedenka.cz">mail</a>  <a href="https://blog.sedenka.cz">https://blog.sedenka.cz</a> (neděle&nbsp;17.&nbsp;09.&nbsp;2006,&nbsp;15:33)</p>
 <p>Take se mi doma par kousku vali, mame ho uz strasne dlouho (prodaval se v balenich po 4 kusech v ruznych barvach :-) </p>
 </div>
 <div class="comment">

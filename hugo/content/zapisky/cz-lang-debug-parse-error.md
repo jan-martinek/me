@@ -18,13 +18,13 @@ je, v poslední době slušně frekventované, úsloví ve stylu &bdquo;škody o
 v řádech pěti milionů&ldquo;.</p>
 <p>Vždycky mi to trhá srdce, ale myslel jsem, že najít z fleku nějaký příklad
 bude problém. Ale.. bohužel,
-<a href="http://www.google.com/search?q=v+%C5%99%C3%A1du+osmi+milion%C5%AF&sourceid=opera&num=25&ie=utf-8&oe=utf-8">google
+<a href="https://www.google.com/search?q=v+%C5%99%C3%A1du+osmi+milion%C5%AF&sourceid=opera&num=25&ie=utf-8&oe=utf-8">google
 se předvedl,</a> například:</p>
 <ul>
-<li><a href="http://www.novinky.cz/03/32/14.html">Novinky.cz:</a> Prognózy pro rok 2014, do kdy mají
+<li><a href="https://www.novinky.cz/03/32/14.html">Novinky.cz:</a> Prognózy pro rok 2014, do kdy mají
 ČSA zpracovanou rozvojovou strategii, se pohybují v řádu osmi milionů přepravených cestujících ročně.
 <em>(nebo že by na novinkách používali osmičkovou číselnou soustavu?)</em></li>
-<li><a href="http://www.bbc.co.uk/czech/interview/020830_svagr.shtml">Rozhovor na BBC Czech:</a>
+<li><a href="https://www.bbc.co.uk/czech/interview/020830_svagr.shtml">Rozhovor na BBC Czech:</a>
 Jeden kilometr dálnice, připomínám, sice to číslo občas zaznívá,
 se bez problémů může pohybovat v řádu 250 až 300 milionů korun, takže to
 jsou opravdu ohromná čísla, ohromně velké relace.</li>

@@ -17,11 +17,11 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">lukyn.v</span> |  <a href="http://album750.blatouch.net/">http://album750.blatouch.net/</a> (&nbsp;27.&nbsp;06.&nbsp;2006,&nbsp;21:48)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">lukyn.v</span> |  <a href="https://album750.blatouch.net/">https://album750.blatouch.net/</a> (&nbsp;27.&nbsp;06.&nbsp;2006,&nbsp;21:48)</p>
 <p>Máš to dobře. Jinak je jedno, jestli &quot;ještě že&quot; nebo &quot;ještěže&quot;. ;) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Soooc</span> |  <a href="http://sooochub.wz.cz">http://sooochub.wz.cz</a> (&nbsp;27.&nbsp;06.&nbsp;2006,&nbsp;23:52)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Soooc</span> |  <a href="https://sooochub.wz.cz">https://sooochub.wz.cz</a> (&nbsp;27.&nbsp;06.&nbsp;2006,&nbsp;23:52)</p>
 <p>A jakepak jmeno jste navrhli zirafce? </p>
 </div>
 <div class="comment">

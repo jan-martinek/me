@@ -22,7 +22,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">.</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (&nbsp;18.&nbsp;01.&nbsp;2005,&nbsp;00:29)</p>
+<p style="font-weight:bold"><span class="compredmet">.</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (&nbsp;18.&nbsp;01.&nbsp;2005,&nbsp;00:29)</p>
 <p>jsi proste sikulka, rekl ti to uz nekdo? ;) </p>
 </div>
 <div class="comment">
@@ -30,7 +30,7 @@ comments: []
 <p>nj, asi jsem jeste nevidel nekoho, kdo by dokazal utratit dvacku (odhadem ;)) za to, aby zjistil, jak funguje slovnik :) ale za tu srandu to stalo :)  <br>  <br> kdyz na to tak koukam znova, tak sem asi fakt prasteny :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">God.zilla</span> |  <a href="http://blog.sedenka.net">http://blog.sedenka.net</a> (&nbsp;18.&nbsp;01.&nbsp;2005,&nbsp;19:05)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">God.zilla</span> |  <a href="https://blog.sedenka.net">https://blog.sedenka.net</a> (&nbsp;18.&nbsp;01.&nbsp;2005,&nbsp;19:05)</p>
 <p>priste zkus treba wap.slovnik.cz :-) </p>
 </div>
 <div class="comment">

@@ -15,7 +15,7 @@ Anopyrin&nbsp;100mg&nbsp;0-1-0.</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Soooc</span> |  <a href="mailto:xsoc@post.cz">mail</a>  <a href="http://soc.borec.cz">http://soc.borec.cz</a> (sobota&nbsp;7.&nbsp;01.&nbsp;2006,&nbsp;23:20)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Soooc</span> |  <a href="mailto:xsoc@post.cz">mail</a>  <a href="https://soc.borec.cz">https://soc.borec.cz</a> (sobota&nbsp;7.&nbsp;01.&nbsp;2006,&nbsp;23:20)</p>
 <p>Ja bych to moc pozitivne nevidel to tvoje poskakovani. </p>
 </div>
 <div class="comment">

@@ -14,7 +14,7 @@ minutách ve frontě, která nijak neskrývala svůj brutální charakter
 (no, bylo to ve škole, že). Ale lístky jsou, hlavní sál sice zmizel,
 ale aspoň je to stůl.</p>
 <p>Dneska jsem byl mrknout na
-<a href="http://www.provazek.cz/anotace.asp?Typ=20&ID=P0329">Lišku Bystroušku</a>,
+<a href="https://www.provazek.cz/anotace.asp?Typ=20&ID=P0329">Lišku Bystroušku</a>,
 dosti kvalitní podívaná. Jen jsem nepoznal žabu (stane se) :). Většinu doby
 jsem seděl buď zařezaný do sedačky (a to je mají v Uherském Hradišti
 měkkoučké) nebo vysmátý (no, ale spíš teda častěj zařezán, bylo to ostré).</p>

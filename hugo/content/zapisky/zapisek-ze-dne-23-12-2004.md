@@ -12,17 +12,17 @@ comments: []
 <p>tak jsem si solidně zaběhal, na chvíli se zastavil u romana, pak zase vyběhl, dokoupil  filtry a šel na nádr. Tam v trafice ležel nový hype, čelem vzad (poklidné čekání se nekoná)  a krz celé město jsem se rychlou chůzí vrátil k bankomatu a hype zakoupil..</p>
 <p>doma jsem pak s taťkou připevňoval sestřin nový lustr - velký mrak s mrakem malý halogenek -  a pálil papíry (trhání zlatých stránek na malé kousky je vskutku zábava pro náročné)..  takový oheň v padající noci se zběsilým sněžením (celý den sněžíííí) má své kouzlo..</p>
 <p>večer jsem šel ke zpovědi do kostela, kde zrovna měnili rozestavení celého kostela, nahazovali  betlém, stavili stromečky.. taky kouzelný zážitek..</p>
-<p>&amp; doma pak.. ani nevím, před chvílí jsem provedl pořádek v pokoji a šel se dívat na vánoční  díl &bdquo;mezi námi zvířaty&ldquo;, paráda :) sledovat soba, jak říká, že je santa celkem frajer..  jo, to mi připomíná nový díl zeleného raoula, který je dost dobrý,   <a href="http://www.reflex.cz/Clanek30295.htm">kdyžtak mrkejte</a>..</p>
+<p>&amp; doma pak.. ani nevím, před chvílí jsem provedl pořádek v pokoji a šel se dívat na vánoční  díl &bdquo;mezi námi zvířaty&ldquo;, paráda :) sledovat soba, jak říká, že je santa celkem frajer..  jo, to mi připomíná nový díl zeleného raoula, který je dost dobrý,   <a href="https://www.reflex.cz/Clanek30295.htm">kdyžtak mrkejte</a>..</p>
 <p>zítra je štědrý den, pak ještě na svátky jsem doma a pak.. mizím na chatu. a letos asi strávím  vánoce bez jakékoli elektroniky.. cédéčka neuslyším, odešla mi cdromka v notebooku a mp3 přehrávač,  jinak není co brát.. a mobil? ten asi zůstane doma taky. s kým bych rád mluvil, s tím nechci mluvit  přes mobil, zvlášť ne přes smsky. a s tím, s kým mluvit nechci, nebudu mluvit ani když budu mít  mobil. takže není žádný důvod, proč jej tahat s sebou. otázka je, co si s sebou vezmu.</p>
 <p>mno, takže teďka už veselé svátky přeju a pro dnešek končím. mějte se krásně. užijte vánoc.</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (pátek&nbsp;24.&nbsp;12.&nbsp;2004,&nbsp;12:07)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (pátek&nbsp;24.&nbsp;12.&nbsp;2004,&nbsp;12:07)</p>
 <p>preju nej nej velikonoce a bohatou pomlazku! </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Charlotte</span> |  <a href="http://wicked-angel.net">http://wicked-angel.net</a> (pátek&nbsp;24.&nbsp;12.&nbsp;2004,&nbsp;15:30)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Charlotte</span> |  <a href="https://wicked-angel.net">https://wicked-angel.net</a> (pátek&nbsp;24.&nbsp;12.&nbsp;2004,&nbsp;15:30)</p>
 <p>Šťastné, veselé a andělské ;-) </p>
 </div>
 </div>

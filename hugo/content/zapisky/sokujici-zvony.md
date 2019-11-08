@@ -17,7 +17,7 @@ zvykl. Ale že má někdo posunutý kostel, to mě překvapilo :)</p>
 <p>diky:) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a>  <a href="http://jan-martinek.com">http://podnebi.wz.cz</a> (čtvrtek&nbsp;26.&nbsp;05.&nbsp;2005,&nbsp;22:50)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a>  <a href="https://jan-martinek.com">https://podnebi.wz.cz</a> (čtvrtek&nbsp;26.&nbsp;05.&nbsp;2005,&nbsp;22:50)</p>
 <p><strong>syrta&gt;</strong> rádo se stalo.. </p>
 </div>
 <div class="comment">

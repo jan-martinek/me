@@ -32,7 +32,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (pátek&nbsp;14.&nbsp;07.&nbsp;2006,&nbsp;19:31)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (pátek&nbsp;14.&nbsp;07.&nbsp;2006,&nbsp;19:31)</p>
 <p>vazne umis psat delsi dobu nez pocitat? To bych necekal :) ja to mam zarucene obracene a navic psat (citelne) uz zase neumim... </p>
 </div>
 <div class="comment">
@@ -44,7 +44,7 @@ comments: []
 <p>btw čitelně psát mi jde v klidu. prostě sednu, položím ruce na klávesnici... </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">chuck.m</span> |  <a href="http://suchosch.net/morrisland">http://suchosch.net/morrisland</a> (pátek&nbsp;14.&nbsp;07.&nbsp;2006,&nbsp;22:22)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">chuck.m</span> |  <a href="https://suchosch.net/morrisland">https://suchosch.net/morrisland</a> (pátek&nbsp;14.&nbsp;07.&nbsp;2006,&nbsp;22:22)</p>
 <p>volal mě někdo? :) </p>
 </div>
 <div class="comment">
@@ -52,7 +52,7 @@ comments: []
 <p>wow, suchoschovo staré já se vrací :-) <br>  <br> ale ne, byla to narážka na chucka.n, o jeden oblouček vedle :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (sobota&nbsp;15.&nbsp;07.&nbsp;2006,&nbsp;13:45)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (sobota&nbsp;15.&nbsp;07.&nbsp;2006,&nbsp;13:45)</p>
 <p>pocitani je lehke, to jsem umel uz pred skolou :) a kdyz uz psani zjednodusujes na 30 znaku a &quot;tim to hasne&quot;, tak pocitani mas 10 znaku a 4 znamenka operaci ;) <br>  <br> a ja jsem pred skolou pocital vagony a tech nekdy bylo... :) ale 204 taky asi ne ;) </p>
 </div>
 <div class="comment">
@@ -60,11 +60,11 @@ comments: []
 <p>nj, jenže vydat zvuk bé při pohledu na tyčku s dvěma kolečkama (B) je jednoduché. 7*8 mě strašilo dlouho :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (neděle&nbsp;16.&nbsp;07.&nbsp;2006,&nbsp;09:55)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (neděle&nbsp;16.&nbsp;07.&nbsp;2006,&nbsp;09:55)</p>
 <p>Vazne si myslis, ze by si te jeste chuck.n nepodal? Slysel jsem, ze je to peknej drsnak. A aby to bylo tematicky, tak si schvalne tipni, kdo potterovi zabil rodice. Ze pry Ty-vis-kdo... no, meli bychom se v poslednim dilu pripravit na velke prekvapeni ;) </p>
 </div>
 <div class="comment">
 <p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a> (neděle&nbsp;16.&nbsp;07.&nbsp;2006,&nbsp;11:47)</p>
-<p>to jo, ale neozval se - chuck.n se totiž jednou do sítě zamotal a ve zlosti ji zmlátil natolik, že se mu internet vyhýbá. <br>  <br> více o chuck.n-ových hrdinských činech: <a href="http://tinyurl.com/rr6w9">http://tinyurl.com/rr6w9</a> </p>
+<p>to jo, ale neozval se - chuck.n se totiž jednou do sítě zamotal a ve zlosti ji zmlátil natolik, že se mu internet vyhýbá. <br>  <br> více o chuck.n-ových hrdinských činech: <a href="https://tinyurl.com/rr6w9">https://tinyurl.com/rr6w9</a> </p>
 </div>
 </div>

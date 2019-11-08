@@ -18,7 +18,7 @@ comments: []
 <p>nevim, jestli je otazka na nove posty stale aktualni,, ale mohl bys zkusit nejake novsi fotky, ..az bude cas:) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Soooc</span> |  <a href="mailto:xsoc@post.cz">mail</a>  <a href="http://soc.borec.cz">http://soc.borec.cz</a> (sobota&nbsp;22.&nbsp;10.&nbsp;2005,&nbsp;00:12)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Soooc</span> |  <a href="mailto:xsoc@post.cz">mail</a>  <a href="https://soc.borec.cz">https://soc.borec.cz</a> (sobota&nbsp;22.&nbsp;10.&nbsp;2005,&nbsp;00:12)</p>
 <p>Nejak si honziku prestal pobihat se svou kouzelnou krabickou a je to celkem skoda :( </p>
 </div>
 </div>

@@ -8,7 +8,7 @@ comments:
   - id: 11089
     author: Pavel Šíma
     author_email: sima.pavel2@gmail.com
-    author_url: http://aubblog.fsspodcast.cz
+    author_url: https://aubblog.fsspodcast.cz
     date: '2009-01-16 23:37:06 +0100'
     date_gmt: '2009-01-16 22:37:06 +0100'
     content: "Och, jak mi kontakt s tímto živočišným druhem chybí. :)\r\nTady v Beirutu je to samá publikace typu \"New York Times Best Seller\" a kus poctivé vědy, aby jeden pohledal. Všechny ty historické články už mi začínají lézt krkem.\r\nKaždopádně bys tu definici měl někde publikovat."

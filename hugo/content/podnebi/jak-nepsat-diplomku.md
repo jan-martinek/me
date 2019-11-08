@@ -13,7 +13,7 @@ Aneb *„tohle doma nezkoušejte, děti“*. Toto skutečně není příklad hod
 
 #### V čase
 
-- 23\. března &mdash; Během poobědové diskuse na **barcampu <a href="http://boritanicit.cz">Bořit a ničit</a>** se bavíme o tom, že nevím, jak to se mnou vlastně napadne. Padne nápad, že bych mohl zpracovat něco s tou komisí, přece.
+- 23\. března &mdash; Během poobědové diskuse na **barcampu <a href="https://boritanicit.cz">Bořit a ničit</a>** se bavíme o tom, že nevím, jak to se mnou vlastně napadne. Padne nápad, že bych mohl zpracovat něco s tou komisí, přece.
 - 24\. března &mdash; Naučný a meditativní výlet do Adamova s průvodním slovem Standy Bilera.
 
 <figure><img src="/assets/migrated/wp-uploads/2014/03/5bea8d5494cd11e2b68a22000a1f9af0_7.jpg"></figure>
@@ -225,7 +225,7 @@ O necelý měsíc později jsem práci obhájil a úspěšně ukončil studium�
 </tr>
 <tr>
 <th>1</th>
-<td> <a href="http://www.eenet.ee/EENet/saunja.html">vylíhnutý orel</a></td>
+<td> <a href="https://www.eenet.ee/EENet/saunja.html">vylíhnutý orel</a></td>
 </tr>
 <tr>
 <th>1</th>

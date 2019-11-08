@@ -13,7 +13,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://juneau.wz.cz">web</a> (v&nbsp;sobotu&nbsp;1.&nbsp;05.&nbsp;2004,&nbsp;v&nbsp;01:16)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://juneau.wz.cz">web</a> (v&nbsp;sobotu&nbsp;1.&nbsp;05.&nbsp;2004,&nbsp;v&nbsp;01:16)</p>
 <p>jen tak mimochodem, vitej v evrope </p>
 </div>
 <div class="comment">
@@ -21,7 +21,7 @@ comments: []
 <p>on, posledni dobou mam pocit ze EU skoro nikoho nezajima.. tak aspon nekdo :-) <br>  <br> dodrzujete vlastne nekdo &quot;libaci&quot; tresnovy prvomajovy zvyk? :-) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://juneau.wz.cz">web</a> (v&nbsp;sobotu&nbsp;1.&nbsp;05.&nbsp;2004,&nbsp;v&nbsp;12:48)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://juneau.wz.cz">web</a> (v&nbsp;sobotu&nbsp;1.&nbsp;05.&nbsp;2004,&nbsp;v&nbsp;12:48)</p>
 <p>kdyby bylo koho, tak proc ne? </p>
 </div>
 <div class="comment">

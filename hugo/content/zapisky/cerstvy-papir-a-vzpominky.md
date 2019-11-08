@@ -21,7 +21,7 @@ taky jsem si něco dovezl, mmm, a ne jeden kousek, mmm, jdu si číst..</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (pondělí&nbsp;11.&nbsp;04.&nbsp;2005,&nbsp;19:30)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (pondělí&nbsp;11.&nbsp;04.&nbsp;2005,&nbsp;19:30)</p>
 <p>to jsi byl na Vaclávaku v knihkupectví? takovém tom 3 patrovém, kde jsme strávili aspoň hoďku prohlížením všeho co bychom skoupili mít tak 20000 volných ... :) </p>
 </div>
 <div class="comment">
@@ -33,7 +33,7 @@ taky jsem si něco dovezl, mmm, a ne jeden kousek, mmm, jdu si číst..</p>
 <p>Jo tak to knihkupectví sem taky viděla, dokonce sem byla i uvnitř a nic sem si tam nekoupila, protože sem neměla čas a musela sem hned jít :((( <br> Btw:Nebylo by jednoduší ty knihkupectví vykrást než shánět volných 20 tisíc? </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (čtvrtek&nbsp;14.&nbsp;04.&nbsp;2005,&nbsp;21:43)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (čtvrtek&nbsp;14.&nbsp;04.&nbsp;2005,&nbsp;21:43)</p>
 <p>vykrást? a na václaváku? to bych opravdu musel nemít co číst ;) </p>
 </div>
 </div>

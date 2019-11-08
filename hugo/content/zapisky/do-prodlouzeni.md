@@ -8,21 +8,21 @@ comments:
   - id: 7385
     author: suchosch
     author_email: suchosch@suchosch.net
-    author_url: http://suchosch.net
+    author_url: https://suchosch.net
     date: '2008-10-23 23:02:50 +0200'
     date_gmt: '2008-10-23 21:02:50 +0200'
     content: taky si připadám nějak trvale neudržitelně... (ani tip, ani rada, ani cesta.)
   - id: 7386
     author: davo
     author_email: d.tvrdon@gmail.com
-    author_url: http://david.oktavagcm.sk/blog/
+    author_url: https://david.oktavagcm.sk/blog/
     date: '2008-10-23 23:18:58 +0200'
     date_gmt: '2008-10-23 21:18:58 +0200'
     content: k tym drakom len tolko, ze v minule som videl ako ich deti pustaju a prichytil som sa pri usmeve, bolo to pekne, a s tvojim time managementom to je tazkeee.. mozna mala rada, pracujes aby si zil a nie naopak :-)
   - id: 7388
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2008-10-24 00:35:58 +0200'
     date_gmt: '2008-10-23 22:35:58 +0200'
     content: 'davo: no právě. to si uvědomuju, ale nedaří se mi to dovést do praxe.'

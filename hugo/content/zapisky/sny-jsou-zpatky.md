@@ -15,7 +15,7 @@ comments:
   - id: 2672
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2008-06-02 21:13:35 +0200'
     date_gmt: '2008-06-02 19:13:35 +0200'
     content: "Dřív se mi zdávaly často, ale děsivé jen v nějakých krizích. Teď se mi zdají víceméně kdykoli mají příležitost, tj. když spím aspoň sedm hodin. \r\n\r\nAle ty děsivé zatím někde čekají, asi nemám dostatečnou krizi (a nezdá se, že by se mi dělo něco zásadního), ani můj neoblíbený \"skákací\" sen zatím nepřišel."
@@ -29,7 +29,7 @@ comments:
   - id: 3780
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2008-06-18 03:29:22 +0200'
     date_gmt: '2008-06-18 01:29:22 +0200'
     content: "Nevšiml jsem si, že mi tu přibyl komentář... dlouho. Dneska jsem odmazával spam v Gmailu a najednou jsem si ho všiml :)\r\n\r\nMůj skákací sen je děsivý - skáču a nemůžu se zastavit, bojím se při dopadu, bojím se výšky - je to něco jako když se rozběhnu z kopce, dělám velké kroky a nedá se zastavit - pořád skáču výš, nad stromy i domy a pořád mám větší strach z výšky a z dopadu. Ale už jsem ho dlouho neměl.\r\n\r\nJá děsivé sny moc rád nemám. Ten postřeh je dobrý, prožívám sny velice intenzivně, ale i tak z nich mám většinou spíš špatný pocit."

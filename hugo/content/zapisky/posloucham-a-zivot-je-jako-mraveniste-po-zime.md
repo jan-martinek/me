@@ -11,11 +11,11 @@ comments: []
 I need you now<br />
 Slow me down<br />
 I don`t know how“</p>
-<p>(Unkle, War Stories, <a href="http://www.youtube.com/watch?v=Nmq-BkruPrU">Hold my hand</a>)</em></p>
+<p>(Unkle, War Stories, <a href="https://www.youtube.com/watch?v=Nmq-BkruPrU">Hold my hand</a>)</em></p>
 <p>Muse jsou naopak zcela vhodní pro nekonstruktivní poslouchání. Nekonečný vodopád slov, apokalypsa. Každá radost je po zásluze potrestána. Kytary brousí hrany světa, vyhlazují svět do jedné ploché tmavě modré desky, ve které se odrážím. Kizuki se otrávil výfukovými plyny z vlastního Nissanu. Nedokážu nic říct, vlastně se o to ani nesnažím. Tento život může být ten poslední. Rytmus se neúprosně, ale pomalu sype, na obzoru černé díry se zastavuje. Zapadám mezi tóny.</p>
 <p><em>„don't kid yourself<br />
 and don't fool yourself<br />
 this love's too good to last<br />
 and I'm too old to dream”</p>
-<p>(Muse, Absolution, <a href="http://www.youtube.com/watch?v=tNlvhPiTdV4">Blackout</a>)</em></p>
+<p>(Muse, Absolution, <a href="https://www.youtube.com/watch?v=tNlvhPiTdV4">Blackout</a>)</em></p>
 <p>Technická poznámka: Ne, nejde o mé dvě nejoblíbenější kapely. U.N.K.L.E. k tomuhle titulu ale mají blízko.</p>

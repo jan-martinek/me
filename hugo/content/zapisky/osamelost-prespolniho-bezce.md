@@ -15,7 +15,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show,net">http://reality-show,net</a> (středa&nbsp;17.&nbsp;01.&nbsp;2007,&nbsp;14:03)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show,net">https://reality-show,net</a> (středa&nbsp;17.&nbsp;01.&nbsp;2007,&nbsp;14:03)</p>
 <p>Ale no tak, víš co bych já za takový výhled dal? :) Ale jinak, sedět tu na pokoji až do noci sám, to by mě určitě nenadchlo. Dnes tu budeme po delší době opět kompletní a bůhví co všechno se (v Age of Empires 2) semele. </p>
 </div>
 </div>

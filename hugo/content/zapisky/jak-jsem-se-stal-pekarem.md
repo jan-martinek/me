@@ -19,7 +19,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">suchosch</span> |  <a href="http://suchosch.net">http://suchosch.net</a> (středa&nbsp;24.&nbsp;10.&nbsp;2007,&nbsp;01:27)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">suchosch</span> |  <a href="https://suchosch.net">https://suchosch.net</a> (středa&nbsp;24.&nbsp;10.&nbsp;2007,&nbsp;01:27)</p>
 <p>a máš nějakou písničku? (čí chleba jíš, toho píseň zpívej...) </p>
 </div>
 <div class="comment">
@@ -27,7 +27,7 @@ comments: []
 <p>tak tento komentář nemá chybu:) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">ailyn</span> |  <a href="http://deviantka.net">http://deviantka.net</a> (pondělí&nbsp;29.&nbsp;10.&nbsp;2007,&nbsp;14:47)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">ailyn</span> |  <a href="https://deviantka.net">https://deviantka.net</a> (pondělí&nbsp;29.&nbsp;10.&nbsp;2007,&nbsp;14:47)</p>
 <p>sestra používá předpřipravené směsi a já ten chleba u ní vždycky jím místo zákusku :-) </p>
 </div>
 </div>

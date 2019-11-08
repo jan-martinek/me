@@ -21,7 +21,7 @@ jednu z nekonečných a zbytečných diskusí o smyslu způsobu naší výuky, o
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (čtvrtek&nbsp;24.&nbsp;02.&nbsp;2005,&nbsp;22:16)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (čtvrtek&nbsp;24.&nbsp;02.&nbsp;2005,&nbsp;22:16)</p>
 <p>tohle je aspoň u nás v Čj naprosto pravda. Profesorka se snaží diskutovat, ale nikdo ji nic neřekne, takže se to hrozně natahuje a prd z toho. </p>
 </div>
 <div class="comment">
@@ -29,7 +29,7 @@ jednu z nekonečných a zbytečných diskusí o smyslu způsobu naší výuky, o
 <p>tak u náš zase diskuse většinou funguje tak, že se sveze pryč od tématu a bavíme se půl hodiny o něčem, co leží naprosto mimo řešený problém. <br>  <br> druhá možnost &quot;diskuse&quot; je, když se baví dvě osoby, které se vzájemně snaží přeřvat, protože se vzájemně nedokáží tolerovat a poslouchat.. <br>  <br> občas se o něčem dá bavit, ale ne moc dlouho :) ale co už se dá dělat.. </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="http://www.php-weblog.com">http://www.php-weblog.com</a> (pátek&nbsp;25.&nbsp;02.&nbsp;2005,&nbsp;21:33)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="https://www.php-weblog.com">https://www.php-weblog.com</a> (pátek&nbsp;25.&nbsp;02.&nbsp;2005,&nbsp;21:33)</p>
 <p>svata pravda, diskuse strasne moc zdrzuje :)) ale nekdy diskutujeme dobrovolne </p>
 </div>
 </div>

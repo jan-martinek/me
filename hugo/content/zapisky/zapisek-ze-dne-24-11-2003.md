@@ -26,7 +26,7 @@ comments: []
 </div>
 <div class="comment">
 <p style="font-weight:bold"><span class="compredmet">Ahoj</span> | <span class="comname">Jenom</span> | (ve&nbsp;čtvrtek&nbsp;27.&nbsp;11.&nbsp;2003,&nbsp;v&nbsp;20:08)</p>
-<p>Zkoušim bezpečnost serverů: <br> &lt;script&gt; <br> window.location.href=&quot;http://www.orisek.net&quot;; <br> &lt;/script&gt; </p>
+<p>Zkoušim bezpečnost serverů: <br> &lt;script&gt; <br> window.location.href=&quot;https://www.orisek.net&quot;; <br> &lt;/script&gt; </p>
 </div>
 <div class="comment">
 <p style="font-weight:bold"><span class="compredmet">Citrogrep</span> | <span class="comname">Zutt</span> | (9.&nbsp;12.&nbsp;2003,&nbsp;v&nbsp;13:26)</p>

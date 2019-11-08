@@ -13,7 +13,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">suchosch</span> |  <a href="http://suchosch.net">http://suchosch.net</a> (pondělí&nbsp;22.&nbsp;01.&nbsp;2007,&nbsp;01:05)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">suchosch</span> |  <a href="https://suchosch.net">https://suchosch.net</a> (pondělí&nbsp;22.&nbsp;01.&nbsp;2007,&nbsp;01:05)</p>
 <p>a ten romantický vzkaz na touchpadu :o) </p>
 </div>
 <div class="comment">

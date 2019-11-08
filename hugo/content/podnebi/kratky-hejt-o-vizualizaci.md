@@ -13,5 +13,5 @@ comments: []
 <p>Vizualizace je doplněk, je to součást komunikace. Než jste měli tablet, měli jste barevné fixy a stačilo to. Stačí to i teď, pokud nepotřebujete komunikovat s lidmi na jiném kontinentu — a i tehdy můžete papír vyfotit mobilem a předstírat, že 80. léta neskončila. Vizualizace nenahrazuje jiné formy komunikace, pouze je doplňuje.</p>
 <p>Vizualizace není zbytečná, ale není důležitější než dřív. Je pouze jednodušší výsledná „díla“ sdílet. Ale není to důvod pro povyšování vizualizací nad jiné formy komunikace. Stejně jako haiku není důvod, proč přestat psát v dlouhých větách (jakkoli je to lákavé).</p>
 <p>Neučme se vizualizovat, učme se komunikovat.</p>
-<p><img style="border: 1px solid #ccc; padding: 10px" src='http://sites.cdnis.edu.hk/students/063731/files/2012/11/Forms-of-communication2.png' alt='forms-of-communication2.png' /></p>
-<p><small>Ilustrační, rychle vygooglovaný obrázek převzat <a href="http://sites.cdnis.edu.hk/students/063731/2012/11/02/my-forms-of-communication-mind-map/">odsud</a>.</small></p>
+<p><img style="border: 1px solid #ccc; padding: 10px" src='https://sites.cdnis.edu.hk/students/063731/files/2012/11/Forms-of-communication2.png' alt='forms-of-communication2.png' /></p>
+<p><small>Ilustrační, rychle vygooglovaný obrázek převzat <a href="https://sites.cdnis.edu.hk/students/063731/2012/11/02/my-forms-of-communication-mind-map/">odsud</a>.</small></p>

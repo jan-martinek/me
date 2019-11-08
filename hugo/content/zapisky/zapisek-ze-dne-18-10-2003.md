@@ -16,4 +16,4 @@ comments: []
 <p>Nedávno jsem tu nadával na tucky v rádiu Zlín a dneska jsem strávil <strong>víc než dvě hodiny</strong> hledáním písniček  z tančeních na netu. Včera jsem poslouchal své staré mp3 cd s všemožnýma šílenostma, které jsem  kdysi dávno poslouchal. Asi je to úchylka, ale docela sranda ;)).</p>
 <p>A teď navíc poslouchám 80's pop písničky. <strong>Muhehehe :)</strong></p>
 <p>To mi připomíná, že jsem v poslední době neměl dost energie na vkládání cédéček zpátky do krabiček  po vytažení z kotoučohráče (discman), tak jsem je dneska dvě hodiny uspořádával. Úžasné, ani jsem nevěděl,  že mám tolik cédéček...</p>
-<p>A ještě dva přátelské linky - převážně veselý blog <a href="http://iqland.wz.cz">iqland.wz.cz</a>  a převážně depresivní blog <a href="http://bus-wanderer.wz.cz">bus-wanderer.wz.cz</a>. Vše made in naše třída.  Takže, pokud chcete jiný pohled na věc, šupky hupky :).</p>
+<p>A ještě dva přátelské linky - převážně veselý blog <a href="https://iqland.wz.cz">iqland.wz.cz</a>  a převážně depresivní blog <a href="https://bus-wanderer.wz.cz">bus-wanderer.wz.cz</a>. Vše made in naše třída.  Takže, pokud chcete jiný pohled na věc, šupky hupky :).</p>

@@ -26,7 +26,7 @@ comments: []
 </ol>
 <p><strong>Další tipy a triky</strong></p>
 <ul>
-<li>Obecně se s odesláním zprávy nedoporučuje otálet, protože jinak může dojít k podlomení vašeho duševního zdraví (vizte <a href="http://escholarship.org/uc/item/8r39g5mm" target="_blank">tuto studii</a> vědců z Nyancat Technological University publikovanou americkými vědci z UC Berkeley).</li>
+<li>Obecně se s odesláním zprávy nedoporučuje otálet, protože jinak může dojít k podlomení vašeho duševního zdraví (vizte <a href="https://escholarship.org/uc/item/8r39g5mm" target="_blank">tuto studii</a> vědců z Nyancat Technological University publikovanou americkými vědci z UC Berkeley).</li>
 <li>Nahromaděnou pozitivní energii můžete využít i jinak, například k nákupu letenek do Francie či Nizozemí, k opravě dlouho pokažené kuchyňské vodovodní baterie nebo k experimentování s čerstvě vylovenými úhoři.</li>
 <li>Pokud je vaším záměrem celou operaci vykonat pomocí mobilního telefonu či tabletu, rozhodně nepoužívejte zmíněné klávesové zkratky! Za současného stavu techniky však takový postup nemůžeme doporučit.</li>
 </ul>

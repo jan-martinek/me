@@ -16,15 +16,15 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="http://www.pifik.com">web</a> (17.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;10:02)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="https://www.pifik.com">web</a> (17.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;10:02)</p>
 <p>v jake fazi archivu od juna prave ses? </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">nuda</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">web</a> (17.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;19:09)</p>
+<p style="font-weight:bold"><span class="compredmet">nuda</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">web</a> (17.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;19:09)</p>
 <p>Tak navrhni nějaké téma na fórum? Stejně se v září k těm starým nevrátíme. Jinak tě dost chápu. Já jsem nemohl jet na brigádu, tak trčím pořád doma a po měsíci a půl už se nudím. A čtení je jediná činnost, kterou už fakt nemůžů ;) ale teď jsem si dal pauzu, tak to zas půjde. Kdyby jsi měl těch webů na práci moc, klidně dej vědět, sháním práci. </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">nuda</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">web</a> (17.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;19:09)</p>
+<p style="font-weight:bold"><span class="compredmet">nuda</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">web</a> (17.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;19:09)</p>
 <p>Tak navrhni nějaké téma na fórum? Stejně se v září k těm starým nevrátíme. Jinak tě dost chápu. Já jsem nemohl jet na brigádu, tak trčím pořád doma a po měsíci a půl už se nudím. A čtení je jediná činnost, kterou už fakt nemůžů ;) ale teď jsem si dal pauzu, tak to zas půjde. Kdyby jsi měl těch webů na práci moc, klidně dej vědět, sháním práci. </p>
 </div>
 <div class="comment">
@@ -32,7 +32,7 @@ comments: []
 <p><span class=oranz>pif&gt;</span> dočetl jsem nejstarší texty - docela záhul, na monitoru jsem toho už tolik nepřečetl dlouho.. <br>  <br> <span class=oranz>wikih&gt;</span> no právě nevím co bych tam kopnul.. ztrácím fantazii (resp mám jedno téma, ale v době, kdy se mění ředitel by to asi k ničemu nebylo - než by to k něčemu bylo, už by si na to nikdo nevzpomněl - ale někdy to tam nadhodím).. co se týče webů, právě teď mám relativní prázdno (nedělám tři věci na jednou, jenom dvě a ty jsou takové dlouhodobější &amp; pak samozřejmě SOL, ale to jsou zběsilé nárazovky) čtení mě teď baví, je to oddech.. sice u toho monitoru.. ale i tak.. webování mě baví, ale nebaví mě formátování velkých textů word&gt;html - kdyby to aspoň mělo nějakou strukturu, tak si napíšu něco, co to zformátuje za mě, ale je to word a pokaždé něco jiného.. &amp; to mě nebaví, těžce.. <br>  <br> trpím spíš tím prázdnem ;) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="http://www.pifik.com">web</a> (ve&nbsp;středu&nbsp;18.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;00:58)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="https://www.pifik.com">web</a> (ve&nbsp;středu&nbsp;18.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;00:58)</p>
 <p>ja se nedavno jal procitat archiv petulka.bloguje.cz ;))) uz jsem v cervnu 2k4 </p>
 </div>
 </div>

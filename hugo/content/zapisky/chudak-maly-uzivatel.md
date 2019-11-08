@@ -32,7 +32,7 @@ to by byly tři kila ven oknem, ha.</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">design</span> | <span class="comname">Ondřej Máca</span> |  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (středa&nbsp;15.&nbsp;03.&nbsp;2006,&nbsp;00:16)</p>
+<p style="font-weight:bold"><span class="compredmet">design</span> | <span class="comname">Ondřej Máca</span> |  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (středa&nbsp;15.&nbsp;03.&nbsp;2006,&nbsp;00:16)</p>
 <p>novy design, super :) ale co ta barva pozadi??? to je fakt sila, mirne receno :D ale rozhodne nezapadnes ;) </p>
 </div>
 <div class="comment">

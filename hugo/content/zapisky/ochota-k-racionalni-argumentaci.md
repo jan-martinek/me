@@ -8,12 +8,12 @@ comments:
   - id: 14895
     author: Jaroslav A. Polák
     author_email: kojot333@gmail.com
-    author_url: http://kojot.name
+    author_url: https://kojot.name
     date: '2012-02-26 02:37:00 +0100'
     date_gmt: '2012-02-26 01:37:00 +0100'
-    content: "Já ten kontext diskuse (aneb drby o tom, jak vznikla tahle animozita) snad jednou napíšu jako článek. Konec konců čtenáři milují bulvár ;-) \r\nMezitím něco ke kontextu diskuse o kapitalismu: http://kojot.name/921160-pred-katastrofou.php"
+    content: "Já ten kontext diskuse (aneb drby o tom, jak vznikla tahle animozita) snad jednou napíšu jako článek. Konec konců čtenáři milují bulvár ;-) \r\nMezitím něco ke kontextu diskuse o kapitalismu: https://kojot.name/921160-pred-katastrofou.php"
 ---
-<p><a href="http://massive-error.blogspot.com/2012/02/better-and-better.html">Filip Tvrdý se na svém blogu</a> včera razantně vyslovil vůči lidem, kteří se staví proti reformám VŠ, a dalším, kteří své postoje vyjadřují protestem. Rád bych zareagoval jinak, než klasickým projevem levičáků, tedy „signifikantní neschopností či možná neochotou pouštět se do racionální argumentace, která je kompletně nahrazena apelem na první signální soustavu a má povětšinou podobu emotivních hesel na transparenty.“ Pokusím se najít v jeho článku faktické argumentace a na ty reagovat. Pokud něco opomenu, rád to doplním v komentářích.</p>
+<p><a href="https://massive-error.blogspot.com/2012/02/better-and-better.html">Filip Tvrdý se na svém blogu</a> včera razantně vyslovil vůči lidem, kteří se staví proti reformám VŠ, a dalším, kteří své postoje vyjadřují protestem. Rád bych zareagoval jinak, než klasickým projevem levičáků, tedy „signifikantní neschopností či možná neochotou pouštět se do racionální argumentace, která je kompletně nahrazena apelem na první signální soustavu a má povětšinou podobu emotivních hesel na transparenty.“ Pokusím se najít v jeho článku faktické argumentace a na ty reagovat. Pokud něco opomenu, rád to doplním v komentářích.</p>
 <hr>
 <p>Zcela souhlasím s nekonzistentností uváděných názorů, které se týkají úředníků ve vládě a v akademické oblasti. V tomto případě si však nemyslím, že požadavek citovaný z Holešovské výzvy je nějakým základem kritiky, na kterém se shodne většina lidí, kteří se nyní stavějí proti reformám. (V Česku je široce rozšířený mýtus „dobré“ úřednické vlády, což je samozřejmě politický a demokratický nesmysl, vycházející z víry v existenci jednoho správného řešení – ať už jakéhokoli – a také v existenci skupiny lidí, kteří jsou kompetentní tuto cestu nacházet. Mimo oblast náboženství podobná víra nedává příliš smysl.)</p>
 <hr>

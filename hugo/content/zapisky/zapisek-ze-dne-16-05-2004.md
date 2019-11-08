@@ -17,5 +17,5 @@ comments: []
 <p class="odsazeny">i want to thank you for giving me<br>  the best day of my life /dido</p>
 <p>Nebo bych si taky zítra mohl zajít se Žolikem na kopec. Od pětadvacátého prosince jsem tam nahoře nebyl.  Tehdy se mi tam hrozně líbilo, asi vezmu foťák a půjdu se projít. Zítra prostě nesmí být škaredé počasí.  Zítra prostě bude pěkně. Tak.</p>
 <p class="odsazeny">i never meant to hurt you<br>  i never meant to lie /moby</p>
-<p>Na webu vyšla <strong>bazooka 6.9</strong> - ke stažení jako obvykle na <a href="http://bazooka.wz.cz">bazooka.wz.cz</a>.  Tentokrát s přiloženým bonusem - novelou - ebookem (pdf) Metasaltatio od autorského dua Zombius &amp; JK.</p>
+<p>Na webu vyšla <strong>bazooka 6.9</strong> - ke stažení jako obvykle na <a href="https://bazooka.wz.cz">bazooka.wz.cz</a>.  Tentokrát s přiloženým bonusem - novelou - ebookem (pdf) Metasaltatio od autorského dua Zombius &amp; JK.</p>
 <p>Mějte se taky tak pěkně &amp; užijte dne!</p>

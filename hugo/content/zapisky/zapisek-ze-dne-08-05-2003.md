@@ -15,5 +15,5 @@ Takže tady je téma: <span style="font-weight:bold">&quot;Víte o něčem co je
 jednoduché a co se nikdy nemůže zvrtnout?&quot; </span>Odkaz do diskuze je v
 menu...</p>
 <p>Zadruhé jsem našel tento <a
-href="http://www.pooh.cz/a.asp?id=2004220&amp;db=" target="_blank">článek</a>... Hm...
+href="https://www.pooh.cz/a.asp?id=2004220&amp;db=" target="_blank">článek</a>... Hm...
 Jdu spát...</p>

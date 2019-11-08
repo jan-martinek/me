@@ -8,7 +8,7 @@ comments:
   - id: 8900
     author: davo
     author_email: d.tvrdon@gmail.com
-    author_url: http://david.oktavagcm.sk/blog/
+    author_url: https://david.oktavagcm.sk/blog/
     date: '2008-11-29 08:43:54 +0100'
     date_gmt: '2008-11-29 06:43:54 +0100'
     content: Som rár, že knižka potešila to bol účel. A môžem všetkým potvrdiť, že knižky od Petra Nikla sú tým správnym darčekom, keď sa niekto nevie rozhodnúť..

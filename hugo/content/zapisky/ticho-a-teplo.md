@@ -8,21 +8,21 @@ comments:
   - id: 9219
     author: suchosch
     author_email: suchosch@suchosch.net
-    author_url: http://suchosch.net
+    author_url: https://suchosch.net
     date: '2008-12-06 19:50:40 +0100'
     date_gmt: '2008-12-06 17:50:40 +0100'
     content: a jakou máte verzi? Windows Plasta?
   - id: 9239
     author: soooc
     author_email: cz.soooc@gmail.com
-    author_url: http://soc.borec.cz
+    author_url: https://soc.borec.cz
     date: '2008-12-07 00:05:25 +0100'
     date_gmt: '2008-12-06 22:05:25 +0100'
     content: "4suchosch: cos cekal? Windows DrevO ? :)\r\n\r\nTen pan ma mluvu jeste vcelku vytribenou :)"
   - id: 9251
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2008-12-07 13:52:42 +0100'
     date_gmt: '2008-12-07 11:52:42 +0100'
     content: "Máme Windows Plasta classic, ale já třeba čekal Dřevo - vzhledem k tomu, že máme relativně starý dům ve vcelku pěkné ulici. Ale nejspíš je Plasta protihlukovitější než Dřevo a dům obyčejnější, než jsem myslel.\r\n\r\nad pán: No, nevim. Minimálně se ve svém mluveném projevu hodně opakoval."

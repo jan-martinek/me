@@ -20,7 +20,7 @@ comments: []
 </ul>
 <p>A proč ne iPod? (Toto se vztahuje spíš na klasický iPod (classic, nano), touch je už úplně jinak vymyšlená mašinka.)</p>
 <ul>
-<li>iPod nekupujte, pokud oceníte v přehrávači vestavěný reprák. (Tohle by mě bez <a href="http://suchosch.net/">Suchosche</a> opravdu nenapadlo.)</li>
+<li>iPod nekupujte, pokud oceníte v přehrávači vestavěný reprák. (Tohle by mě bez <a href="https://suchosch.net/">Suchosche</a> opravdu nenapadlo.)</li>
 <li>iPod nekupujte, pokud nesnášite používání tagů v hudebních souborech a nemáte rádi, když za vás počítač řeší něco automaticky.</li>
 <li>iPod nekupujte, pokud chcete, aby váš přehrávač uměl všechno (např. nahrávání zvuků, změny barvy displeje, přehrávání všech formátů videa, příjem rádia atp.).</li>
 </ul>

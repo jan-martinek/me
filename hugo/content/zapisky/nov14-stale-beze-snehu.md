@@ -16,5 +16,5 @@ akademii, kde ji většinou slyším poprvé - a to 13. listopadu - tedy o plný
 jen to běží tak rychle..</p>
 <p>Ale stejně je úžasně :) Jdu se učit Kombinace kOmbinace koMbinace.. a tak kolem.. a psát
 strukturovaný životopis.. mezitím
-mrkněte k <a href="http://eman.chytrak.cz">Emanovi</a> - jeden týpek od nás z gymplu
+mrkněte k <a href="https://eman.chytrak.cz">Emanovi</a> - jeden týpek od nás z gymplu
 ujetý do hongkongu &amp; jeho blok stojí za to.</p>

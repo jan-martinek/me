@@ -6,7 +6,7 @@ category: kolem
 tags: []
 comments: []
 ---
-<p>Mám tu dvě věci, které jsem potřeboval nahodit na podnebí :) První je oznámení, že mám dobrý pocit &ndash; udělal jsem něco pro své město :D Písmenko R už nevisí - více v <a href="http://podnebi.jan-martinek.com/index.php?a=20060914">samostatném spotu</a>. Druhou věcí jsou zápisky, které jsem si psal v různých volných chvilkách v posledních týdnech. Mám teď půlhodinu, za kterou už nestihnu nic udělat, tak jsem se rozhodl, že to aspoň postnu. Pozor, tak dlouhý příspěvek už tu nějakou dobu nebyl (poslední příspěvek blížící se délkou tomuto je z ledna 2005; sorry za překlepy, ale asi to teď celé neprojdu; bohužel bez obrázků, nemám tu teď foťák)...</p>
+<p>Mám tu dvě věci, které jsem potřeboval nahodit na podnebí :) První je oznámení, že mám dobrý pocit &ndash; udělal jsem něco pro své město :D Písmenko R už nevisí - více v <a href="https://podnebi.jan-martinek.com/index.php?a=20060914">samostatném spotu</a>. Druhou věcí jsou zápisky, které jsem si psal v různých volných chvilkách v posledních týdnech. Mám teď půlhodinu, za kterou už nestihnu nic udělat, tak jsem se rozhodl, že to aspoň postnu. Pozor, tak dlouhý příspěvek už tu nějakou dobu nebyl (poslední příspěvek blížící se délkou tomuto je z ledna 2005; sorry za překlepy, ale asi to teď celé neprojdu; bohužel bez obrázků, nemám tu teď foťák)...</p>
 <p>Tak, a jsem v brně :) Právě sedím na Komenského náměstí před cps (já už vím co to znamená a neřeknu :)) na lavce, datlím do pda. Blanka už je ve škole, stihli jsme to na vteřinu přesně, protože jsem o 40 minut zaspal. Ještě jsme našli správnou učebnu přes paní na vrátnici a běželi správným směrem - po cestě se k nám přidalo ještě pár lidí :)</p>
 <p>Do Brna jsme dojeli v poledne v sobotu, poté, co paní na vrátnici kolejí odbavila do příslušných končin černocha, který se nemohl rozhodnout, jestli chce na Komárově (už vímě, proč se tomu tam tak říká) bydlet, jsem došel na řadu, dodal podklady a dostal oranžovou papírovou kartičku.</p>
 <p>Následujícím zážitkem byla jízda výtahem, který začal pískat, jakmile jsem nastoupil s tatíkem a taškou, tak jsem nechal taťku tam a jel s maminkou, nicméně poté, co se výtah během prvních dvou pater dvakrát zastavil, jsme zbaběle vystoupili a zbytek do pátého patra došli po schodech :)</p>
@@ -39,7 +39,7 @@ bufetu. </p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">design</span> | <span class="comname">Wikih</span> |  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (čtvrtek&nbsp;19.&nbsp;10.&nbsp;2006,&nbsp;09:08)</p>
+<p style="font-weight:bold"><span class="compredmet">design</span> | <span class="comname">Wikih</span> |  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (čtvrtek&nbsp;19.&nbsp;10.&nbsp;2006,&nbsp;09:08)</p>
 <p>prijemny design :) <br> ale ty srdicka na pozadi hlavicky? ty si i na docela konzervativnim designu nemuzes odpustit neco neobvykleho :D </p>
 </div>
 <div class="comment">

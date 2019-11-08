@@ -8,14 +8,14 @@ comments:
   - id: 12207
     author: Arthur Dent
     author_email: blog@maly.cz
-    author_url: http://www.misantrop.info
+    author_url: https://www.misantrop.info
     date: '2009-10-19 11:31:20 +0200'
     date_gmt: '2009-10-19 10:31:20 +0200'
     content: My jsme s hlukem z vedlejších pokojů neměli nejmenší problém - stačilo pozvat další čtyři lidi a nadhodit veselé téma! :)
   - id: 12208
     author: enoice
     author_email: enoice@gmail.com
-    author_url: http://www.fialove.eu
+    author_url: https://www.fialove.eu
     date: '2009-10-19 11:38:27 +0200'
     date_gmt: '2009-10-19 10:38:27 +0200'
     content: "Ta soutěž v prototypování byl špatně zrealizovaný docela dobrý nápad. Problémů bylo několik s Emilem jsme se viděli poprvé až pět minut před začátkem, skicu wireframu jsme také viděli poprvé až na místě. Náročnost byla velmi špatně odhadnutá, za 20 minut se dá stihnout jen něco velmi jednoduchého. Pak jsme mělim mít každý svých 20 minut na prezentaci svého softwaru, k čemuž taky moc nedošlo.\r\n\r\nOmlouvám se tedy všem za toto zklamání, pokud bude něco podobného příští rok, určitě se to povede líp."
@@ -29,28 +29,28 @@ comments:
   - id: 12210
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2009-10-19 11:50:46 +0200'
     date_gmt: '2009-10-19 10:50:46 +0200'
     content: Nějaké zápisky mám, ale lepší bude napsat si přímo autorovi přednášky, jestli někde nebude zveřejňovat slajdy. Možná se ještě někde objeví přímo i záznam, to bych případně dal vědět (nemám zatím nainstalovaný Silverlight, tak jsem moc nekoumal, jak to s těmi záznamy vypadá).
   - id: 12211
     author: stej
     author_email: cerna.zelva@seznam.cz
-    author_url: http://www.leporelo.eu
+    author_url: https://www.leporelo.eu
     date: '2009-10-19 11:52:20 +0200'
     date_gmt: '2009-10-19 10:52:20 +0200'
     content: S čajomilem u oolongu jsme prošvihli prakticky celou jednu přednášku, bylo to výborný. Měl tam i kukichu a zajímavýho Nepálce.
   - id: 12212
     author: raist
     author_email: raist@raist.cz
-    author_url: http://raist.cz
+    author_url: https://raist.cz
     date: '2009-10-19 12:39:42 +0200'
     date_gmt: '2009-10-19 11:39:42 +0200'
     content: cestujici cedule rulez! gut rh! :)
   - id: 12215
     author: Lukáš Kubánek
     author_email: lukas@kubanek.org
-    author_url: http://kubanek.org
+    author_url: https://kubanek.org
     date: '2009-10-23 11:52:46 +0200'
     date_gmt: '2009-10-23 10:52:46 +0200'
     content: To je škoda, že jsem se nezúčastnil cestování s cedulí. Měli jste ji i v pizzerii?
@@ -62,7 +62,7 @@ comments:
     date_gmt: '2009-11-02 21:13:32 +0100'
     content: Jj, v pizzerce cedule byla, docela výrazně ležela u věšáku :-)
 ---
-<p>Pokud vám <a href="http://www.webexpo.cz">WebExpo</a> nic neříká, klidně tento spot přeskočte.</p>
+<p>Pokud vám <a href="https://www.webexpo.cz">WebExpo</a> nic neříká, klidně tento spot přeskočte.</p>
 <h3 id="toc-nadseni">+ [nadšení]</h3>
 <ul>
 <li>Základní páteční poznatek&nbsp;&ndash; když jdu někam, kde mě to zajímá, tak už předem všechno vím, takže bych měl chodit tam, kde mě to vůbec nezajímá&nbsp;&ndash; se v&nbsp;dalších dnech úplně nepotvrdil.</li>
@@ -90,13 +90,13 @@ comments:
 <p><img src='/assets/migrated/wp-uploads/2009/10/pizza.jpg' alt='pizza.jpg' />
 </li>
 <li>Ano, salát jsme z&nbsp;mísy nabírali pomocí řízku. Mimochodem, skvělý&nbsp;oběd!</li>
-<li>WebExpo na pár dní zcela změnilo můj tweeting-style. Tímto se omlouvám všem svým nedobrovolně na <a href="http://twitter.com/#search?q=webexpo">#webexpo</a> zataženým pronásledovatelům. Nicméně využití twitteru na konferenci mě překvapilo svou šíří a vcelku i&nbsp;efektivitou.</li>
+<li>WebExpo na pár dní zcela změnilo můj tweeting-style. Tímto se omlouvám všem svým nedobrovolně na <a href="https://twitter.com/#search?q=webexpo">#webexpo</a> zataženým pronásledovatelům. Nicméně využití twitteru na konferenci mě překvapilo svou šíří a vcelku i&nbsp;efektivitou.</li>
 <li>Díky Vaškovi za ceduli! Na samý závěr jsem řekl Suchoschovi, že by bylo hrozně vtipné vzít jednu tu velikánskou ceduli a odvézt ji do Brna. Vlakem. A&nbsp;stalo se&nbsp;:)</li>
 <li>A&nbsp;ještě jednou díky za celé WebExpo.</li>
 </ul>
 <h3>Cesta z Expa</h3>
 <p><img src='/assets/migrated/wp-uploads/2009/10/webexpo-dejvicka1.jpg' alt='webexpo-dejvicka1.jpg' /></p>
-<p>Cedule WebExpa ve stanice metra Dejvická. Deštník je využit pro zvýšení absurdity fotografie. Dítě není využito, pouze překvapeno. (Foto pořídil <a href="http://www.flickr.com/photos/suchosch/">Suchosch</a>.)</p>
+<p>Cedule WebExpa ve stanice metra Dejvická. Deštník je využit pro zvýšení absurdity fotografie. Dítě není využito, pouze překvapeno. (Foto pořídil <a href="https://www.flickr.com/photos/suchosch/">Suchosch</a>.)</p>
 <p><img src='/assets/migrated/wp-uploads/2009/10/webexpo.jpg' alt='webexpo.jpg' /></p>
 <p>Cedule WebExpo mezi šalinama na brněnském Hlavním nádraží.</p>
 <p><!-- by Texy2! --></p>

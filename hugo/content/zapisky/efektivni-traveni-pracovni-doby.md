@@ -12,7 +12,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (neděle&nbsp;22.&nbsp;10.&nbsp;2006,&nbsp;12:28)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (neděle&nbsp;22.&nbsp;10.&nbsp;2006,&nbsp;12:28)</p>
 <p>Mám podobné pocity ohledně svého oboru... šel jsem studovat informatiku, studuji ekonomii a nejvíce mě baví předměty z katedry hospodářských dějin (vesměs pouze dějepis). <br>  <br> A se sněhem bych počkal, ještě jsem letos nepouštěl draka. </p>
 </div>
 <div class="comment">

@@ -8,7 +8,7 @@ tags: []
 comments: []
 lang: en
 ---
-<p>I've really enjoyed the <a href="http://serviceexperiencecamp.de">Service Experience Camp</a> (or more fashionably <a href="http://twitter.com/search?q=%23sxc13&src=typd">#sxc13</a>) in Berlin. Combination of barcamp and traditional conference, full of inspiring people, set in an interesting <a href="http://www.thewye.de">The WYE</a> space, with a great <a href="http://www.kitchensurfing.com/">Kitchensurfing</a> lunch, friendly and responsive organizers and so on and on. </p>
+<p>I've really enjoyed the <a href="https://serviceexperiencecamp.de">Service Experience Camp</a> (or more fashionably <a href="https://twitter.com/search?q=%23sxc13&src=typd">#sxc13</a>) in Berlin. Combination of barcamp and traditional conference, full of inspiring people, set in an interesting <a href="https://www.thewye.de">The WYE</a> space, with a great <a href="https://www.kitchensurfing.com/">Kitchensurfing</a> lunch, friendly and responsive organizers and so on and on. </p>
 <p>Filled with people of very diverse backgrounds, which were frequently exposed in the discussions (and that's great!). The fact that I enjoyed the most was that people there weren't only surfing on the currently striving buzzword — they were actually thinking pretty deeply about it.</p>
 <p><img src='/assets/migrated/wp-uploads/2013/09/unknown-8.jpeg' alt='unknown-8.jpeg' /></p>
 <p>Instead of recapping the whole thing, I'll focus on just a few thoughts I couldn't stop thinking about even many hours after the sessions ended. As it frequently happens, there are more questions than answers.</p>
@@ -36,8 +36,8 @@ lang: en
 <li><em>Case studies, personal stories, hands-on workshops and jams:</em> Combinations of methods and values that were or could be succesful—applied in a specific field (rather than hands-on it's more like brains-on, <em>or post-its-on, hehe</em>). There wasn't a spacetime for a full scale jam, though <a href="https://twitter.com/adamstjohn">@adamstjohn</a> is a good evangelizer—I liked his distinction between jams (find the value effectively) and hackathons (make it real effectively).</li>
 </ul>
 <p><img src='/assets/migrated/wp-uploads/2013/09/unknown-5.jpeg' alt='unknown-5.jpeg' /></p>
-<h4>Documentation by <a href="http://twitter.com/ADOD_Berlin">@ADOD_Berlin</a></h4>
-<p>Guys doing the documentation of the whole conference were doing it in a nice World Wide Web fashion — it's been strangely fresh (funny, how archaic WWW sounds today). Many different kinds of info—sketches, photos, videos, audio, quotes, maybe even connected to things shared on the web—mashed together in a nice way. <a href="http://ongoing.wix.com/sxc13">Check it out.</a></p>
+<h4>Documentation by <a href="https://twitter.com/ADOD_Berlin">@ADOD_Berlin</a></h4>
+<p>Guys doing the documentation of the whole conference were doing it in a nice World Wide Web fashion — it's been strangely fresh (funny, how archaic WWW sounds today). Many different kinds of info—sketches, photos, videos, audio, quotes, maybe even connected to things shared on the web—mashed together in a nice way. <a href="https://ongoing.wix.com/sxc13">Check it out.</a></p>
 <p>I attended their session and was glad to be there, though I can only recommend delving more into journalism—I like ADOD's solid stance not to add their own commentary to the documentation of the creative process, though </p>
 <p>a) that's not something journalists do, they are very aware of the difference between description and commentary and </p>
 <p>b) just by selecting bits of information that documentarists consider to be important, they're presenting their opinions and values. </p>
@@ -45,8 +45,8 @@ lang: en
 <h4>My barcamp session</h4>
 <p>I've organized a session about unintended (social) consequences of innovation and change—how our thinking directed on a lone user might make us blind to wider social interaction with the services we design. </p>
 <p>I made a mistake framing it too much as some kind of a problem that we should "solve" instead of presenthing it just as a phenomenon we should be aware of—while it can turn bad as well as good for the service we work on. It's more about what we define to be <em>good</em> for the service.</p>
-<p>I have reworked it for the <a href="http://www.slideshare.net/janmartinek/unintended-consequences-26514485">slideshare</a>—I believe it's more comprehensible than the original. Check it out right here:</p>
-<p><iframe src="http://www.slideshare.net/slideshow/embed_code/26514485" width="512" height="421" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe></p>
+<p>I have reworked it for the <a href="https://www.slideshare.net/janmartinek/unintended-consequences-26514485">slideshare</a>—I believe it's more comprehensible than the original. Check it out right here:</p>
+<p><iframe src="https://www.slideshare.net/slideshow/embed_code/26514485" width="512" height="421" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe></p>
 <h4>Thanks</h4>
-<p>Thanks to <a href="http://servicedesignberlin.de">Service Design Berlin</a> for making all this possible and to <a href="http://kisk.phil.muni.cz/en/about-cabinet">Cabinet of information and library science</a> at <a href="http://www.phil.muni.cz/wff/index_html-en/view?set_language=en">Faculty of Arts of Masaryk University</a> for making it possible for me to be there. </p>
+<p>Thanks to <a href="https://servicedesignberlin.de">Service Design Berlin</a> for making all this possible and to <a href="https://kisk.phil.muni.cz/en/about-cabinet">Cabinet of information and library science</a> at <a href="https://www.phil.muni.cz/wff/index_html-en/view?set_language=en">Faculty of Arts of Masaryk University</a> for making it possible for me to be there. </p>
 <p>Thanks to all attendees of my session for being there — I enjoyed the discussion. And of course thanks for all the wonderful keynotes and barcamp sessions. It was pleasure to be there!</p>

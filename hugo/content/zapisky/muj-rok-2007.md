@@ -37,13 +37,13 @@ Další semestr už byl o poznání klidnější, navíc jsem výrazně omezil p
 Nu, a současný semestr je příjemně načatý. Už jenom zase prorazit nějaké ty stanovené bodové hranice... Kurzy byly pěkné, debatování jsem si užil, akorát se mi dost překrylo s ostatními kurzy, což omezilo zvlášť mou účast na debriefinzích. Taky kurz psaní esejí byl moc příjemný. A skoro jsem zapomněl na tři skvělé výlety v kurzu Pěší turistika :)</p>
 <h3>Co si z toho vezmu do nového roku?</h3>
 <p>Teď asi největší prioritu chytá práce, protože když pořeším tyhle problémy, tak budu mít víc času na všechno ostatní - osobní záležitosti a školu (a ve výsledku snad i víc financí). Ostatní věci mě hodně ovlivnily už teď a nijak výrazně se je asi nemusím snažit reflektovat, mám jich pořád plnou hlavu.<br />
-<a href="http://freelanceswitch.com/working/10-new-year’s-resolutions-for-the-freelance-developer/">Pěkný pracovně-motivační textík vyšel na freelanceswitchi</a>, tak se jím budu snažit inspirovat. A taky mrknu na plakát, který mi visí v pokoji "say yes, think more, work less, be honest, dance".</p>
+<a href="https://freelanceswitch.com/working/10-new-year’s-resolutions-for-the-freelance-developer/">Pěkný pracovně-motivační textík vyšel na freelanceswitchi</a>, tak se jím budu snažit inspirovat. A taky mrknu na plakát, který mi visí v pokoji "say yes, think more, work less, be honest, dance".</p>
 <p>
 Takže teď mám jeden výrazný cíl: být někdy v létě mnohem spokojenější sám se sebou, než jsem teď. No, a taky bych mohl zhubnout :)</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">suchosch</span> |  <a href="http://suchosch.net">http://suchosch.net</a> (pondělí&nbsp;31.&nbsp;12.&nbsp;2007,&nbsp;21:00)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">suchosch</span> |  <a href="https://suchosch.net">https://suchosch.net</a> (pondělí&nbsp;31.&nbsp;12.&nbsp;2007,&nbsp;21:00)</p>
 <p>cíl máme stejnej, čoveče :) ještě před pár měsíci mi přišla nedosažitelná ta spokojenost. teď vypadá nedosažitelně zhubnutí. </p>
 </div>
 </div>

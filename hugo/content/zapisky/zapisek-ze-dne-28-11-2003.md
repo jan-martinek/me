@@ -24,7 +24,7 @@ comments: []
 <p>Omluvte Rysku, je Twin-Peaks fanatik - nedávno si nesla v baťohu kávovar s rybama (rekvizity z TP) :) <br>  <br> ikdyž, něco na tom je :)) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">jo</span> | <span class="comname">juneau</span> |  <a href="http://juneau.wz.cz">http://juneau.wz.cz</a> (v&nbsp;neděli&nbsp;30.&nbsp;11.&nbsp;2003,&nbsp;v&nbsp;00:14)</p>
+<p style="font-weight:bold"><span class="compredmet">jo</span> | <span class="comname">juneau</span> |  <a href="https://juneau.wz.cz">https://juneau.wz.cz</a> (v&nbsp;neděli&nbsp;30.&nbsp;11.&nbsp;2003,&nbsp;v&nbsp;00:14)</p>
 <p>lituju, ze se na twinP nedivam od zacatku... jinak bych byl davno nadobro chycen v siti. serial to musi byt suprovy, ale co je mi to platne, kdyz jsem nevidel 25 dilu... skoda. </p>
 </div>
 <div class="comment">
@@ -32,7 +32,7 @@ comments: []
 <p>TP se dají sehnat na CD... hledej a najdeš... je to geniální :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">...</span> | <span class="comname">juneau</span> |  <a href="http://juneau.wz.cz">web</a> (v&nbsp;pondělí&nbsp;1.&nbsp;12.&nbsp;2003,&nbsp;v&nbsp;21:46)</p>
+<p style="font-weight:bold"><span class="compredmet">...</span> | <span class="comname">juneau</span> |  <a href="https://juneau.wz.cz">web</a> (v&nbsp;pondělí&nbsp;1.&nbsp;12.&nbsp;2003,&nbsp;v&nbsp;21:46)</p>
 <p>pravda, tak by to slo... kontakty na divx mam vsude mozne, ale ze by nekdo mluvil (nebo mel) o twinP, to si nemyslim... uvidime. </p>
 </div>
 <div class="comment">

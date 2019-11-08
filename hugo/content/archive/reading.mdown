@@ -6,9 +6,9 @@ projects: [next-book]
 ---
 That paper/display discussion is nonsense. Computers in any form are not just books that do not smell good. Digital isn't just a display technology. Please help.
 
-A lot has changed since [that vague, but exciting paper](http://info.cern.ch/Proposal.html) has been published. The web of terse documents has become the web of platforms and apps. Black text and blue links turned into complex UI servicing any need. Flexbox, service workers, front-end JS frameworks, bots, hamburger menus, this is what's new.
+A lot has changed since [that vague, but exciting paper](https://info.cern.ch/Proposal.html) has been published. The web of terse documents has become the web of platforms and apps. Black text and blue links turned into complex UI servicing any need. Flexbox, service workers, front-end JS frameworks, bots, hamburger menus, this is what's new.
 
-The document did not change much. Some paragraphs and headings, media and links. Nobody really cares for the HTML5 semantics (other than SEO stuff). Few people use [schemas](http://schema.org). There's not a lot of change when it comes to digital content — standards, user interface conventions, mental models. Most UI tries to obscure print/digital divide. The only big trend when it comes to content is walling it inside closed apps and platforms.
+The document did not change much. Some paragraphs and headings, media and links. Nobody really cares for the HTML5 semantics (other than SEO stuff). Few people use [schemas](https://schema.org). There's not a lot of change when it comes to digital content — standards, user interface conventions, mental models. Most UI tries to obscure print/digital divide. The only big trend when it comes to content is walling it inside closed apps and platforms.
 
 ## Reading like it's 1989
 
@@ -43,7 +43,7 @@ Reading the text means to skim, to read, to look at pictures, to follow links, t
 1. Annotating text is hard, in print and in digital too.
 	- When working with code there are comments. In HTML there are comments too, but they are shown only when editing the code. They're not useful to comment the content, just the structure of markup as it's not possible to comment on a range of words, just to place a comment into some position.)
 	- A standardized way to work with annotations in HTML is desirable:
-		- There are attempts — [Evernote Clipper](https://evernote.com/webclipper/) downloads documents and works with them offline. Genius has its [Web Annotator](http://genius.com/web-annotator), that [undermines web security](http://www.theverge.com/2016/5/25/11505454/news-genius-annotate-the-web-content-security-policy-vulnerability).
+		- There are attempts — [Evernote Clipper](https://evernote.com/webclipper/) downloads documents and works with them offline. Genius has its [Web Annotator](https://genius.com/web-annotator), that [undermines web security](https://www.theverge.com/2016/5/25/11505454/news-genius-annotate-the-web-content-security-policy-vulnerability).
 		- Annotations need to work above the markup, as they would not nest nicely with other elements. Overlapping annotations are common, too.
 
 1. Annotating in print cannot change the text much: emphasizing and commenting some parts in margins is all that's possible. (Tearing the book apart and using scissors is mostly extreme case, as it destroys possibility of re-reading. Xeroxing the material enables this behavior, but it's labourious and generally not practiced.)
@@ -142,7 +142,7 @@ interactions / metadata
 
 - Fiction is full on into the digital: good digital fiction is just not called book, they call it “games”. There's even a lot of games that have virtually no gaming mechanics, they're just interactive stories (and unlike in the 90s, these are good).
 
-- Nonfiction/news/academia is tougher — there's [data journalism](http://datajournalismhandbook.org/1.0/en/introduction_0.html) and there are several publishing [projects](http://jods.mitpress.mit.edu) and the [Open Access](https://en.wikipedia.org/wiki/Open_access) movement that
+- Nonfiction/news/academia is tougher — there's [data journalism](https://datajournalismhandbook.org/1.0/en/introduction_0.html) and there are several publishing [projects](https://jods.mitpress.mit.edu) and the [Open Access](https://en.wikipedia.org/wiki/Open_access) movement that
 
 
 

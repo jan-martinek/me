@@ -23,7 +23,7 @@ nestabilní neosobní osobnosti patří ještě <i title="tady býval odkaz na s
 obrázek</i>. Pokud by vás vyděsil, omlouvám se...</p>
 <p>btw: Pokud je vám z Íráckých rozlehlých
 písečných plání už pomalu špatně, podívejte se na tenhle zasněžený <a
-href="http://www.actionscripts.co.uk/chat/">chat</a>, na kterém si sice moc dobře
+href="https://www.actionscripts.co.uk/chat/">chat</a>, na kterém si sice moc dobře
 nezachatujete, ale je tam fakt příjemně. Doporučuju zatančit si s někým v iglů :),
 určitě Vám to zvedne náladu.</p>
 <p>Určitě bych toho sem napsal ještě mnohem

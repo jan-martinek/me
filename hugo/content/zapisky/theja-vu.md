@@ -6,9 +6,9 @@ category: kolem
 tags: []
 comments: []
 ---
-<p>Je to pár dnů, kdy jsem se smál u <a href="http://www.hledamdivkuzautobusudobrna.com/121130_zaznam.html#spot-121130">=M=ho čajového blognutí</a>. Tohle se mi ještě nestalo,
+<p>Je to pár dnů, kdy jsem se smál u <a href="https://www.hledamdivkuzautobusudobrna.com/121130_zaznam.html#spot-121130">=M=ho čajového blognutí</a>. Tohle se mi ještě nestalo,
 říkal jsem si.</p>
-<p>O to víc jsem se smál u <a href="http://adbar.bloguje.cz/42467_item.php">adbarova odlinkovaného čajového blognutí</a>. To snad jde,
+<p>O to víc jsem se smál u <a href="https://adbar.bloguje.cz/42467_item.php">adbarova odlinkovaného čajového blognutí</a>. To snad jde,
 zapomenout, že jsem si uvařil čaj?</p>
 <p>A dneska jsem po hodině sezení u taťky zjistil, že mi mezitím vychladl čaj. Krásný zelený darjeeling.
 No, asi je tu nějaká spravedlnost, na tom světě.</p>

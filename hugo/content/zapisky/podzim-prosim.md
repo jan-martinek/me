@@ -16,7 +16,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (čtvrtek&nbsp;31.&nbsp;08.&nbsp;2006,&nbsp;10:16)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (čtvrtek&nbsp;31.&nbsp;08.&nbsp;2006,&nbsp;10:16)</p>
 <p>Ne že bych chtěl šťourat, ale nezapadá mi tam ten oheň. Proč jste ho vůbec rozdělávali? :) Nebo jste s ním měli nějaká plány, které zkazil déšť? Takhle to totiž vypadá, že jste ho fakt jen zapálili z nějakého rozmaru a šli si dál po svých :) <br>  <br> (to je jedno, po ránu jsem vždycky klasik, s jazykem opařeným klasikem) </p>
 </div>
 <div class="comment">
@@ -24,7 +24,7 @@ comments: []
 <p>Jo, to jsem zvládl popsat až moc rychle :) Natěšení na opékání, rozdělali jsme ohýnek relativně jemném deštíku, který ten den pak poprvé přešel ve skutku ošklivý a velký déšť. <br>  <br> Ale na to, co mám teďka za oknem to teda nemělo, chci zajít pro poštu, ale nechci se sprchovat :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show,net">http://reality-show,net</a> (čtvrtek&nbsp;31.&nbsp;08.&nbsp;2006,&nbsp;16:05)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show,net">https://reality-show,net</a> (čtvrtek&nbsp;31.&nbsp;08.&nbsp;2006,&nbsp;16:05)</p>
 <p>Tušil jsem to. Je to už pár let, co jsem se snažil schovat před deštěm pod plech kryjící ráz dřeva a smutně koukal na dohořívající polínka plovoucí v místech, kde byla (o 10 minut dříve) mírná prohlubeň ohniště :) <br>  <br> Jo, a když jsem po 82 letech od objevení RSS začal konečně používat čtečku (Habari Xenu pro FF), tak mi nehodlá uznat tvůj zdroj za validní. Asi se jí nelíbí text/plain. Nebo má vůči tvému webu averzi, kdo ví. </p>
 </div>
 <div class="comment">
@@ -36,7 +36,7 @@ comments: []
 <p>btw používá tu ještě někdo jiný nějakou rss čtečku ve firefoxu a mohl by to testnout? dík :) <br>  <br> ještě mě napadá - fungují ti zdroje z  <br> max-width.jan-martinek.com? </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (čtvrtek&nbsp;31.&nbsp;08.&nbsp;2006,&nbsp;20:21)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (čtvrtek&nbsp;31.&nbsp;08.&nbsp;2006,&nbsp;20:21)</p>
 <p>Vyzkousel jsem max-width a ten funguje. Ty dva zdroje se lisi snad jedine v kodovani, tak koukam, mozna je to tim. <br>  <br> Zprava ctecky: Feed type not supported <br> Sorry. I cannot figure out what type of feed this is. It does not seem to be of the type RSS, RDF, XML or Atom. It is also possible that the feed is badly formatted or contains weird characters. The error message was: <br>  <br> Feed type is not recogonized as RSS, RDF, XML or Atom <br>  <br> ...  <br>  <br> Ne ze bych kvuli nedostupnosti tveho rss mou cteckou hodlal nekoho vyhazovat z okna nebo si zlost vylevat benzinem na belouckych kotatkach v blizkosti ohne, ale ... kdyz uz uz tu to rss mas :) </p>
 </div>
 <div class="comment">
@@ -44,11 +44,11 @@ comments: []
 <p>tak, nahodil jsem tu druhé rss (rss iso), liší se jen tím kódováním - pokud ti to pojede, hodím tam iconvy a nechám to tu :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (pátek&nbsp;1.&nbsp;09.&nbsp;2006,&nbsp;00:37)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (pátek&nbsp;1.&nbsp;09.&nbsp;2006,&nbsp;00:37)</p>
 <p>No, ISO by asi melo jet, ale odkaz jsem tu nenasel a ani po dvaceti 404kovych pokusech nemam zadne novinky :) <br>  <br> ... jo aha, ono je to vrazeny primo do zdrojaku :) Ale opet te nepotesim, porad ten samy vysledek. Snad ze by to bylo tim, ze soubor se tvari jako ISO-8852-1 a v kodu ma encoding ISO-8852-2 ... a jestli to nebude timhle, tak uz jsme asi skoncili :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (pátek&nbsp;1.&nbsp;09.&nbsp;2006,&nbsp;00:38)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (pátek&nbsp;1.&nbsp;09.&nbsp;2006,&nbsp;00:38)</p>
 <p>Tedy ISO-8859-x ... stydim se. </p>
 </div>
 <div class="comment">
@@ -57,10 +57,10 @@ comments: []
 </div>
 <div class="comment">
 <p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a> (pátek&nbsp;1.&nbsp;09.&nbsp;2006,&nbsp;07:27)</p>
-<p>tak jsem to nechal projít validátorem (http://validator.w3.org/feed), a jediné dvě věci jsou problém s text/html, to je mi jasné, ale nedělá problém.  <br>  <br> Druhým problémem je, jak jsi říkal &quot;Your feed appears to be encoded as &quot;Windows-1250&quot;, but your server is reporting &quot;US-ASCII&quot;&quot;, takže zkusím ještě to americké ISO, když to funguje v max-width :) kdyžtak budu mít feed bez háčků a čárek :) je to tam.. </p>
+<p>tak jsem to nechal projít validátorem (https://validator.w3.org/feed), a jediné dvě věci jsou problém s text/html, to je mi jasné, ale nedělá problém.  <br>  <br> Druhým problémem je, jak jsi říkal &quot;Your feed appears to be encoded as &quot;Windows-1250&quot;, but your server is reporting &quot;US-ASCII&quot;&quot;, takže zkusím ještě to americké ISO, když to funguje v max-width :) kdyžtak budu mít feed bez háčků a čárek :) je to tam.. </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (pátek&nbsp;1.&nbsp;09.&nbsp;2006,&nbsp;09:53)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (pátek&nbsp;1.&nbsp;09.&nbsp;2006,&nbsp;09:53)</p>
 <p>Myslim, ze bychom se na to meli vykaslat, drzet minutu ticha za cas, ktery jsi tomu venoval a sli delat neco uzitecnejsiho :) Proste to nejde. </p>
 </div>
 <div class="comment">

@@ -8,7 +8,7 @@ comments:
   - id: 5
     author: Pe
     author_email: peblog@gmail.com
-    author_url: http://peblog-peblog.blogspot.com/
+    author_url: https://peblog-peblog.blogspot.com/
     date: '2008-03-19 13:45:19 +0100'
     date_gmt: '2008-03-19 12:45:19 +0100'
     content: "...a nejhezčí je, jak po dešti voní vzduch, jdeš po mokrých dlažkách a cítíš tu nádhernou plnou vůni zkropené země, která je tak super :-)"

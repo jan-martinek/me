@@ -7,7 +7,7 @@ tags: []
 comments: []
 ---
 <p>Hallo, hallo, nové, nové věci, a taky sněží a prší
-a <a href="http://www.deviantart.com/deviation/25703173/">už zase
+a <a href="https://www.deviantart.com/deviation/25703173/">už zase
 sněží</a>, jupí, kač kač. A internet neběží a už taky běží (když sněží spíš leží).</p>
 <p>A sněží &amp; sněží, nedělní večer celý prosněžilo, ale jinak víkend
 hnusno, hnusno, humusno v exteriérech, interiéry též nic moc - až na
@@ -24,7 +24,7 @@ materiál? b) rozpouštědlo?))). Utekl jsem.</p>
 vyjde. Ne, žádné oznámení jsme neposílali :). Byly to všpřihlášky. Poslal
 jsem dvě (číslicí: 2). Vyplnil jsem sedm přihlášek, pět složenek,
 čtyři podací lístky, dvě obálky, zašel k paní doktorce (snad na
-<a href="http://www.vsup.cz">umprumu</a>
+<a href="https://www.vsup.cz">umprumu</a>
 očekávají davy bezrukých malířů, že chtějí zdravotní způsobilost),
 pak jsme zaplatili (celkem jsme posílali tři kousky), zkopčili úlomky
 složenky, vlepili &amp; zalepili a doporučeně se bojíme. Brr.</p>
@@ -36,13 +36,13 @@ proč se toto stalo poprvé:</p>
 <li>skoro nikdy neusínám, když jo, tak u počítače nebo v posteli</li>
 </ul>
 <p>A dál? A dál? Sobota, prší vrši, mrši hrší, sobota.. Dlouhý den,
-via <a href="http://adbar.bloguje.cz">adbar</a>
-koumám <a href="http://www.gro.cz/osobnostni_test_mbti">MBTI</a>
+via <a href="https://adbar.bloguje.cz">adbar</a>
+koumám <a href="https://www.gro.cz/osobnostni_test_mbti">MBTI</a>
 a vybarvuju se jako
-<a href="http://www.gro.cz/osobnostni_test_mbti/index.php?text=ENFJ">ENFJ</a>.
+<a href="https://www.gro.cz/osobnostni_test_mbti/index.php?text=ENFJ">ENFJ</a>.
 Ve spoustě věcí je to asi krůta pravda. Píp.</p>
 <p>A večer v sobotu naprosto bez očekávání nadšeně na Vsetín, s Blankou
-navrátivší se z <a href="http://www.vscht.cz/homepage">VŠCHT</a> DOD.
+navrátivší se z <a href="https://www.vscht.cz/homepage">VŠCHT</a> DOD.
 (Tólik zkratek, jsem už jako dospělý!) Na Vsetín na <del>Bublaninu, divadlo
 DNO a divadlo jména mi neznámého,</del> na divadlo Bublanina, kde hraje mimo jiné má čerstvá paní/slečna(?)
 učitelka výtvarky (ne, že by byla ve výtvarce čerstvá, to já jsem ten zelenáč) a divadlo DNO, a tam
@@ -61,11 +61,11 @@ pokud je (hodnota > 0) { je to v pohodě }. Jdu mrknout na práci. :)</p>
 <p>weselý webmaster=) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Eman</span> |  <a href="http://eman.chytrak.cz">http://eman.chytrak.cz</a> (pondělí&nbsp;28.&nbsp;11.&nbsp;2005,&nbsp;13:34)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Eman</span> |  <a href="https://eman.chytrak.cz">https://eman.chytrak.cz</a> (pondělí&nbsp;28.&nbsp;11.&nbsp;2005,&nbsp;13:34)</p>
 <p>Ten blog je sice srozumitelny jako cinstina, ale pusobi to silene pozitivne... tak at vam to vyjde:) zdarec </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">skaut</span> |  <a href="http://skaut.name">http://skaut.name</a> (pondělí&nbsp;13.&nbsp;02.&nbsp;2006,&nbsp;18:46)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">skaut</span> |  <a href="https://skaut.name">https://skaut.name</a> (pondělí&nbsp;13.&nbsp;02.&nbsp;2006,&nbsp;18:46)</p>
 <p>na vscht studuju :-) </p>
 </div>
 </div>

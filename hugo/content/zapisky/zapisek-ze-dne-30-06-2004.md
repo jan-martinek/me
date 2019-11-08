@@ -20,7 +20,7 @@ comments: []
 <p>Taky se s tebou loučím jedu do divočiny ulovit nejakého toho medvěda :))) tak si to pořádně užij na krásných plážích :) Taky jedu do zahraničí :) asi po 5 letech :) ale moc se teším a určitě se mi nebude chtít zpátky ... Ale co už slovensko je naše milá rozvojová země a ty si jedeš do francie ... tak se měj a po 23 zdar :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="http://www.pifik.com">web</a> (ve&nbsp;čtvrtek&nbsp;1.&nbsp;07.&nbsp;2004,&nbsp;v&nbsp;12:03)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="https://www.pifik.com">web</a> (ve&nbsp;čtvrtek&nbsp;1.&nbsp;07.&nbsp;2004,&nbsp;v&nbsp;12:03)</p>
 <p>papa a hf </p>
 </div>
 </div>

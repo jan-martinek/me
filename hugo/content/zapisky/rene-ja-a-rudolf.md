@@ -18,7 +18,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">To jsou věci ...</span> | <span class="comname">Tonda</span> |  <a href="http://blog.antonindanek.cz/index.php5">http://blog.antonindanek.cz/index.php5</a> (neděle&nbsp;29.&nbsp;07.&nbsp;2007,&nbsp;17:04)</p>
+<p style="font-weight:bold"><span class="compredmet">To jsou věci ...</span> | <span class="comname">Tonda</span> |  <a href="https://blog.antonindanek.cz/index.php5">https://blog.antonindanek.cz/index.php5</a> (neděle&nbsp;29.&nbsp;07.&nbsp;2007,&nbsp;17:04)</p>
 <p>Vypadá to moc zajímavě, zkusim zjistit jestli to někdo v mém okolí taky nemá. :o) </p>
 </div>
 </div>

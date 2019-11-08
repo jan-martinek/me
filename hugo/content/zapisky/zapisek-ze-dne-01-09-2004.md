@@ -20,7 +20,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (středa&nbsp;1.&nbsp;09.&nbsp;2004,&nbsp;22:43)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (středa&nbsp;1.&nbsp;09.&nbsp;2004,&nbsp;22:43)</p>
 <p>a ja myslel, ze jsem tu sam grafoman :) </p>
 </div>
 <div class="comment">

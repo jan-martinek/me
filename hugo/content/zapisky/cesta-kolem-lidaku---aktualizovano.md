@@ -20,7 +20,7 @@ kabely prorezaví, R může spadnout na chodník před budovou.<br><br></p>
 <p>Nenašel jsem žádné informace o majiteli domu, tak posílám tento mail na adresu baru 3 opice, který v tomto domě sídlí, a MÚ.
 Pokud je to možné, prosím o prověření bezpečnosti upevnění všech částí tohoto nápisu, případně o přeposlání tohoto mailu
 odpovědné osobě.<br><br></p>
-<p>Fotografie nápisu je možné najít na stránce http://podnebi.jan-martinek.com/index.php?a=20060914<br><br></p>
+<p>Fotografie nápisu je možné najít na stránce https://podnebi.jan-martinek.com/index.php?a=20060914<br><br></p>
 <p>S přáním pěkného dne,<br><br>Jan Martinek</p>
 <p>Pokud se něco bude dít, doplním to tady... a dělo se :) Nejprve přišel tento dopis z opic...</p>
 <p class="odsazeny">Date: Wed, 20 Sep 2006 20:22:23 +0200 (CEST)<br>To: Jan Martinek<br>From: tomas vrubel <...@seznam.cz><br>Subject: Re:Poškozený nápis na lidovém domě<br></p>

@@ -11,15 +11,15 @@ comments: []
 <p>Naopak, alkalóza, příliš zásaditá reakce, je spojená s pH nad 7,45.</p>
 <p>Tohle je dost úzký pruh &amp; ne každý se v něm udrží.</p>
 <p>Proto, až zase někdo bude kyselý (a bude to třeba prezentovat jako kritický odstup od reality), nemějte mu to za zlé.</p>
-<p class="odsazeny">Inspirace: <a href="http://jan-martinek.com/index.php?a=20050210">Cukrovka</a></p>
+<p class="odsazeny">Inspirace: <a href="https://jan-martinek.com/index.php?a=20050210">Cukrovka</a></p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (pátek&nbsp;11.&nbsp;02.&nbsp;2005,&nbsp;23:25)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (pátek&nbsp;11.&nbsp;02.&nbsp;2005,&nbsp;23:25)</p>
 <p>kdyz vidim tvoji zalibu v biologii, nesebral bys silu na nejaky podobny clanek o tom, jak telo reaguje na vypiti vetsiho mnozstvi destilovane vody? 10litru = smrt. ale ono je to mnohem zajimavejsi :) tak patrej, stourej a pis... ;) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (sobota&nbsp;12.&nbsp;02.&nbsp;2005,&nbsp;08:58)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (sobota&nbsp;12.&nbsp;02.&nbsp;2005,&nbsp;08:58)</p>
 <p>mám takový dojem, že jsme se učili, že 4l by měly stačit ;) </p>
 </div>
 <div class="comment">

@@ -15,7 +15,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">.</span> | <span class="comname">juneau</span> |  <a href="http://juneau.wz.cz">web</a> (ve&nbsp;středu&nbsp;17.&nbsp;03.&nbsp;2004,&nbsp;v&nbsp;23:50)</p>
+<p style="font-weight:bold"><span class="compredmet">.</span> | <span class="comname">juneau</span> |  <a href="https://juneau.wz.cz">web</a> (ve&nbsp;středu&nbsp;17.&nbsp;03.&nbsp;2004,&nbsp;v&nbsp;23:50)</p>
 <p>pred tremi hodinami jsem se chtel ucit cestinu (divadlo po 1945), pred dvemi hodinami obcanku (nemecka filozofie), pred hodinou jsem se chtel divat na Prelet nad kukaccim hnizdem. A ted uz chci akorat spat :) </p>
 </div>
 </div>

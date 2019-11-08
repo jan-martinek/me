@@ -16,7 +16,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://juneau.wz.cz">web</a> (v&nbsp;pondělí&nbsp;29.&nbsp;03.&nbsp;2004,&nbsp;v&nbsp;10:26)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://juneau.wz.cz">web</a> (v&nbsp;pondělí&nbsp;29.&nbsp;03.&nbsp;2004,&nbsp;v&nbsp;10:26)</p>
 <p>jojo, The Eye bylo :) Nejhorsi mi prisla ta scena ve vytahu :) UAAAA! Ale moc si toho uz nepomatuji :) a pokud mas vitr z blikajicich svetel, tak si zajdi na Gothiku. Tam bylo blikani zarovek predzvesti nadprirozena :) Hu-hu-hu-sty ;) </p>
 </div>
 <div class="comment">

@@ -15,7 +15,7 @@ comments: []
 <p>Tak ta první je dost dobrá :) Upravoval jsi nějak její barevnost nebo ji tak zabarvil přímo foťák? <br> BTW: Jaký máš prosím tě digitál? Chtěl bych totiž vědět, jaký to má objektiv, protože ten nádr mi přijde už docela dost širokoúhlý, což u digitálů není zas tak běžné :( </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">Taky fotky :-)</span> | <span class="comname">God.zilla</span> |  <a href="http://godzilla.wz.cz">web</a> (v&nbsp;sobotu&nbsp;24.&nbsp;04.&nbsp;2004,&nbsp;v&nbsp;18:58)</p>
+<p style="font-weight:bold"><span class="compredmet">Taky fotky :-)</span> | <span class="comname">God.zilla</span> |  <a href="https://godzilla.wz.cz">web</a> (v&nbsp;sobotu&nbsp;24.&nbsp;04.&nbsp;2004,&nbsp;v&nbsp;18:58)</p>
 <p>Mi se líbí obě dvě první fotky, jsou vážně dost dobré :-) Dost mi zvedly náladu, která teďka nebyla úplně ideální.. dík ;-) <br>  <br> Wikih: Endlife má myslím nějaký 1MPixelový hewlett packard.. </p>
 </div>
 <div class="comment">

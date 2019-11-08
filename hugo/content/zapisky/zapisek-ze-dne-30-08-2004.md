@@ -11,7 +11,7 @@ comments: []
 <ul>
 <li>RX (toto jest reflex)</li>
 <li>Terka (=dárek pro Terku k narozkám (které sice byly dávno, ale přes prázdniny jsme se neviděli) ;))</li>
-<li>webdesign (=knížka <a href="http://knihy.cpress.cz/Book.asp?ID=917&SearchText=inspirativn%ED&SearchType=4">Inspirativní webdesign</a>)</li>
+<li>webdesign (=knížka <a href="https://knihy.cpress.cz/Book.asp?ID=917&SearchText=inspirativn%ED&SearchType=4">Inspirativní webdesign</a>)</li>
 <li>neskafe (=sáček neskafe do školy)</li>
 <li>cedka (=cedka došly, nemám na ostatním pálit ;))</li>
 </ul>
@@ -24,7 +24,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">čt2</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (&nbsp;31.&nbsp;08.&nbsp;2004,&nbsp;20:30)</p>
+<p style="font-weight:bold"><span class="compredmet">čt2</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (&nbsp;31.&nbsp;08.&nbsp;2004,&nbsp;20:30)</p>
 <p>A díval jsi taky na Čínskou lázeň, co byla předtím? Dobrý filmek, kdežto Dark Side mě moc nezaujal - jen dokument a navíc mám rád jiná alba od Floydů. </p>
 </div>
 <div class="comment">

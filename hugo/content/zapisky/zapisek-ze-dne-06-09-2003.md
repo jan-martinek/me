@@ -6,4 +6,4 @@ category: nezařazené
 tags: []
 comments: []
 ---
-<p>Podle všech předpokladů bych se měl vznášet někde v okolí - lakoval jsem okna a jsem načichaný až je to odporné,  ale žádné povznášející důsledky to nemá ;). Spíš od toho bolí hlava, nos a ruka, která mi od stálého  ježdění sem a tam pomalu odpadává...  Ve volných chvílích dodělávám <a href="http://www.mgvforum.wz.cz" target="_blank">mgvforum</a>, což je docela zábavka,  vždycky potěší, když mi tam něco začne fungovat :).</p>
+<p>Podle všech předpokladů bych se měl vznášet někde v okolí - lakoval jsem okna a jsem načichaný až je to odporné,  ale žádné povznášející důsledky to nemá ;). Spíš od toho bolí hlava, nos a ruka, která mi od stálého  ježdění sem a tam pomalu odpadává...  Ve volných chvílích dodělávám <a href="https://www.mgvforum.wz.cz" target="_blank">mgvforum</a>, což je docela zábavka,  vždycky potěší, když mi tam něco začne fungovat :).</p>

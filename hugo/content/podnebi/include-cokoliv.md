@@ -30,7 +30,7 @@ pokud to tak ještě nemáte.</p>
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
 <p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">God.zilla</span> | (neděle&nbsp;13.&nbsp;02.&nbsp;2005,&nbsp;20:52)</p>
-<p>tohle neni zadna vazna zranitelnost - includovat php kod takhle z jinych serveru nejde, kdybys mel treba  <br>  <br> $a=&quot;http://mojestranky.cz/fujskript.php&quot;; <br>  <br> tak se stejne vlozi jenom _vystup_ toho skriptu, ktery se v zadnem pripade nebude vyhodnocovat.. takze dont worry, be heapy :-) </p>
+<p>tohle neni zadna vazna zranitelnost - includovat php kod takhle z jinych serveru nejde, kdybys mel treba  <br>  <br> $a=&quot;https://mojestranky.cz/fujskript.php&quot;; <br>  <br> tak se stejne vlozi jenom _vystup_ toho skriptu, ktery se v zadnem pripade nebude vyhodnocovat.. takze dont worry, be heapy :-) </p>
 </div>
 <div class="comment">
 <p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a> (neděle&nbsp;13.&nbsp;02.&nbsp;2005,&nbsp;21:35)</p>

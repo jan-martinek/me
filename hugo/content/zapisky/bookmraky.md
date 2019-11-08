@@ -16,7 +16,7 @@ obraty, posuďte syntax.&ldquo; </p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Soooc</span> |  <a href="mailto:soc.borec.cz">mail</a>  <a href="http://soc.borec.cz">http://soc.borec.cz</a> (pátek&nbsp;23.&nbsp;09.&nbsp;2005,&nbsp;17:12)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Soooc</span> |  <a href="mailto:soc.borec.cz">mail</a>  <a href="https://soc.borec.cz">https://soc.borec.cz</a> (pátek&nbsp;23.&nbsp;09.&nbsp;2005,&nbsp;17:12)</p>
 <p>Tohle sedlo :) </p>
 </div>
 </div>

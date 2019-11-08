@@ -15,7 +15,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://juneau.wz.cz">web</a> (v&nbsp;sobotu&nbsp;5.&nbsp;06.&nbsp;2004,&nbsp;v&nbsp;18:35)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://juneau.wz.cz">web</a> (v&nbsp;sobotu&nbsp;5.&nbsp;06.&nbsp;2004,&nbsp;v&nbsp;18:35)</p>
 <p>clovek, ktery tu hleda smysl, sem prijde jen jednou. ti, co sem chodi i pote, nepotrebuji tvoje omluvy. Kdyby nechteli, nechodi :) </p>
 </div>
 </div>

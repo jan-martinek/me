@@ -8,14 +8,14 @@ comments:
   - id: 9160
     author: davo
     author_email: d.tvrdon@gmail.com
-    author_url: http://david.oktavagcm.sk/blog/
+    author_url: https://david.oktavagcm.sk/blog/
     date: '2008-12-03 09:10:41 +0100'
     date_gmt: '2008-12-03 07:10:41 +0100'
     content: hmm, doma, uz sa aj ja tesim..
   - id: 9161
     author: Jenda
     author_email: jan.perla.jr@gmail.com
-    author_url: http://jenda.name
+    author_url: https://jenda.name
     date: '2008-12-03 11:32:02 +0100'
     date_gmt: '2008-12-03 09:32:02 +0100'
     content: Že se ti vůbec pak chce do Brna. Krásně tam máte.
@@ -29,7 +29,7 @@ comments:
   - id: 9208
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2008-12-06 02:00:45 +0100'
     date_gmt: '2008-12-06 00:00:45 +0100'
     content: Máme, moc krásně. Moci být tak na dvou místech zároveň... :)

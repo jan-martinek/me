@@ -8,7 +8,7 @@ comments:
   - id: 12048
     author: Jenda
     author_email: jan.perla.jr@gmail.com
-    author_url: http://jenda.name
+    author_url: https://jenda.name
     date: '2009-05-29 08:53:28 +0200'
     date_gmt: '2009-05-29 07:53:28 +0200'
     content: Hej, to je náš šachovej kůň :D

@@ -20,7 +20,7 @@ takový trotlík nejsem. Ale třeba:</p>
 <p class="odsazeny">Disney a Studio Pixar uvádějí film Úžasňákovi</p>
 <p>Mno, ale takových kixů je kolem spousta, takže co řešit, že, hmm..</p>
 <p><strong>hláška dne:</strong> &bdquo;Hmmm, ještě raděj než psa bych si pořídil
-top-modelku.&ldquo; (<a href="http://iqland.wz.cz">IQ</a> (stránka pod odkazem
+top-modelku.&ldquo; (<a href="https://iqland.wz.cz">IQ</a> (stránka pod odkazem
 je mrtvá, odkaz čistě jen pro upřesnění identity))</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
@@ -41,7 +41,7 @@ je mrtvá, odkaz čistě jen pro upřesnění identity))</p>
 <p>samozřejmě, to dělám. nicméně celek bez detailů je nudný. </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (pondělí&nbsp;14.&nbsp;03.&nbsp;2005,&nbsp;21:07)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (pondělí&nbsp;14.&nbsp;03.&nbsp;2005,&nbsp;21:07)</p>
 <p>jo taky mám rád detaily - připomíná mi to muchu na filmu na začátku Amélie :) <br> jinak jsi to nějak chytl od Pixyho ne? Občas mě ale takové věci taky pěkně naštvou :) </p>
 </div>
 <div class="comment">
@@ -49,7 +49,7 @@ je mrtvá, odkaz čistě jen pro upřesnění identity))</p>
 <p>od pixyho? hehe :) mno, ale v poslední době zas až tolik ubrblaných článků nemá.. až teď na ty pojišťvny :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (&nbsp;15.&nbsp;03.&nbsp;2005,&nbsp;20:15)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (&nbsp;15.&nbsp;03.&nbsp;2005,&nbsp;20:15)</p>
 <p>jo ale to se jedná o web, to mi nevadí. Celkově jeho úrovně klesla, kdežto tvoje stoupá :) </p>
 </div>
 </div>

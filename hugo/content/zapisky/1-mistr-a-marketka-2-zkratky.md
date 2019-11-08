@@ -7,7 +7,7 @@ tags: []
 comments: []
 ---
 <p>Pozn.: Předevčírem jsem se byl podívat v zlínském divadle na představení (druhý divadelní
-spot po sobě, ale klídek) <a href="http://www.divadlo.zlin.cz/www/hry.php?h=221">Mistr a
+spot po sobě, ale klídek) <a href="https://www.divadlo.zlin.cz/www/hry.php?h=221">Mistr a
 Markétka</a>. A je těžké říct něco jiného, než že to
 bylo úchvatné. Režisér (Dodo Gombár) si adaptoval román do scénáře sám, složitý příběh
 zapadl do citlivě vymyšlené formy, vyprávění běželo bez plicních kontrakcí zběsile
@@ -20,8 +20,8 @@ samostatný spot, ale nerad nechávám témata vystydnout) můj systém kláveso
 a myších zkratek, které mi pomáhají v tom, aby má práce v systému windows
 byla efektivní. Tuto myšlenku jsem chtěl již dříve zmínit v zatím nerealizovaném
 seriálu &bdquo;Za počítač chytřejší&ldquo;, ale teď mě nakopl článek
-<a href="http://www.chomat.net/">Jirky Chomáta</a>
-o <a href="http://www.chomat.net/weboviny/klavesove-zkratky">jeho klávesových zkratkách</a>.</p>
+<a href="https://www.chomat.net/">Jirky Chomáta</a>
+o <a href="https://www.chomat.net/weboviny/klavesove-zkratky">jeho klávesových zkratkách</a>.</p>
 <p>Mé zkratky ovšem nejsou pouze klávesové, mám tu taky nějakou tu myší zkratku.
 Ale postupně. Nehodlám popisovat zkratky ve všech speci aplikacích,
 ale jen obecné zkratky, které se vyskytují ve většině programů, nebo pomáhají
@@ -38,7 +38,7 @@ Nejprve tedy klávesnice, level basic (běžné programové zkratky, většina �
 <li><em>ALT + F4</em><br>zavřít aplikaci</li>
 <li><em>CTRL + F4</em><br>zavřít dokument, okno</li>
 <li><em>ALT + TAB</em><br>přepnout aplikaci (používám zlepšené přepínání
-<a href="http://www.ntwind.com/taskswitchxp/">TaskSwitchXP</a>)
+<a href="https://www.ntwind.com/taskswitchxp/">TaskSwitchXP</a>)
 </li>
 <li><em>F1</em><br>nápověda</li>
 <li><em>okno (WinKey)</em><br>Start menu</li>
@@ -55,7 +55,7 @@ Nejprve tedy klávesnice, level basic (běžné programové zkratky, většina �
 <li><em>okno + End</em><br>winamp: jump dialog</li>
 <li><em>okno + šipky</em><br>winamp: zvýšit/snížit hlasitost (nahoru/dolů), posunout dopředu/dozadu (vpravo/vlevo)</li>
 <li><em>okno + kontextová nabídka (WinKey2)</em><br>winamp: zobraz info písničky (plugin
-<a href="http://www.myplugins.info/update.php?plugin=gen_toaster&version=075&type=dialog">Toaster</a>,
+<a href="https://www.myplugins.info/update.php?plugin=gen_toaster&version=075&type=dialog">Toaster</a>,
 zobrazující PopUp okno o hrající písničce)</li>
 <li><em>CTRL + ENTER</em><br>odeslat (zprávu v IM, mail v Opeře)</li>
 </ul>
@@ -64,12 +64,12 @@ na myš, mám také obrácené zkratky &ndash; abych nemusel skákat z myši na 
 Nemalou pomocí je střední tlačítko, které v Opeře (a Firefoxu)
 otevírá odkaz do nového okna a zároveň zavírá stránku kliknutím na její záložku.
 Ale chtělo by to ještě zvýšit funkčnost myši.</p>
-<p>Toto zajišťuje malá aplikace <a href="http://www.tcbmi.com/strokeit/">StrokeIt</a>,
+<p>Toto zajišťuje malá aplikace <a href="https://www.tcbmi.com/strokeit/">StrokeIt</a>,
 díky které můžu používat v celém systému Mouse Gestures (nakreslím C a aplikace se
 zavře apod.). Mám několik základních zkratek jako Nový, Zavřít etc. i na myši.</p>
 <p>Aktuálně hledám nějakou utilitu, která by mi umožnila při rolování kolečkem
 a zmáčkutném Shiftu horizontální rolování &ndash; nemáte někdo tip? (Toto chování
-funguje ve vektorovém editoru <a href="http://inkscape.org">Inkscape</a> a je návykové.)</p>
+funguje ve vektorovém editoru <a href="https://inkscape.org">Inkscape</a> a je návykové.)</p>
 <p>Pro rychlé spouštění aplikací jsem zavrhl panel Rychlé spuštění a používám
 dvě instance aplikace YzDock, jednu zarovnanou při dolním a jednu při pravém
 okraji &ndash; nezabírají žádné místo (automaticky se objeví při najetí k okraji
@@ -90,7 +90,7 @@ jen, aby se odlišovaly &ndash; po chvíli zvykání je to mnohem lepší))
 a přidal pár vychytávek (MouseGestures). Práce je tak nerušená, plynulejší
 a příjemnější.</p>
 <p>Pozn.: Spoty nemají mít dvě témata, ruší to jejich kompaktnost. Ale abyste nezapomněli,
-na začátku jsem psal o divadle <a href="http://www.divadlo.zlin.cz/www/hry.php?h=221">Mistr a
+na začátku jsem psal o divadle <a href="https://www.divadlo.zlin.cz/www/hry.php?h=221">Mistr a
 Markétka</a> a bylo to vskutku geniální!</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
@@ -99,7 +99,7 @@ Markétka</a> a bylo to vskutku geniální!</p>
 <p>ta zelená mi utrhne oči </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">(CZ)Soooc</span> |  <a href="mailto:xsoc@post.cz">mail</a>  <a href="http://sooochub.wz.cz">http://sooochub.wz.cz</a> (sobota&nbsp;25.&nbsp;03.&nbsp;2006,&nbsp;20:00)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">(CZ)Soooc</span> |  <a href="mailto:xsoc@post.cz">mail</a>  <a href="https://sooochub.wz.cz">https://sooochub.wz.cz</a> (sobota&nbsp;25.&nbsp;03.&nbsp;2006,&nbsp;20:00)</p>
 <p>Ta zelena je skvela :)) </p>
 </div>
 <div class="comment">
@@ -107,7 +107,7 @@ Markétka</a> a bylo to vskutku geniální!</p>
 <p>ailyn&gt; prosím o zabalení do ochranné fólie s bublinkami a odeslání na můj email. <br>  <br> soooc&gt; zvíře! <br>  <br> když jsem tu barvu poprvé viděl na CRT, taky jsem se lekl :) ale docela se mi zalíbila. </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">...</span> | <span class="comname">Ema</span> |  <a href="http://eman.ic.cz">http://eman.ic.cz</a> (&nbsp;25.&nbsp;04.&nbsp;2006,&nbsp;16:09)</p>
+<p style="font-weight:bold"><span class="compredmet">...</span> | <span class="comname">Ema</span> |  <a href="https://eman.ic.cz">https://eman.ic.cz</a> (&nbsp;25.&nbsp;04.&nbsp;2006,&nbsp;16:09)</p>
 <p>Maturita za rohem a tak Endlifuv blog spi a spi... </p>
 </div>
 <div class="comment">
@@ -115,15 +115,15 @@ Markétka</a> a bylo to vskutku geniální!</p>
 <p>přesně tak.. a nápadů by i bylo.. asi někdy udělám krátké resumé :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">(CZ)Soooc</span> |  <a href="mailto:xsoc@post.cz">mail</a>  <a href="http://sooochub.wz.cz">http://sooochub.wz.cz</a> (čtvrtek&nbsp;27.&nbsp;04.&nbsp;2006,&nbsp;15:21)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">(CZ)Soooc</span> |  <a href="mailto:xsoc@post.cz">mail</a>  <a href="https://sooochub.wz.cz">https://sooochub.wz.cz</a> (čtvrtek&nbsp;27.&nbsp;04.&nbsp;2006,&nbsp;15:21)</p>
 <p>4Ema: cos cekal :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Ema</span> |  <a href="http://eman.ic.cz ">http://eman.ic.cz </a> (pátek&nbsp;28.&nbsp;04.&nbsp;2006,&nbsp;02:55)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Ema</span> |  <a href="https://eman.ic.cz ">https://eman.ic.cz </a> (pátek&nbsp;28.&nbsp;04.&nbsp;2006,&nbsp;02:55)</p>
 <p>A sinus nepockal? </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">(CZ)Soooc</span> |  <a href="mailto:xsoc@post.cz">mail</a>  <a href="http://sooochub.wz.cz">http://sooochub.wz.cz</a> (&nbsp;2.&nbsp;05.&nbsp;2006,&nbsp;16:44)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">(CZ)Soooc</span> |  <a href="mailto:xsoc@post.cz">mail</a>  <a href="https://sooochub.wz.cz">https://sooochub.wz.cz</a> (&nbsp;2.&nbsp;05.&nbsp;2006,&nbsp;16:44)</p>
 <p>To nahore je SKVELE !!! :)) </p>
 </div>
 <div class="comment">

@@ -8,21 +8,21 @@ comments:
   - id: 11677
     author: juneau
     author_email: nevybiram@tiscali.cz
-    author_url: http://reality-show.net
+    author_url: https://reality-show.net
     date: '2009-02-09 17:38:17 +0100'
     date_gmt: '2009-02-09 16:38:17 +0100'
     content: Hezké. Bylo by hezčejší, kdyby se ta fotka po druhém kliknutí zase zmenšila (FF 3.0.6) :)
   - id: 11678
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2009-02-09 18:44:29 +0100'
     date_gmt: '2009-02-09 17:44:29 +0100'
     content: Přemýšlel jsem o tom - a když teď koukám, že to druhé kliknutí nemám ošetřené vůbec (!), tak to jdu spravit :-)
   - id: 11679
     author: juneau
     author_email: nevybiram@tiscali.cz
-    author_url: http://reality-show.net
+    author_url: https://reality-show.net
     date: '2009-02-09 20:20:07 +0100'
     date_gmt: '2009-02-09 19:20:07 +0100'
     content: A pokud tu bude komentovat někdo jiný a hlavně bez šikmého gravataru, tak trhá partu :-D

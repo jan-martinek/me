@@ -10,8 +10,8 @@ comments: []
 bavit, když už jsem změnil pár věcí, které mě delší dobu štvaly &ndash; hlavně
 info okýnko s del.icio.us odkazy, vyhledávání, pohodovější formuláře, příjemnější
 velikost obrázků (doba se přeci jen pohnula)
-a vychytanější grafika (uživatelé <a href="http://opera.com">opery</a>,
-<a href="http://firefox.czilla.cz/">firefoxu</a> nebo <a href="http://www.microsoft.com/windows/ie/">ie7</a>
+a vychytanější grafika (uživatelé <a href="https://opera.com">opery</a>,
+<a href="https://firefox.czilla.cz/">firefoxu</a> nebo <a href="https://www.microsoft.com/windows/ie/">ie7</a>
 si můžou užívat všelikých hoverů :)). Vytýkejte případné nedostatky, dík.</p>
 <div >
 <a href="/assets/migrated/old-images/podzim2.jpg"><img alt="podzim v Brně" src="/assets/migrated/old-images/podzim2.jpg"></a>
@@ -37,7 +37,7 @@ powertoyem :) Na druhé fotce je vidět veliká židle z Ikey, kterou si nemůž
 vynachválit, sedí se mi u učení a u práce skvěle.</p>
 <p>Dále už nějaké trochu společenštější fotky &ndash; pravidelně se potkáváme
 se Socem a Terkou u kulečníku a u
-<a href="http://www.hrajeme.cz/hrajeme/GameDetail.aspx?id_hry=279">Bangu</a>, občas
+<a href="https://www.hrajeme.cz/hrajeme/GameDetail.aspx?id_hry=279">Bangu</a>, občas
 dojdou i návštěvy ze vzdálených krajin jako například z Černého pole nebo až z Olomouce.</p>
 <div >
 <a href="/assets/migrated/old-images/mara-pije.jpg"><img alt="Mara" src="/assets/migrated/old-images/mara-pije.jpg"></a>

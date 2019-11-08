@@ -8,7 +8,7 @@ comments:
   - id: 12015
     author: soooc
     author_email: cz.soooc@gmail.com
-    author_url: http://soc.borec.cz
+    author_url: https://soc.borec.cz
     date: '2009-05-13 17:10:27 +0200'
     date_gmt: '2009-05-13 16:10:27 +0200'
     content: Prvni veta dokonale pobavila :-)

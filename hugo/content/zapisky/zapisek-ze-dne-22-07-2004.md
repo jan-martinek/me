@@ -64,7 +64,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">web</a> (v&nbsp;pátek&nbsp;23.&nbsp;07.&nbsp;2004,&nbsp;v&nbsp;02:13)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">web</a> (v&nbsp;pátek&nbsp;23.&nbsp;07.&nbsp;2004,&nbsp;v&nbsp;02:13)</p>
 <p>juhůůů... to bylo drsny, trikral jsem si vypalil zrak, nez jsem to precetl a ted uz vazne padam spat. <br>  <br> btw, nechybela ti vlastnost &quot;className&quot;? tou menim pres js class u elementu :) </p>
 </div>
 <div class="comment">

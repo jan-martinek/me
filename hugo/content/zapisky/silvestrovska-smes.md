@@ -8,11 +8,11 @@ comments: []
 ---
 <p>Zapamatovat si pro rok 2007 (a dál):</p>
 <p class="odsazeny">Pokud switchnu na Mac, nikomu to neříkat!</p>
-<p>Souvislost: <a href="http://www.whitwa.net/weblog/zpoved-dobrovolneho-vezne-anebimacfocus20/">whitwa to řekl</a> (zvláště komentáře jsou poučné).</p>
+<p>Souvislost: <a href="https://www.whitwa.net/weblog/zpoved-dobrovolneho-vezne-anebimacfocus20/">whitwa to řekl</a> (zvláště komentáře jsou poučné).</p>
 <p>Už nějakou dobu si říkám, že mé další PC bude Mac (a to mám Windows <strong>rád</strong> a zvěsti Visty se mi povětšinou <strong>líbí</strong>). Buď jako nástupce mého milého Asusa nebo spíš asi kamarád &ndash; 13" macbook vypadá jako něco, co by se mi <em>hodilo</em> (toto slovo si oargumentuju někdy pozděj &ndash; třeba po zkouškovém). Kdyby byl Mac slušně lokalizovaný, uvažoval bych i o tom, že bych ho (třeba i nějaký ještě pre-intelovský) koupil domů sestře místo našeho pravěkého Celera. Trochu jsem dnes zakolísal &ndash; tolik ztraceného času s komentováním... Nicméně, přišel jsem na to. Ututlat to. To je asi ono. <em>Užít si switch v úzkém kruhu přátel.</em> (Poslední věta je myšlena trochu... modří vědí.)</p>
 <p class="odsazeny">Mno, nuže zpátky<br>k Úvodu do politické vědy<br>od Kubáta a Cabady<br>čas začíná být krátký.</p>
 <p>Do přípitku zbývá nějakých sedm hodin, ještě jedno dvě témata snad projdu. <strong>Frohes Neues Jahr!</strong></p>
-<p>P. S. Se switchem to ještě v mém případě není tak horké &ndash; po Novém roce si snad co nejdřív půjdu pro <a href="http://www.fotoaparat.cz/article/10144/1" title="nikon d50">tohohle miláška</a>...</p>
+<p>P. S. Se switchem to ještě v mém případě není tak horké &ndash; po Novém roce si snad co nejdřív půjdu pro <a href="https://www.fotoaparat.cz/article/10144/1" title="nikon d50">tohohle miláška</a>...</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
@@ -20,7 +20,7 @@ comments: []
 <p>Mrkni k Hulánovi (třeba jen pro zábavu) na jeden z jeho dnešních článků. :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">suchosch</span> |  <a href="http://suchosch.net">http://suchosch.net</a> (neděle&nbsp;31.&nbsp;12.&nbsp;2006,&nbsp;18:57)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">suchosch</span> |  <a href="https://suchosch.net">https://suchosch.net</a> (neděle&nbsp;31.&nbsp;12.&nbsp;2006,&nbsp;18:57)</p>
 <p>&quot;mé další PC bude Mac&quot; to je dobrý :-) </p>
 </div>
 <div class="comment">

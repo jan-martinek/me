@@ -8,14 +8,14 @@ comments:
   - id: 12181
     author: suchosch
     author_email: suchosch@suchosch.net
-    author_url: http://suchosch.net
+    author_url: https://suchosch.net
     date: '2009-08-27 22:30:27 +0200'
     date_gmt: '2009-08-27 21:30:27 +0200'
     content: záchody označované na cedulích jako "nové toalety" mě taky zaujaly. především tím, že jsem tam naházel 25 korun, než jsem se dostal k vykonání potřeby. (5 korun do měnícího automatu, který nevrací a bere jen některé mince. zbytek jsem neposkládal. nakonec jsem si rozměnil dvacku na dvě desetikoruny a pět korun tam nechal svému osudu. pak jsem první ze získaných mincí vhodil do turniketu a ejhle, aktivoval jsem ten, který vedl na dámskou část. druhou minci jsem již použil správně...)
   - id: 12182
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2009-08-28 16:50:33 +0200'
     date_gmt: '2009-08-28 15:50:33 +0200'
     content: Tomu říkám user experience par excellence! :)

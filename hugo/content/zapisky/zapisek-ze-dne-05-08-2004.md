@@ -15,19 +15,19 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">css</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">web</a> (v&nbsp;sobotu&nbsp;7.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;12:29)</p>
+<p style="font-weight:bold"><span class="compredmet">css</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">web</a> (v&nbsp;sobotu&nbsp;7.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;12:29)</p>
 <p>Docela by mě zajímalo jaký smysl mají 4 třídy u jednoho prvku? </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">css</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">web</a> (v&nbsp;sobotu&nbsp;7.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;12:29)</p>
+<p style="font-weight:bold"><span class="compredmet">css</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">web</a> (v&nbsp;sobotu&nbsp;7.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;12:29)</p>
 <p>Docela by mě zajímalo jaký smysl mají 4 třídy u jednoho prvku? </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">bug?</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">web</a> (v&nbsp;sobotu&nbsp;7.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;12:34)</p>
+<p style="font-weight:bold"><span class="compredmet">bug?</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">web</a> (v&nbsp;sobotu&nbsp;7.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;12:34)</p>
 <p>Proč se vždycky moje příspěvky objeví dvakrát, když kliknu jen jednou na odeslat? Očekávám, že tohle tu bude taky dvakrát:( Nejde to smazat, sorry. Mám prohlížeč Mozilla 1.7.1, nevíš kde je chyba? </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">bug?</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">web</a> (v&nbsp;sobotu&nbsp;7.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;12:34)</p>
+<p style="font-weight:bold"><span class="compredmet">bug?</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">web</a> (v&nbsp;sobotu&nbsp;7.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;12:34)</p>
 <p>Proč se vždycky moje příspěvky objeví dvakrát, když kliknu jen jednou na odeslat? Očekávám, že tohle tu bude taky dvakrát:( Nejde to smazat, sorry. Mám prohlížeč Mozilla 1.7.1, nevíš kde je chyba? </p>
 </div>
 <div class="comment">
@@ -35,7 +35,7 @@ comments: []
 <p>čtyři třídy mají jednoduchý smysl - definuju několik vlastností, které se u několika prvků překrývají, samostatně &amp; pak můžu kombinacemi tříd docílit spousty různých vzhledů.. <br>  <br> příklad <br>  <br> .e3col { <br> background-color: #f90; <br> position: absolute; top: 21px; <br> width: 242px; height: 255px; <br> overflow: hidden; <br> } <br> .eleft3 { left: 0px; } <br> .coltitle { top: 0px; height: 20px; background-color: #666; } <br> .pagepict { top: 0px; height: 276px; } <br>  <br> prvni definice samotna je definice tri sloupcu, ktera se pak deli &gt; <br> - spolu s druhou definici vytvori levy sloupec <br> - spolu s druhou a treti definici vytvori nadpisove pole leveho sloupce <br> - a spolu s prvni a ctvrtou definici vytvori plac pro titulni obrazek, ktery se obcas v levem sloupci taky vyskytne ;) <br>  <br> dá se toho využít ještě ve větším měřítku.. tady je využití maximálně tří tříd.. ale někde jsem použil i čtyři.. <br>  <br> co se týče tvého bugu, tak netuším, čím to může být :( asi je tu někde psané <br> if ($user = &quot;Wikih&quot;) $zprava .= $zprava; :) ještě se zeptám jednoho kámoše, taky mozilláka, ať to testne.. </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">css</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">web</a> (v&nbsp;neděli&nbsp;8.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;14:24)</p>
+<p style="font-weight:bold"><span class="compredmet">css</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">web</a> (v&nbsp;neděli&nbsp;8.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;14:24)</p>
 <p>Dík za osvětu:) A tohle je z IE (fuj), takže jestli to zas bude dvakrát, tak je problém někde jinde než v moji oblíbené Mozille. <br>  <br> Ad if ($user = &quot;Wikih&quot;) $zprava .= $zprava; - Možná nějaký hackerský útok na tvoje stránky :) </p>
 </div>
 <div class="comment">
@@ -43,15 +43,15 @@ comments: []
 <p>Tak, sice nejedu z 1.7, ale z firefoxe, ale přece jen to zkusím otestovat :) <br>  <br> konečně jsem rozjel aspoň nějakou mozillu, takže teď už můžu testovat na všem (akorát ie5.5 je na notebooku hůř dosažitelný ;)) <br>  <br> opera je stejně nejlepší :-) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">browser</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">web</a> (v&nbsp;neděli&nbsp;8.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;21:38)</p>
+<p style="font-weight:bold"><span class="compredmet">browser</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">web</a> (v&nbsp;neděli&nbsp;8.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;21:38)</p>
 <p>Opera je lepší než IE, ale ne o moc. Nejlepší je Mozilla :)) Dodržuje standardy, tam kde se to očekává&amp;používá quirk režim, pro staré věci. Opera mě naposled naprosto vytočila, když se chová stejně debilně jak IE6 k XHTML strict stránkám s deklarací XML. Fuj, fuck off IE&amp;similar rubish. Ale chápu, že jestli máš pomalejší komp, tak je trochu líná :( <br>  <br> Jo a tipuju, že chyba bude asi v téhle verzi, protože dokuď jsem měl starou, tak žádný problém. Přece jen vývoj je těžký:) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">browser</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">web</a> (v&nbsp;neděli&nbsp;8.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;21:38)</p>
+<p style="font-weight:bold"><span class="compredmet">browser</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">web</a> (v&nbsp;neděli&nbsp;8.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;21:38)</p>
 <p>Opera je lepší než IE, ale ne o moc. Nejlepší je Mozilla :)) Dodržuje standardy, tam kde se to očekává&amp;používá quirk režim, pro staré věci. Opera mě naposled naprosto vytočila, když se chová stejně debilně jak IE6 k XHTML strict stránkám s deklarací XML. Fuj, fuck off IE&amp;similar rubish. Ale chápu, že jestli máš pomalejší komp, tak je trochu líná :( <br>  <br> Jo a tipuju, že chyba bude asi v téhle verzi, protože dokuď jsem měl starou, tak žádný problém. Přece jen vývoj je těžký:) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="http://www.pifik.com">web</a> (v&nbsp;pondělí&nbsp;9.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;00:11)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="https://www.pifik.com">web</a> (v&nbsp;pondělí&nbsp;9.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;00:11)</p>
 <p>firefox rox </p>
 </div>
 <div class="comment">

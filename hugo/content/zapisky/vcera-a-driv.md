@@ -9,10 +9,10 @@ comments: []
 <p>Čas mi stéká dolů po oknech a chtělo by to zase nějaké ty kousky,
 co se mi viklají v hlavě zafixovat desinfikovanými špendlíky na tuhle
 nástěnku.. Už tak dávno a přitom před týdnem &ndash; na
-<a href="http://www.lfs.cz">filmovce</a> bylo krásně.</p>
+<a href="https://www.lfs.cz">filmovce</a> bylo krásně.</p>
 <p>Spousty filmů, které bych teď ani z hlavy nevyjmenoval, několik skvělých
 koncertů, parádní atmosféra, vedro, stany, tam jsme byli. Abych něco vypích,
-tak bych vypích film <a href="http://www.imdb.com/title/tt0445158/">13 jezer</a>
+tak bych vypích film <a href="https://www.imdb.com/title/tt0445158/">13 jezer</a>
 od Jamese Benninga.</p>
 <p>135minutový film amerického profesora matematiky, silně precizní a působivý.
 Obešel se bez herců, komentáře, míchaní zvuků i pohyblivé kamery. Třináct desetiminutových

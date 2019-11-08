@@ -16,7 +16,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Aleonotschka</span> |  <a href="http://aleonotschka.bloguje.cz">http://aleonotschka.bloguje.cz</a> (sobota&nbsp;18.&nbsp;09.&nbsp;2004,&nbsp;21:01)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Aleonotschka</span> |  <a href="https://aleonotschka.bloguje.cz">https://aleonotschka.bloguje.cz</a> (sobota&nbsp;18.&nbsp;09.&nbsp;2004,&nbsp;21:01)</p>
 <p>Ne, ja podzim taky nemusim. Ackoliv je prijemny, kdyz sviti slunce a je teplo, ale vetsinou mi to jen prinasi divnou naladu. </p>
 </div>
 <div class="comment">
@@ -36,7 +36,7 @@ comments: []
 <p>mno, hůř byurčitě být mohlo.. tohle je jen náladový text.. mám se jinak vlastně docela dobře. nikoliv docela, mám se dobře.. jenom mám občas divné nálady.. <br>  <br> mno, mohl bych to smazat, ale nechce se mi &amp; to tak, že vůbec ;) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">double</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (&nbsp;21.&nbsp;09.&nbsp;2004,&nbsp;20:45)</p>
+<p style="font-weight:bold"><span class="compredmet">double</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (&nbsp;21.&nbsp;09.&nbsp;2004,&nbsp;20:45)</p>
 <p>jestli Shadow nemá s komentáři náhodou podobný problém jako jsem měl já :))) </p>
 </div>
 </div>

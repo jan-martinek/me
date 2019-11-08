@@ -39,14 +39,14 @@ comments:
 </li>
 <li><em>profily Šmoulích kandidátů v ISu</em>: vygenerovaly 5% přístupů na web, ale nejspíše to budou z velké části naše testovací prokliky
 </li>
-<li><em>Facebook</em>: pro propagaci jsme se rozhodli použít Group spíše než Page kvůli možnosti zvát lidi a později rozesílat zprávu do Inboxu. Do naší skupiny <a href="http://www.facebook.com/group.php?gid=166616356960&ref=ts">Upřímní Šmoulové do senátu!</a> se přihlásilo něco přes sto lidí, největší úspěch měly asi vtipné plakátky jako například následující gargamelovský plakát (přikládám i s tagy). <br><br><img src='/assets/migrated/wp-uploads/2009/10/gargamel.png' alt='gargamel.png' /><br><br>Zpočátku se i docela živě diskutovalo o programu a dalších věcech, ale v posledním týdnu aktivita docela utichla. Na razantním úspěchu vítěze voleb má určitě velký podíl i jeho aktivita v diskusích na FB i jiných místech. V závěru jsme vyvěsili i Event (událost) "Volte Šmouly".<br><br>Trochu nečekaný klacek pod nohama byla úterní kompletní změna povahy Groups - celá funkcionalita se posunula trochu jinam. A to přesně v den, kdy začínaly volby. Než jsme se zorientovali a ověřili, že nám někdo neprolomil heslo, chvíli to trvalo :)</li>
+<li><em>Facebook</em>: pro propagaci jsme se rozhodli použít Group spíše než Page kvůli možnosti zvát lidi a později rozesílat zprávu do Inboxu. Do naší skupiny <a href="https://www.facebook.com/group.php?gid=166616356960&ref=ts">Upřímní Šmoulové do senátu!</a> se přihlásilo něco přes sto lidí, největší úspěch měly asi vtipné plakátky jako například následující gargamelovský plakát (přikládám i s tagy). <br><br><img src='/assets/migrated/wp-uploads/2009/10/gargamel.png' alt='gargamel.png' /><br><br>Zpočátku se i docela živě diskutovalo o programu a dalších věcech, ale v posledním týdnu aktivita docela utichla. Na razantním úspěchu vítěze voleb má určitě velký podíl i jeho aktivita v diskusích na FB i jiných místech. V závěru jsme vyvěsili i Event (událost) "Volte Šmouly".<br><br>Trochu nečekaný klacek pod nohama byla úterní kompletní změna povahy Groups - celá funkcionalita se posunula trochu jinam. A to přesně v den, kdy začínaly volby. Než jsme se zorientovali a ověřili, že nám někdo neprolomil heslo, chvíli to trvalo :)</li>
 <li><em>Velká nástěnka v atriu</em> - zde probíhaly vcelku žhavé boje - přestože jsme, coby iniciátoři umístění nástěnky v atriu, ostatní kandidáty požádali o ohleduplnost, jedna z dvojčlenných koalic vyvěsila pět A3 plakátů, což bylo lehce disproporční. V závěru jsme nadhodili i lehkou negativní kampaň v duchu démonizace populistických protivníků :-D
 <p><img src='/assets/migrated/wp-uploads/2009/10/pavel-haider.jpg' alt='pavel-haider.jpg' /><br />
 Pavel Šíma vs. Jörg Haider</p>
 <p><img src='/assets/migrated/wp-uploads/2009/10/panda-haider.jpg' alt='panda-haider.jpg' /><br />
 Panda vs. Jörg Haider</p>
 </li>
-<li>na <em><a href="http://fsspodcast.cz">FSSpodcast</a></em> jsme nakonec videem nepřispěli, ač okolo toho proběhla živá diskuse nad vypůjčenou kamerou :)
+<li>na <em><a href="https://fsspodcast.cz">FSSpodcast</a></em> jsme nakonec videem nepřispěli, ač okolo toho proběhla živá diskuse nad vypůjčenou kamerou :)
 </li>
 <li>předvolební <em>diskuse</em> s jednou z dalších koalic byla fiasko především kvůli tomu, že nám do závěru debaty zůstali tři diváci
 </li>
@@ -58,7 +58,7 @@ Panda vs. Jörg Haider</p>
 </li>
 </ul>
 <h3>Web</h3>
-<p>Využili jsme zkracovač adres jdem.cz pro pěknou adresu <a href="http://jan-martinek.com/etc/smoulove/">smoulove.jdem.cz</a> (redirect je na <a href="http://jan-martinek.com/etc/smoulove/">jan-martinek.com/etc/smoulove/</a>). Na webu jsme vyvěsili potřebné info + pěknou sekci "Monitoring volebního dění". Avšak nakonec se toho s postupem voleb mnoho nedělo, takže jsme toho mnoho <a href="http://jan-martinek.com/etc/smoulove/?p=monitoring">nevymonitorovali</a>. Na webu jsem měl zavedené Google Analytics, takže mám nějaká data o návštěvnosti.</p>
+<p>Využili jsme zkracovač adres jdem.cz pro pěknou adresu <a href="https://jan-martinek.com/etc/smoulove/">smoulove.jdem.cz</a> (redirect je na <a href="https://jan-martinek.com/etc/smoulove/">jan-martinek.com/etc/smoulove/</a>). Na webu jsme vyvěsili potřebné info + pěknou sekci "Monitoring volebního dění". Avšak nakonec se toho s postupem voleb mnoho nedělo, takže jsme toho mnoho <a href="https://jan-martinek.com/etc/smoulove/?p=monitoring">nevymonitorovali</a>. Na webu jsem měl zavedené Google Analytics, takže mám nějaká data o návštěvnosti.</p>
 <p><img src='/assets/migrated/wp-uploads/2009/10/navstevnost.png' alt='navstevnost.png' /></p>
 <p>Celkem na web přišlo 199 návštěvníků, zobrazili 1051 stránek a rozložili si to na 269 návštěv, takže 22 % z nich se i vrátilo (což je již dost vysoké číslo na to, abychom to nebyli jen my). </p>
 <p>První vrchol v návštěvnosti jsou dny po jednohubkách, nejvyšší bod (70 návštěvníků) je první den voleb, kdy jsme před fakultou rozdali těch cca 1000 lístečků a přišel informační e-mail o začátku voleb (přímé přístupy na web dělají v tento den 52 %). Druhý den už jsme rozdávali méně a na webu je to poznat.</p>

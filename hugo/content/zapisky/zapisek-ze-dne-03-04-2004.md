@@ -18,7 +18,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://juneau.wz.cz">web</a> (v&nbsp;sobotu&nbsp;3.&nbsp;04.&nbsp;2004,&nbsp;v&nbsp;22:58)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://juneau.wz.cz">web</a> (v&nbsp;sobotu&nbsp;3.&nbsp;04.&nbsp;2004,&nbsp;v&nbsp;22:58)</p>
 <p>vsechno nejlepsi :) (degenerace v 17? pockej na devatenact... senilita) </p>
 </div>
 <div class="comment">
@@ -27,7 +27,7 @@ comments: []
 </div>
 <div class="comment">
 <p style="font-weight:bold"><span class="compredmet">Předmět</span> | <span class="comname">Endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a> (v&nbsp;pondělí&nbsp;5.&nbsp;04.&nbsp;2004,&nbsp;v&nbsp;21:09)</p>
-<p>senilita v 19? safra, to abych se začal bát :) <br>  <br> nee, je to obrázek, který rychle najdeš, když necháš na googlu hledat obrázek a zadáš řetězec &quot;screaming&quot; :) trochu jsem si s tím hrál :) hmm, tak jsem to raděj našel, jsem dneska tak milý :) http://wolfgang.groogroo.com/photo_album/super_rally_boston/scream - ing-zach.jpg - </p>
+<p>senilita v 19? safra, to abych se začal bát :) <br>  <br> nee, je to obrázek, který rychle najdeš, když necháš na googlu hledat obrázek a zadáš řetězec &quot;screaming&quot; :) trochu jsem si s tím hrál :) hmm, tak jsem to raděj našel, jsem dneska tak milý :) https://wolfgang.groogroo.com/photo_album/super_rally_boston/scream - ing-zach.jpg - </p>
 </div>
 <div class="comment">
 <p style="font-weight:bold"><span class="compredmet">//</span> | <span class="comname">Endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a> (v&nbsp;pondělí&nbsp;5.&nbsp;04.&nbsp;2004,&nbsp;v&nbsp;21:10)</p>

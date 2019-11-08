@@ -18,12 +18,12 @@ featuredProjects:
 - Navrhuju CRM pro začátečníky ve fundraisingu, který by jim měl pomoci se zaváděním procesů do vlastní práce. (Výsledky brzy.)
 
 [ivana]: https://www.linkedin.com/in/ivanarybanska/
-[lukas]: http://lukaskubanek.com
-[kisk]: http://kisk.cz
-[blender]: http://peerblender.com
+[lukas]: https://lukaskubanek.com
+[kisk]: https://kisk.cz
+[blender]: https://peerblender.com
 [demagogsrc]: https://github.com/Demagog2/Demagog.cz
 [demagogteam]: https://github.com/orgs/Demagog2/teams/core
-[demagogcz]: http://demagog.cz
+[demagogcz]: https://demagog.cz
 
 <!-- ## Tohle se povedlo -->
 
@@ -32,13 +32,13 @@ featuredProjects:
 
 ## Více o mně
 
-[Github](http://github.com/jan-martinek)
-&bull;&nbsp;[Facebook](http://facebook.com/jan.martinek)
+[Github](https://github.com/jan-martinek)
+&bull;&nbsp;[Facebook](https://facebook.com/jan.martinek)
 &bull;&nbsp;[LinkedIn](https://cz.linkedin.com/in/janmartinek)
-&bull;&nbsp;[Twitter](http://twitter.com/endlife) 
-&bull;&nbsp;[Twitter (česky)](http://twitter.com/endlife_cs)
-&bull;&nbsp;[Slideshare](http://slideshare.net/janmartinek/)
-&bull;&nbsp;[Instagram](http://instagram.com/endlife)
-&bull;&nbsp;[Last.fm](http://twitter.com/user/jan-martinek)
+&bull;&nbsp;[Twitter](https://twitter.com/endlife) 
+&bull;&nbsp;[Twitter (česky)](https://twitter.com/endlife_cs)
+&bull;&nbsp;[Slideshare](https://slideshare.net/janmartinek/)
+&bull;&nbsp;[Instagram](https://instagram.com/endlife)
+&bull;&nbsp;[Last.fm](https://twitter.com/user/jan-martinek)
 &bull;&nbsp;[Goodreads](https://www.goodreads.com/user/show/19846169-jan-martinek)
-&bull;&nbsp;[8tracks](http://8tracks.com/endlife)
+&bull;&nbsp;[8tracks](https://8tracks.com/endlife)

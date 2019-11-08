@@ -25,7 +25,7 @@ Až dojde voda, sesypu na talíř.</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">náádhera, a teď mám hlad :)))</span> | <span class="comname">God.zilla</span> |  <a href="mailto:jaroslav@sedenka.net">mail</a>  <a href="http://blog.sedenka.net">http://blog.sedenka.net</a> (čtvrtek&nbsp;14.&nbsp;07.&nbsp;2005,&nbsp;00:06)</p>
+<p style="font-weight:bold"><span class="compredmet">náádhera, a teď mám hlad :)))</span> | <span class="comname">God.zilla</span> |  <a href="mailto:jaroslav@sedenka.net">mail</a>  <a href="https://blog.sedenka.net">https://blog.sedenka.net</a> (čtvrtek&nbsp;14.&nbsp;07.&nbsp;2005,&nbsp;00:06)</p>
 <p>dík, tohle je krásné HowTo :) snad se mi to podari, kdyztak dam nekdy vedet. </p>
 </div>
 <div class="comment">

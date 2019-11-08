@@ -8,7 +8,7 @@ comments:
   - id: 11
     author: juneau
     author_email: nevybiram@tiscali.cz
-    author_url: http://reality-show.net
+    author_url: https://reality-show.net
     date: '2008-04-22 13:26:15 +0200'
     date_gmt: '2008-04-22 11:26:15 +0200'
     content: Hm, nic děsivého... to se máš. Já dnes (opět) přežil atomový výbuch :) Jeden by nevěřil, že se člověk dokáže zachránit i za pitomými dřevěnými dveřmi. Ale ta záře, co všemi škvírami prosvítala...

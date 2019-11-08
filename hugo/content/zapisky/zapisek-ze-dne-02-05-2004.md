@@ -14,11 +14,11 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">itmol</span> | <span class="comname">juneau</span> |  <a href="http://juneau.wz.cz">web</a> (v&nbsp;pondělí&nbsp;3.&nbsp;05.&nbsp;2004,&nbsp;v&nbsp;21:37)</p>
+<p style="font-weight:bold"><span class="compredmet">itmol</span> | <span class="comname">juneau</span> |  <a href="https://juneau.wz.cz">web</a> (v&nbsp;pondělí&nbsp;3.&nbsp;05.&nbsp;2004,&nbsp;v&nbsp;21:37)</p>
 <p>dik za tip na hudbu ;)kazdopadne moje uspesnost je asi takova, ze album (poskladane) ma na siti o 450TB dat dva lidi... takze nevim nevim :) Pokud by se to povedlo, klidne bych ti poslal cd. Napis, zda mas zajem. </p>
 </div>
 <div class="comment">
 <p style="font-weight:bold"><span class="compredmet">itmol</span> | <span class="comname">Endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a> (v&nbsp;pondělí&nbsp;3.&nbsp;05.&nbsp;2004,&nbsp;v&nbsp;22:22)</p>
-<p>pokud se ti to podaří, byl bych nadšený :) protože těžce přemýšlím o možnosti objednání z německa nebo odněkud, kde je to v distribuci (na plakátě je je psané, že to distribuuje EMI, ale na <a href=http://www.emimusic.cz>www.emimusic.cz</a> (možná je tam pomlčka) není ani písmenko..)  <br>  <br> já to hledal na DC &amp; WinMX a potkal jsem jednoho typka, co to měl celé a ten se vzápětí odpojil :( a s mým HDD je pro mně většina hubů uzavřených :( </p>
+<p>pokud se ti to podaří, byl bych nadšený :) protože těžce přemýšlím o možnosti objednání z německa nebo odněkud, kde je to v distribuci (na plakátě je je psané, že to distribuuje EMI, ale na <a href=https://www.emimusic.cz>www.emimusic.cz</a> (možná je tam pomlčka) není ani písmenko..)  <br>  <br> já to hledal na DC &amp; WinMX a potkal jsem jednoho typka, co to měl celé a ten se vzápětí odpojil :( a s mým HDD je pro mně většina hubů uzavřených :( </p>
 </div>
 </div>

@@ -11,22 +11,22 @@ Vážená zákaznice, vážený zákazníku! Chtěli bychom Vás upozornit na n�
 který naleznete i na našich stránkách.) Linkovat to ale nehodlám ;)</p>
 <p>***</p>
 <p>Znamení: na stránkách navysokou.cz, konkrétně na
-<a href="http://prijimacky.navysokou.cz/vysoke-skoly/vysoka_skola_umelecko-prumyslova_v_praze.php">stránce o
+<a href="https://prijimacky.navysokou.cz/vysoke-skoly/vysoka_skola_umelecko-prumyslova_v_praze.php">stránce o
 VŠUP</a>, se mi zjevilo znamení &ndash; hnedle je tam kurz žurnalistiky (což je obor, na který
 chci jít, pokud se za týden vrátím z Phy od druhého kola přijímaček vyhozen)..</p>
 <p>***</p>
-<p>Minulý týden <a href="http://www.reflex.cz/Clanek22358.html">jsem se naštval</a>.
+<p>Minulý týden <a href="https://www.reflex.cz/Clanek22358.html">jsem se naštval</a>.
 Můj milý reflex a taková hovadina &ndash; nikoli poprvé scestný článek o nějakém programu
 na stránkách reflexu, ale poprvé mě to opravdu
 naštvalo. Napsal jsem reakci, pan Bílek mě s ní poslal k těm, kteří spravují
 webovky, že to tam možná šoupnou. Nešoupli, namísto toho je tu dneska
-<a href="http://www.reflex.cz/Clanek22439.html">tento článek</a>.</p>
+<a href="https://www.reflex.cz/Clanek22439.html">tento článek</a>.</p>
 <p>Tak tu reakci šoupnu sem. Ještě pro ujasnění: vůbec nepoužívám linux a
-na internetu chodím s <a href="http://www.opera.com">operou</a>.</p>
+na internetu chodím s <a href="https://www.opera.com">operou</a>.</p>
 <div style="padding: 20px; background-color: #ddd; color: black;">
 <p><strong>Reakce na článek (nikoliv) o Tučňákovi</strong></p>
 <p>Sloupek pana J. X. Doležala Tučňák nechodí a nechodí…
-(http://www.reflex.cz/Clanek22358.html), který vyšel 11. 1. 2006 na webu
+(https://www.reflex.cz/Clanek22358.html), který vyšel 11. 1. 2006 na webu
 Reflexu ve mně vyvolal potřebu se k tématu vyjádřit - a to jinak než účastí v
 diskusi, kde jsou rozumně prezentované názory většinou ubity emotivními výlevy
 fanatických zastánců některého z (v tomto případě softwarových) řešení.</p>
@@ -69,7 +69,7 @@ použitý plugin Real One.</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">Memory leak?</span> | <span class="comname">God.zilla</span> |  <a href="mailto:jaroslav@sedenka.cz">mail</a>  <a href="http://blog.sedenka.net">http://blog.sedenka.net</a> (středa&nbsp;18.&nbsp;01.&nbsp;2006,&nbsp;21:46)</p>
+<p style="font-weight:bold"><span class="compredmet">Memory leak?</span> | <span class="comname">God.zilla</span> |  <a href="mailto:jaroslav@sedenka.cz">mail</a>  <a href="https://blog.sedenka.net">https://blog.sedenka.net</a> (středa&nbsp;18.&nbsp;01.&nbsp;2006,&nbsp;21:46)</p>
 <p>Na vine muze byt memory leak, obzvlaste ve verzi 1.5 se vyskytuje pri vetsim pouzivani Flashe a Adobe Readeru. Pri nedostatku operacni pameti se pak lista chova divne, tj. z ni Firefox muze zmizet. <br>  <br> (po precteni urciteho mnozstvi clanku od JXD te snad prestanou zajimat a budes zit dal klidnym, nelinuxarskym zivotem :P) </p>
 </div>
 <div class="comment">
@@ -77,7 +77,7 @@ použitý plugin Real One.</p>
 <p>no, tak o téhle chybě jsem nevěděl :)  <br>  <br> Nicméně tyhle články mě ani tak nezajímají kvůli páně Doležalově neznalosti tematiky, jako kvůli tomu, že na Reflex chodí spousta lidí a berou ho jako solidní časopis a tudíž je pro ně firefox něco strašlivého.. <br>  <br> Jinak články jxd mě často zaujmou, jen IT a to, co vyrostlo z Huli, to mě znechucuje. </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Soooc</span> |  <a href="mailto:xsoc@post.cz">mail</a>  <a href="http://soc.borec.cz">http://soc.borec.cz</a> (čtvrtek&nbsp;19.&nbsp;01.&nbsp;2006,&nbsp;20:35)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Soooc</span> |  <a href="mailto:xsoc@post.cz">mail</a>  <a href="https://soc.borec.cz">https://soc.borec.cz</a> (čtvrtek&nbsp;19.&nbsp;01.&nbsp;2006,&nbsp;20:35)</p>
 <p>Dolezal uz mi timhle taky leze krkem :) </p>
 </div>
 <div class="comment">
@@ -97,7 +97,7 @@ použitý plugin Real One.</p>
 <p>explorer taky funguje :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Soooc</span> |  <a href="mailto:xsoc@post.cz">mail</a>  <a href="http://sooochub.wz.cz">http://sooochub.wz.cz</a> (neděle&nbsp;22.&nbsp;01.&nbsp;2006,&nbsp;16:32)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Soooc</span> |  <a href="mailto:xsoc@post.cz">mail</a>  <a href="https://sooochub.wz.cz">https://sooochub.wz.cz</a> (neděle&nbsp;22.&nbsp;01.&nbsp;2006,&nbsp;16:32)</p>
 <p>Ale jak je druha vec, ze ? </p>
 </div>
 <div class="comment">
@@ -105,7 +105,7 @@ použitý plugin Real One.</p>
 <p>no prave &quot;funguje&quot; bych to ani s velkou davkou ironie nenazyval ;)tu uz driv budu tvrdit, ze mam rad Operu ;) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">God.zilla</span> |  <a href="mailto:jaroslav@sedenka.cz">mail</a>  <a href="http://blog.sedenka.net">http://blog.sedenka.net</a> (neděle&nbsp;22.&nbsp;01.&nbsp;2006,&nbsp;20:34)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">God.zilla</span> |  <a href="mailto:jaroslav@sedenka.cz">mail</a>  <a href="https://blog.sedenka.net">https://blog.sedenka.net</a> (neděle&nbsp;22.&nbsp;01.&nbsp;2006,&nbsp;20:34)</p>
 <p>prece nebudete zrovna na tomhle blogu flamovat o prohlizecich? nechme takove veci na zive :)) </p>
 </div>
 <div class="comment">
@@ -113,7 +113,7 @@ použitý plugin Real One.</p>
 <p>ale tak to byla jen takova sranda :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Soooc</span> |  <a href="mailto:xsoc@post.cz">mail</a>  <a href="http://soc.borec.cz">http://soc.borec.cz</a> (pondělí&nbsp;23.&nbsp;01.&nbsp;2006,&nbsp;21:13)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Soooc</span> |  <a href="mailto:xsoc@post.cz">mail</a>  <a href="https://soc.borec.cz">https://soc.borec.cz</a> (pondělí&nbsp;23.&nbsp;01.&nbsp;2006,&nbsp;21:13)</p>
 <p>je tu aspon zivo :) Jako na Zive :D </p>
 </div>
 <div class="comment">

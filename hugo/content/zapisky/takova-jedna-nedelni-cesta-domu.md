@@ -8,13 +8,13 @@ comments:
   - id: 7231
     author: Podnebí &raquo; Archiv &raquo; Roky a měsíce
     author_email: ''
-    author_url: http://podnebi.jan-martinek.com/?p=822
+    author_url: https://podnebi.jan-martinek.com/?p=822
     date: '2008-10-18 00:58:09 +0200'
     date_gmt: '2008-10-17 22:58:09 +0200'
     content: "[...] Roky a měsíce  &#8220;Postupně nacházím nové opěrné struktury pro můj společenský život, ale jde to hodně pomalu. (&#8230;) Jak tak tvárná hmota mého okolí pomalu znovu prochází osifikací, zůstávají pořád prázdná místa – tak je trochu začínám plnit psaním – jako už jsem to ostatně jednou úspěšně vyzkoušel.&#8221; (podnebí, říjen 2007) [...]"
 ---
 <p>Jedu domů vlakem, neděle, šest ráno. Maminka má narozeniny, tak mířím na oběd. Zůstal jsem na část víkendu v Brně, abych mohl trochu naddělat práci &ndash; resp. spíš trochu se přiblížit kouzelnému stavu "Stíhám!". Nestíhám pořád a pořád mě baví si to komplikovat &ndash; teď jsem si radostně přidal k povinnostem sázení našeho fakultního časopisu.</p>
-<p>Sázení mám teoreticky vcelku zmáklé, o typografii se zajímám relativně k délce mého života dost dlouho. Ale praxe je o to zajímavější. Jelikož zatím na pořízení <a href="http://www.adobe.com/products/creativesuite/">CS3 suite</a> nemám (jak finance, tak potřebu), stáhl jsem si Scribus a při různých příležitostech si představuju, jak některé věci musí být pěkně pořešené v InDesignu. Scribus není vůbec špatný, ale například množství "Copy of" stylů, které se mi zatím neznámo jak vytvářejí, je zarážející. Asi nějaká přitroublá klávesová zkratka, kterou nevědomky mačkám &ndash; protože občas ovládání začne podivně blbnout a nereaguje třeba ani na scrolovátko na myši.</p>
+<p>Sázení mám teoreticky vcelku zmáklé, o typografii se zajímám relativně k délce mého života dost dlouho. Ale praxe je o to zajímavější. Jelikož zatím na pořízení <a href="https://www.adobe.com/products/creativesuite/">CS3 suite</a> nemám (jak finance, tak potřebu), stáhl jsem si Scribus a při různých příležitostech si představuju, jak některé věci musí být pěkně pořešené v InDesignu. Scribus není vůbec špatný, ale například množství "Copy of" stylů, které se mi zatím neznámo jak vytvářejí, je zarážející. Asi nějaká přitroublá klávesová zkratka, kterou nevědomky mačkám &ndash; protože občas ovládání začne podivně blbnout a nereaguje třeba ani na scrolovátko na myši.</p>
 <p>Zatím jediný "opravdový" bug Scribusu je crash, když napíšu do názvu stylu znak nepatřící do ASCII. Zvláštní, v roce 2007 bych to nečekal.</p>
 <p>Poslouchám na cestu U sousedů vyje pes o Psích vojáků, mojí asi, za posledních pár let, nejoblíbenější české kapely. Venku se pomalu rozednívá a za nějaké tři minuty už asi opravdu pojedem &ndash; zatím jenom vlastně sedím v kupé na nádraží. Vlak prázdný, jen pár podivných existencí, kdo by taky jezdil v neděli v sedm ráno z Brna.</p>
 <p>Rozlosování světel dopadlo jako obvykle špatně &ndash; jakmile pan mašinfíra zapl elektriku, vypadalo to dobře, ale po chvilce začaly zářivky skučet, skřípat, kvičet, chrčet a tak podobně s ohromující intenzitou. Ale za chvilku snad bude dost světla na to, abych si mohl vytáhnout Respekt.</p>

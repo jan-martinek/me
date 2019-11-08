@@ -18,12 +18,12 @@ před tímhle resetem, je roztomilá..</p>
 <p>Ale je to v pohodě.. celou tu dobu instalování ovladačů jsem si říkal jednu
 věc &bdquo;jen ne data, jen ne data..&ldquo; &amp; data jsou v pohodě. Což je naprosto
 super. Protože přes víkend jsem napsal 50kB kódu &amp; nechci o něj přijít..</p>
-<p>p.s.: díky adbare, <a href="http://adbar.bloguje.cz/0504archiv.php#136796">ty pomněnky</a>
+<p>p.s.: díky adbare, <a href="https://adbar.bloguje.cz/0504archiv.php#136796">ty pomněnky</a>
 mě naprosto dostaly..</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">win98 že?</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (&nbsp;19.&nbsp;04.&nbsp;2005,&nbsp;18:48)</p>
+<p style="font-weight:bold"><span class="compredmet">win98 že?</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (&nbsp;19.&nbsp;04.&nbsp;2005,&nbsp;18:48)</p>
 <p>tento případ mi už jen vykouzlil nostalgický úsměv na rtech po době, kdy jsem se musel potýkat s infarktovými stavy u win98... máš můj soucit :))) </p>
 </div>
 <div class="comment">
@@ -39,7 +39,7 @@ mě naprosto dostaly..</p>
 <p>Widle 98 jsou prece super - muzes si s nima delat co chces a velky bill nic nenamita protoze v nich nejsou zadne super veci jako firewall etc :))) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (pátek&nbsp;22.&nbsp;04.&nbsp;2005,&nbsp;00:09)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (pátek&nbsp;22.&nbsp;04.&nbsp;2005,&nbsp;00:09)</p>
 <p>xp + kerio firewall + samozřejmě Firefox&amp;Thunderbird <br> no a ještě mi to nespadlo (rok a něco). Maximálně aplikace, tu odstřelíš v procesech a není co řešit. Občas se stalo, že se jakoby sekly i ty procesy, ale stačilo počkat než dopracoval a všechno v pohodě.  <br> Bluescreen vidím akorát tak vždycky někde jinde, to pak jen zamáčknu slzu ;)Mám ještě nainstalovaný SP1, ale jen kvůli USB2.0, jinak bych to nepotřeboval. Taky vůbec nepotřebuju antivir (zatím firewall stačí). <br>  <br> Jen nepouštěj internet bez firewallu, protože existuje takový super vir, který ti bude automaticky odpojovat modem po pár minutách. Tento vir se dá chytit pouhým surfováním (možná je v IE, nevím) a někdy stačí je pár minut bez ochrany a je to. </p>
 </div>
 <div class="comment">
@@ -47,7 +47,7 @@ mě naprosto dostaly..</p>
 <p>tak to jsem rád, že xpa celkem jedou.. protože mé zatímní zkušenosti s nimi byly skoro vždycky špatné (možná to je tím, že jsem se k nim dostal jen když jsem je měl opravit :)) <br> kerio už se teda válí na disku, av budu mít dokonce taky - dostal jsem od microsoftu zadarmo licenci na NOD32 :) pro sichr se vždycky hodí.. </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (pondělí&nbsp;25.&nbsp;04.&nbsp;2005,&nbsp;19:08)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (pondělí&nbsp;25.&nbsp;04.&nbsp;2005,&nbsp;19:08)</p>
 <p>NOD32 ... tak na tuhle věc můj kámoš tak neuvěřitelně nadává, že chce kvůli tomu přeformátovat celý systém. Nod se totiž zažral do Wordu a i po odinstalování ho opravdu podstatně zpomaluje při spouštění:( Takže rozhodně vypnout nějaký rezidentní štít do Wordu </p>
 </div>
 <div class="comment">

@@ -74,7 +74,7 @@ A pokud v tom vidíte něco jiného, tak vidíte špatně, podívejte se ještě
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (pondělí&nbsp;7.&nbsp;02.&nbsp;2005,&nbsp;12:03)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (pondělí&nbsp;7.&nbsp;02.&nbsp;2005,&nbsp;12:03)</p>
 <p>ravished :) </p>
 </div>
 <div class="comment">
@@ -82,7 +82,7 @@ A pokud v tom vidíte něco jiného, tak vidíte špatně, podívejte se ještě
 <p>dík za reakci, docela jsem se děsil, že tím všechny své dosavadní čtenáře vyděsím :) <br> aspoň jeden :) <br>  <br> //dík za nové slovo, jsem musel nahodit slovník :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (&nbsp;8.&nbsp;02.&nbsp;2005,&nbsp;08:36)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (&nbsp;8.&nbsp;02.&nbsp;2005,&nbsp;08:36)</p>
 <p>ja taky nahodil slovnik, musel jsem to slovo prece najit :) <br> a nahodou to byl paradni fejeton :) (neurazil jsem ted tvuj vazne mineny clanek, ze ne?) </p>
 </div>
 <div class="comment">
@@ -90,7 +90,7 @@ A pokud v tom vidíte něco jiného, tak vidíte špatně, podívejte se ještě
 <p>hehe, tak teď jsi mě málem dostal pod stůl :) <br>  <br> a nikoliv, doufám, že povaha mého vážně míněného článku byla odhalena většinou čtenářů :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">ravished</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (středa&nbsp;9.&nbsp;02.&nbsp;2005,&nbsp;18:09)</p>
+<p style="font-weight:bold"><span class="compredmet">ravished</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (středa&nbsp;9.&nbsp;02.&nbsp;2005,&nbsp;18:09)</p>
 <p>taky jsem musel nahodit slovník. Myslel jsem si, že jsem zase úplný tupec, když to Juneau běžně používá a já to neznám :) </p>
 </div>
 </div>

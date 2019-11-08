@@ -15,7 +15,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">kuuuuuuuaaaaaaaaaaa!!!</span> | <span class="comname">juneau</span> |  <a href="http://juneau.wz.cz">web</a> (25.&nbsp;05.&nbsp;2004,&nbsp;v&nbsp;19:20)</p>
+<p style="font-weight:bold"><span class="compredmet">kuuuuuuuaaaaaaaaaaa!!!</span> | <span class="comname">juneau</span> |  <a href="https://juneau.wz.cz">web</a> (25.&nbsp;05.&nbsp;2004,&nbsp;v&nbsp;19:20)</p>
 <p>ja ten rucnikovej den naprosto zasklil! <br>  <br>  <br> a tak se tesil... hergothimllaudonrumcajselement!!!!! </p>
 </div>
 <div class="comment">

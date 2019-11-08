@@ -21,7 +21,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">hnus na PC</span> | <span class="comname">God.zilla</span> |  <a href="http://blog.sedenka.net">http://blog.sedenka.net</a> (pátek&nbsp;1.&nbsp;10.&nbsp;2004,&nbsp;00:42)</p>
+<p style="font-weight:bold"><span class="compredmet">hnus na PC</span> | <span class="comname">God.zilla</span> |  <a href="https://blog.sedenka.net">https://blog.sedenka.net</a> (pátek&nbsp;1.&nbsp;10.&nbsp;2004,&nbsp;00:42)</p>
 <p>doporučuju kombinaci firewall, antivir, spybot a mozilla :o) ten antivir je tam hodne dulezity, pokud mas nejakeho blastera ktery ucpava linku, tak po instalaci firewallu bude pretezovat procesor (vyzkouseno :-) </p>
 </div>
 <div class="comment">

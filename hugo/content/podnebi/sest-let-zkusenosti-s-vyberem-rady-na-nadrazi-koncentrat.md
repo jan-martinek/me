@@ -15,7 +15,7 @@ comments:
   - id: 15183
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2012-05-21 22:29:44 +0200'
     date_gmt: '2012-05-21 21:29:44 +0200'
     content: "Já v tom vidím hlavně zajímavý příklad problému, který má jasné řešení. A pak jiné. A jiné. A až pak správné :) A člověk musí postupně pronikat do podstaty věci.\r\n\r\nTen samotný problém tak zásadní není, jen mě bavilo to takhle napsat :)"
@@ -50,7 +50,7 @@ comments:
 <p>Pokladny mohou být otevřené a zavřené. Je tedy třeba se na ně podívat pečlivě. Naštěstí mají ČD pěkné červené cedulky „uzavřená pokladna“. Nejlepší varianta je zřejmě stále ta nejkratší řada napravo.</p>
 <p><img src='/assets/migrated/wp-uploads/2012/05/screen-shot-2012-05-21-at-181641.png' alt='screen-shot-2012-05-21-at-181641.png' /></p>
 <p>Zdá se, že náš padawan pomalu dospěl do fáze, kdy mu zacházení se silou nedělá problémy. Ale to je teprv ta chvíle, kdy se musí vydat na bažinnou planetu Dagobah, aby získal zásadní vhled do celé komplexní situace. Ta byla totiž zatím zvažována pouze staticky, ale je přitom velmi dynamická. Podstatné jsou zejména dva faktory:</p>
-<p><strong>1.</strong> Pokladny se mohou velmi rychle otevřít a zavřít. V tiskárně dojde papír, obsluha dostane chuť na svačinu anebo praskne kolečko u židle a paní zmizí v hlubině. V Brně <a href="http://www.hantec.cz/hantec/podzemi/podzemi.htm">nic neobvyklého</a>.</p>
+<p><strong>1.</strong> Pokladny se mohou velmi rychle otevřít a zavřít. V tiskárně dojde papír, obsluha dostane chuť na svačinu anebo praskne kolečko u židle a paní zmizí v hlubině. V Brně <a href="https://www.hantec.cz/hantec/podzemi/podzemi.htm">nic neobvyklého</a>.</p>
 <p><strong>2.</strong> Ne každý cestující byl stvořen rovný. Jeden koupí lístek jako každý týden, druhý poprvé cestuje do neznámých krajin a netuší, kde přestoupit, třetí neumí česky a nedaří se mu vyptat si lístek do Přerova pro pět osob, s IN kartou, místenkou a jízdním kolem. <em>Nechť jsou prokleti</em> ti, kteří si nechají s řadou za zády potvrdit slevovou kartičku. Takový náhodný zdržák dokáže pořádně zamíchat se skóre té které řady.</p>
 <p>Tyto faktory již nelze kvůli jejich pravděpodobnostní povaze snadno vizualizovat. Proto je třeba do nich proniknout, zavřít oči a cítit Sílu! </p>
 <p>A pak se zařadit do té nejdelší řady v celé nádražní budově. Skutečně.</p>

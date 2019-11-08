@@ -8,14 +8,14 @@ comments:
   - id: 11263
     author: suchosch
     author_email: suchosch@suchosch.net
-    author_url: http://suchosch.net
+    author_url: https://suchosch.net
     date: '2009-01-25 00:24:45 +0100'
     date_gmt: '2009-01-24 23:24:45 +0100'
     content: Chvíli jsem přemýšlel, jaké zvířátko má ve znaku Google Notebook :)) Fajn, žes to napsals, těším se hlavně na postřehy okolo Evernote. Oproti Notebooku mi přijde zásadní rozpoznávání znaků. Víc jsem to ale nezkoumal.
   - id: 11271
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2009-01-25 08:26:15 +0100'
     date_gmt: '2009-01-25 07:26:15 +0100'
     content: Pro mě byla zásadnější nefirefoxovitost a obecně pohodlnější práce s aplikací. U Google Notebooku jsem si občas nebyl jistý, co které kliknutí a přesunutí kurzoru provede ;)

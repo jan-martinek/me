@@ -19,7 +19,7 @@ comments: []
 <p><span class=oranz>&gt;&gt; co bys změnil,</span> kromě barev? :) <br>  <br> &gt;&gt; jde o to, že potřebuju jednoobrazovkový layout, který má kolem okrajů <span class=oranz>100px mezeru</span> - i vespod - což je pravděpodobně neřešitelné. 100px margin je nutný kvůli grafickému ohraničení - bitmapa má absolutní velikost, tak ten margin nemůžu nastavit v procentech.. Mám řešení, které je ovšem funkční jen v exploreru :(. Jediné řešení je asi tabulka, ale tabulkou to teda dělat nebudu, tfuj.. <br>  <br> Ptal jsem se i <span class=oranz>pixyho,</span> ale ten taky nevěděl &amp; ještě mi zdůraznil nízkou použitelnost takového webu.. </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">pripominka</span> | <span class="comname">juneau</span> |  <a href="http://juneau.wz.cz">web</a> (v&nbsp;pondělí&nbsp;31.&nbsp;05.&nbsp;2004,&nbsp;v&nbsp;10:48)</p>
+<p style="font-weight:bold"><span class="compredmet">pripominka</span> | <span class="comname">juneau</span> |  <a href="https://juneau.wz.cz">web</a> (v&nbsp;pondělí&nbsp;31.&nbsp;05.&nbsp;2004,&nbsp;v&nbsp;10:48)</p>
 <p>Cau, konecne jsem si vzpomnel, co jsem chtel jeste vcera pripomenout: moc bych se primlouval za vetsi mezery mezi radky, obzvlast u tohoto mensiho pisma. alespon &quot;line-height: 150%&quot; ... vsechny delsi texty se pak lepe ctou. <br>  <br> a taky mi prijde, ze k tomuto dizajnu cerna barva pisma vubec nesedi. Ale to uz je subjektivni. </p>
 </div>
 <div class="comment">
@@ -40,6 +40,6 @@ comments: []
 </div>
 <div class="comment">
 <p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a> (v&nbsp;pátek&nbsp;4.&nbsp;06.&nbsp;2004,&nbsp;v&nbsp;21:15)</p>
-<p>Jo mám stejný názor, ale taky jsem se k němu propracovával. BTW: Správný úlet je, že server o typografii <a href=http://www.typo.cz>www.typo.cz</a> má fakt extrémně málé a těžce čitelné písmo :D </p>
+<p>Jo mám stejný názor, ale taky jsem se k němu propracovával. BTW: Správný úlet je, že server o typografii <a href=https://www.typo.cz>www.typo.cz</a> má fakt extrémně málé a těžce čitelné písmo :D </p>
 </div>
 </div>

@@ -52,4 +52,4 @@ comments: []
 - Z Valérie a týden divů (nemůžu říct, že jsem to úplně pochopil, ale líbilo se mi to :) (oproti Jirešovu filmu zcela jiné zpracování Nezvalovy předlohy)</p>
 <p><img src='/assets/migrated/wp-uploads/2008/08/dscn0186.JPG' alt='dscn0186.JPG' /></p>
 <p>Co ještě říct? Letos moc neviděl přítomnost Respektu na LFŠ, což je mi líto (diskuze mohly být zajímavé), víc mě potěšila přítomnost kulturního týdeníku A2, který si snad nakonec předplatím, až se mi zase ustálí adresa a finance (v kině Hvězda byly stojan, kde se postupně objevovala různá čísla z posledních cca 10 měsíců... takže kvalitní čtení před projekcemi bylo zajištěno), poděkování bych věnoval čínskému bistru, kde jsme se převážně stravovali, omluvu mravencům, které jsem exterminoval Biolitem, poté co anektovali náš stan.</p>
-<p>A když jste dočetli až sem, mrkněte ještě na <a href="http://flickr.com/photos/jan-martinek/sets/72157606525090649/show/">Flickr</a> na fotky :)</p>
+<p>A když jste dočetli až sem, mrkněte ještě na <a href="https://flickr.com/photos/jan-martinek/sets/72157606525090649/show/">Flickr</a> na fotky :)</p>

@@ -47,7 +47,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="http://www.pifik.com">web</a> (3.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;23:58)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="https://www.pifik.com">web</a> (3.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;23:58)</p>
 <p>silny kafe me taky hodne zaujalo, fakt gut.. Jenom jeste tak sehnat soundtrack, to by se mi libilo. <br>  <br> Mno, moloko the time is now :)). Soundtrack od JRN mam doma, je to gut hudba. Ale tebe asi moc ecstasy of saint theresa nebere co :)) </p>
 </div>
 <div class="comment">
@@ -59,15 +59,15 @@ comments: []
 <p>Teda ta délka je fakt síla :) U zápisku z vašeho výletu jsi říkal, že je dlouhý - 14000 znaků. Ale teď těch 40000... Zkoušel jsi někdy napsat nějakou povídku nebo v tvém případě i knížku :-) ? <br>  <br> BTW: Ten kámoš se Zaplim jsem byl já, jen aby jsi byl v obraze :) A Zapli se měl na Šumavě dobře, IMHO o trochu lépe než bych čekal - nezbláznil se ;) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">error</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">web</a> (ve&nbsp;středu&nbsp;4.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;19:05)</p>
+<p style="font-weight:bold"><span class="compredmet">error</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">web</a> (ve&nbsp;středu&nbsp;4.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;19:05)</p>
 <p>sorry někde se stala nějaká chybka :( </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">error</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">web</a> (ve&nbsp;středu&nbsp;4.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;19:06)</p>
+<p style="font-weight:bold"><span class="compredmet">error</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">web</a> (ve&nbsp;středu&nbsp;4.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;19:06)</p>
 <p>sorry někde se stala nějaká chybka :( </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="http://www.pifik.com">web</a> (ve&nbsp;středu&nbsp;4.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;19:31)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="https://www.pifik.com">web</a> (ve&nbsp;středu&nbsp;4.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;19:31)</p>
 <p>:))))) ech, zkousels napsat nejakou povidku :)) urcite zkousel :))) </p>
 </div>
 <div class="comment">
@@ -83,7 +83,7 @@ comments: []
 <p>Vase jídlo je proti našemu taborovému ještě bašta a lahůdka ;))) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="http://www.pifik.com">web</a> (ve&nbsp;čtvrtek&nbsp;5.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;21:47)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="https://www.pifik.com">web</a> (ve&nbsp;čtvrtek&nbsp;5.&nbsp;08.&nbsp;2004,&nbsp;v&nbsp;21:47)</p>
 <p>hele co jeste z ceske sceny poslouchas ? :))) </p>
 </div>
 <div class="comment">

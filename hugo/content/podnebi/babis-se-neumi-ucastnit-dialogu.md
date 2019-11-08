@@ -43,11 +43,11 @@ Myslím, že stojí za to hledat dialog a upozorňovat na jeho důležitost. V d
 
 [sloupek]: https://www.irozhlas.cz/zpravy-domov/karel-hvizdala-babisova-zivotni-strategie_1705092143_jra
 [twbb]: https://en.wikipedia.org/wiki/There_Will_Be_Blood
-[oblečení]: http://www.lidovky.cz/satnik-ceskych-politiku-lepsi-se-ale-stale-je-to-bida-f9m-/design.aspx?c=A140317_090647_ln-bydleni_toh
+[oblečení]: https://www.lidovky.cz/satnik-ceskych-politiku-lepsi-se-ale-stale-je-to-bida-f9m-/design.aspx?c=A140317_090647_ln-bydleni_toh
 [prchal]: https://cs.wikipedia.org/wiki/Marek_Prchal
-[vyssi-dane]: http://www.ceskatelevize.cz/ct24/domaci/2110265-komu-prospeje-todle-kampan-komu-interview-ct24-s-andrejem-babisem
+[vyssi-dane]: https://www.ceskatelevize.cz/ct24/domaci/2110265-komu-prospeje-todle-kampan-komu-interview-ct24-s-andrejem-babisem
 [best-words]: https://www.youtube.com/watch?v=7UIE_MRAhEA
-[fuka]: http://www.fffilm.name/2008/03/na-krev-there-will-be-blood-80.html
+[fuka]: https://www.fffilm.name/2008/03/na-krev-there-will-be-blood-80.html
 [rozum]: https://medium.com/@endlife/mysl%C3%ADm-že-rozum%C3%ADm-tvé-myšlence-jen-mus%C3%ADm-rozporovat-tvou-formulaci-protože-je-zaváděj%C3%ADc%C3%AD-dc6ded0d2b7c
-[dialog]: http://reallifemag.com/all-i-know-is-whats-on-the-internet/
+[dialog]: https://reallifemag.com/all-i-know-is-whats-on-the-internet/
 [nekecame]: https://www.google.cz/search?q=nekec%C3%A1me+mak%C3%A1me

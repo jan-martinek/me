@@ -40,7 +40,7 @@ které v tomhle státním zřízení mám) a podobně).</p>
 <p>Promin :( </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">politologie</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (pátek&nbsp;15.&nbsp;04.&nbsp;2005,&nbsp;22:19)</p>
+<p style="font-weight:bold"><span class="compredmet">politologie</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (pátek&nbsp;15.&nbsp;04.&nbsp;2005,&nbsp;22:19)</p>
 <p>teorie politologie ... to mě docela pobavilo, při vzpomínce na tu zbytečnost, co jsme brali my. Právě ty odbočky byly aspoň trochu zajímavé </p>
 </div>
 <div class="comment">
@@ -48,11 +48,11 @@ které v tomhle státním zřízení mám) a podobně).</p>
 <p>teorie je celkem důležitá věc - aspoň pro mě (jo, tohle mělo být hned na začátku komentáře, nikoliv až za pomlčkou, ale doufám, že tento můj subjektivní pocit je alespoň trochu objektivní) - trvá mi mnohem déle něco pochopit z vnějších projevů, než když můžu zároveň sledovat základy a principy fungování <br>  <br> ad odbočky. trochu přeženu příklad, čistě z praktických důvodů <br>  <br> &quot;děti, jedna dva krát dva dá čtyři.&quot; <br> &quot;a co když vynásobíme komplexní čísla se stejnou hodnotou racionální o velikosti 2 a iracionálními složkami 2 a 3?&quot; <br>  <br> Prostě nemám rád odbočky, které směřují příliš mimo definiční obor (rozdíl mezi teorií politologie a reálnou politikou snad snese srovnání s rozdílem mezi přirozenými a komplexními čísly).. </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (neděle&nbsp;17.&nbsp;04.&nbsp;2005,&nbsp;15:15)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (neděle&nbsp;17.&nbsp;04.&nbsp;2005,&nbsp;15:15)</p>
 <p>víš já nechci zjednodušovat opodstatněnost teorie. My když jsme brali předmět Politologii a právo, tak jsme se naučili něco o volebním systému a zbytek bylo jen právo. To navíc bylo naprosto nepraktické (stále si myslím, že učit se podrobně Listinu základních práv a svobod je v DNEŠNÍ době zbytečnost, místo např. vyřízení živnostenského listu ;) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">komplexní čísla</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (neděle&nbsp;17.&nbsp;04.&nbsp;2005,&nbsp;15:22)</p>
+<p style="font-weight:bold"><span class="compredmet">komplexní čísla</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (neděle&nbsp;17.&nbsp;04.&nbsp;2005,&nbsp;15:22)</p>
 <p>BTW taková tech. poznámka. Obvykle se používá reálná a imaginární část (složka) kompl. čísla a ne racionální. Aspoň podle MFCHT, možná má pan Kadula nějakou svoji terminologii, což by bylo dost typické </p>
 </div>
 <div class="comment">
@@ -60,7 +60,7 @@ které v tomhle státním zřízení mám) a podobně).</p>
 <p>wikih&gt; v tom bych se přel - živnostenský list, když už ho potřebuju vyřídit, zjistím, jak na to. ale listina základních práv a svobod je věc, která se mě týká a z vlastního puzení bych se k ní těžko dostal. proto je pro mě důležité, že se s ní dostanu do kontaktu aspoň ve škole, nicht wahr? <br>  <br> ad racinonální složka: jo, to je moje skleróza :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (&nbsp;19.&nbsp;04.&nbsp;2005,&nbsp;19:03)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (&nbsp;19.&nbsp;04.&nbsp;2005,&nbsp;19:03)</p>
 <p>nebudu se o tom hádat, tušil jsem, že budeš mít jiný názor. Už jsem na to narazil u učitelky, takže další pře na tohle téma nemá smysl. Říkáš, že se tě listina základních práv a svobod týká. Jenže já jsem žil před tím, když jsem o ní nic nevěděl, stejně jako teď, když už něco vím. Že bych se dneska cítil svobodněji a mohl dělat věci, které jsem před tím nemohl? Myslím, že ne </p>
 </div>
 </div>

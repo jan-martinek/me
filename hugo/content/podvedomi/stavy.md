@@ -37,7 +37,7 @@ autoaway> I fell asleep on 20:04.<br />
 Give it up, I'm not in!<br />
 pryč</p>
 <p>Import komentářů ze starší verze webu</p>
-<p>.. | Charlotte | http://www.charlottka.net (pondělí 25. 02. 2008, 10:11)</p>
+<p>.. | Charlotte | https://www.charlottka.net (pondělí 25. 02. 2008, 10:11)</p>
 <p>poznala jsem se :-)</p>
 <p>.. | God.zilla | (pondělí 25. 02. 2008, 20:26)</p>
 <p>ja ne :(</p>

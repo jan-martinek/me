@@ -14,7 +14,7 @@ na něco, co nekřupalo. Jemně odpružilo..</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">hlína=bahno</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (pondělí&nbsp;28.&nbsp;03.&nbsp;2005,&nbsp;15:44)</p>
+<p style="font-weight:bold"><span class="compredmet">hlína=bahno</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (pondělí&nbsp;28.&nbsp;03.&nbsp;2005,&nbsp;15:44)</p>
 <p>to je fakt neaktuální, protože z tvojí roztáté hlíny je u nás na cestě už týden totální bahno. A věř, že to moc úžasné není, když musíš pořád čistit boty :( </p>
 </div>
 <div class="comment">

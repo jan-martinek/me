@@ -6,7 +6,7 @@ category: kolem
 tags: []
 comments: []
 ---
-<p>Tak jsem se byl dneska podívat v kině na <a href="http://www.zralok-film.cz/">Žraloka v hlavě</a>.</p>
+<p>Tak jsem se byl dneska podívat v kině na <a href="https://www.zralok-film.cz/">Žraloka v hlavě</a>.</p>
 <p>Před námi seděli tři nějací osobové, jeden se hlasitě smál, chrochtal, krkal
 &amp; smrděl. Za námi někdo škytal &amp; hlasitě se bavil. Často evidentně
 bez ohledu na film.</p>
@@ -15,7 +15,7 @@ nic nemám, ale..</p>
 <p>skvělý film..</p>
 <p>Takový je Žralok v hlavě, běžte se taky podívat, stojí za to.</p>
 <p>PS: a kdo viděl, nechť mrkne na oficiální stránky, třeba
-<a href="http://www.zralok-film.cz/index.php?wtd=9">povídání o natáčení</a> stojí
+<a href="https://www.zralok-film.cz/index.php?wtd=9">povídání o natáčení</a> stojí
 za to..</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>

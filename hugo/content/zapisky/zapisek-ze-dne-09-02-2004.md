@@ -8,7 +8,7 @@ comments: []
 ---
 <p>Monty Pythoni nezklamali, dokonce byl můj oblíbený skeč s papouškem..</p>
 <p>Massive attack &amp; tma mě protáhli nocí, každopádně celou noc nezamhouřit oka není nejlepší nápad.  Aktuálně jsem vzhůru 36 hodin a docela se divím, že jsem ještě schopný tak složitých věcí jako je klepání  do klávesnice.. Ve škole jsem musel působit nepříliš dobře, čeština ještě něco, ze zsv si toho moc nepamatuju..  Jinak celkem normální den. Mira šílený při basketu, bramboráky nesolené, Mara s Maximem, díra ve stropě  a padající omítka ve spojovací chodbě nové budovy naší školy, šílená vánice, čaj s cukrem bez čaje &amp;  tak podobně, jak každý den. &amp; potápím se dál. Brzy asi zapadnu za měsícem z tankového praporu..</p>
-<p>Venku nejdřív prší, pak sněží &amp; teďka je všechno přimrzlé, málem jsem se zabil na terase, teňoučká  neviditelná vrstva ledu je nebývale hladká :(. Včera jsem konečně vyrobil rss pro podnebí, tak dneska jsem  udělal rss a nějaká zvenku nepříliš viditelná vylepšení na <a href="http://mgvforum.wz.cz">MGVfóru</a>,  třeba to aspon někoho potěší..</p>
+<p>Venku nejdřív prší, pak sněží &amp; teďka je všechno přimrzlé, málem jsem se zabil na terase, teňoučká  neviditelná vrstva ledu je nebývale hladká :(. Včera jsem konečně vyrobil rss pro podnebí, tak dneska jsem  udělal rss a nějaká zvenku nepříliš viditelná vylepšení na <a href="https://mgvforum.wz.cz">MGVfóru</a>,  třeba to aspon někoho potěší..</p>
 <p>Zítra snad aspoň nahodím nějaké fotky, aby se tu bylo na co dívat.. Tak se zatím mějte krásně..</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>

@@ -37,9 +37,9 @@ I’ll try to keep this list updated on my [homepage][hp].
 [vikbb55]: https://is.muni.cz/auth/predmet/phil/VIKBB55
 [vikba05]: https://is.muni.cz/auth/predmet/phil/VIKBA05
 [vikba07]: https://is.muni.cz/auth/predmet/phil/VIKBA07
-[kisk]: http://kisk.cz/en "Division of Information and Library Studies"
-[blender]: http://peerblender.com
+[kisk]: https://kisk.cz/en "Division of Information and Library Studies"
+[blender]: https://peerblender.com
 [demagogsrc]: https://github.com/Demagog2/Demagog.cz
 [demagogteam]: https://github.com/orgs/Demagog2/teams/core
-[demagogcz]: http://demagog.cz
-[hp]: http://jan-martinek.com
+[demagogcz]: https://demagog.cz
+[hp]: https://jan-martinek.com

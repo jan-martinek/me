@@ -8,14 +8,14 @@ comments:
   - id: 10504
     author: Podnebí &raquo; Archiv &raquo; Můj rok 2008
     author_email: ''
-    author_url: http://podnebi.jan-martinek.com/?p=881
+    author_url: https://podnebi.jan-martinek.com/?p=881
     date: '2008-12-31 01:39:12 +0100'
     date_gmt: '2008-12-31 00:39:12 +0100'
     content: "[...] ve skrytu kolegova privátu píšu asi pro mě nejdůležitější letošní zápisek &#8220;Deziluze&#8220;. Zůstal bez komentářů na webu, o to víc přišlo mailů a dalších, většinou [...]"
 ---
 <p>Pořád se učím. Nemyslím teď, že sedím nad učením, ale že pořád nacházím ve svém životě další tmavé kouty. A poslední týdny jsou ty kouty pořád temnější, a další se objevují tam, kde jsem myslel, že už snad ani nejsou.</p>
 <p>Nacházím asi sám sebe. Ještě mi zbývá nějakých 10 let, než se moje osobnost nějak pořádně dotvaruje, aby se už pak měnila o něco pomaleji (aspoň pokud Ivo Lukačovič nekecal na své přednášce o sobě). Občas jsem vcelku zvědavý, na čem nakonec postavím to, čemu bych chtěl říkat já. Jakým budu chtít být, abych na sebe mohl být hrdý. Co pro mě bude důležité.</p>
-<p>Učím se o demokracii z knížky <a href="http://www.kosmas.cz/knihy/108218/demokracie/">Demokracie</a> a čtu si, že režimy založené na mentalitě (autoritativní režimy) nejsou kvůli absenci ideologie přitažlivé pro mládež, protože pro ni jsou důležité ideály a hodnoty. Až se ustálím, tak pro mě už tyhle věci nebudou důležité? Jak můžu jít dopředu, když vím, že to takhle dopadne? Je to dospění, vystřízlivění, nebo zatvrdnutí, smíření se s realitou, je to kapitulace? Přijetím smrti nad ní vítězíme, tvrdí existencialisté. A přijetím života, jaký je, tím co? Vítězíme? Nad čím?</p>
+<p>Učím se o demokracii z knížky <a href="https://www.kosmas.cz/knihy/108218/demokracie/">Demokracie</a> a čtu si, že režimy založené na mentalitě (autoritativní režimy) nejsou kvůli absenci ideologie přitažlivé pro mládež, protože pro ni jsou důležité ideály a hodnoty. Až se ustálím, tak pro mě už tyhle věci nebudou důležité? Jak můžu jít dopředu, když vím, že to takhle dopadne? Je to dospění, vystřízlivění, nebo zatvrdnutí, smíření se s realitou, je to kapitulace? Přijetím smrti nad ní vítězíme, tvrdí existencialisté. A přijetím života, jaký je, tím co? Vítězíme? Nad čím?</p>
 <p>Nebo se stanu schumpeterovským frustrovaným intelektuálem? Někým, kdo se snaží najít hodnoty. Někým, kdo nedospěl? Donem Quijotem, který se zmítá, připoutaný na posteli?</p>
 <p>***</p>
 <p>Dělám spoustu činností - inspirativních a občas neinspirativních. Činností, které dělám rád, ale nechtěl bych je dělat pořád. A těch dalších - které bych rád dělal pořád.</p>

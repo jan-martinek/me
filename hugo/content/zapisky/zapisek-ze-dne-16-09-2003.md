@@ -14,7 +14,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">FOCENÍ</span> | <span class="comname">Pujíta</span> |  <a href="mailto:pujinka@centrum.cz">mail</a>  <a href="http://www.jesterky.unas.cz">http://www.jesterky.unas.cz</a> (v&nbsp;neděli&nbsp;21.&nbsp;09.&nbsp;2003,&nbsp;v&nbsp;21:06)</p>
+<p style="font-weight:bold"><span class="compredmet">FOCENÍ</span> | <span class="comname">Pujíta</span> |  <a href="mailto:pujinka@centrum.cz">mail</a>  <a href="https://www.jesterky.unas.cz">https://www.jesterky.unas.cz</a> (v&nbsp;neděli&nbsp;21.&nbsp;09.&nbsp;2003,&nbsp;v&nbsp;21:06)</p>
 <p>Dnes jsem se divala na vsechny ty fotky z minuleho roku a zjistila jsem ze se ani na jedne neusmivam primo do fotaku! To je krize - myslela jsem ze me to vecne foceni zacalo stvat az po par dnech a ono ne! Takze jsem prisla na to, ze nemam foceni rada od prirody - jako kdyz vam treba nechutnaji jatra! A proto se na me nemuze nikdo zlobit, ze nadavam, kdyz me foti:) </p>
 </div>
 <div class="comment">

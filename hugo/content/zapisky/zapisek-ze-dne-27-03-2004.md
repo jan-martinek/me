@@ -18,7 +18,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">.</span> | <span class="comname">juneau</span> |  <a href="http://juneau.wz.cz">web</a> (v&nbsp;neděli&nbsp;28.&nbsp;03.&nbsp;2004,&nbsp;v&nbsp;00:40)</p>
+<p style="font-weight:bold"><span class="compredmet">.</span> | <span class="comname">juneau</span> |  <a href="https://juneau.wz.cz">web</a> (v&nbsp;neděli&nbsp;28.&nbsp;03.&nbsp;2004,&nbsp;v&nbsp;00:40)</p>
 <p>ha ha ha hu hu hu husty fotky :) hlavne ty posledni </p>
 </div>
 <div class="comment">

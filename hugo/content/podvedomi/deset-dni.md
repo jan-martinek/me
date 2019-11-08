@@ -9,7 +9,7 @@ comments: []
 <p>desátý den vyrážíš před východem slunce<br />
 a vyřešíš záhadu</p>
 <p>některé díly seriálu s detektivem Columbem mají delší stopáž</p>
-<p>stojíš u soutoku Olšavy a Moravy; pod dohledem volavek, obklopen tísnivým tónem zabezpečovacího systému loďky pojmenované <a href="http://www.batakanal.cz/wp-content/uploads/2013/02/pohoda.jpg" target="_blank">Pohoda (max. 12 osob)</a></p>
+<p>stojíš u soutoku Olšavy a Moravy; pod dohledem volavek, obklopen tísnivým tónem zabezpečovacího systému loďky pojmenované <a href="https://www.batakanal.cz/wp-content/uploads/2013/02/pohoda.jpg" target="_blank">Pohoda (max. 12 osob)</a></p>
 <p>slunce barví Kostelany, že by jeden vyvážil bílou</p>
 <p>tak Olšava to byla<br />
 stojatá voda uprostřed skleslých slunečnic</p>

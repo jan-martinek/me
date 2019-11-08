@@ -21,7 +21,7 @@ comments: []
 <p>kez by vydali dalsi nove album :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">bazooka</span> | <span class="comname">pif</span> |  <a href="http://www.pifik.com">web</a> (v&nbsp;sobotu&nbsp;26.&nbsp;06.&nbsp;2004,&nbsp;v&nbsp;17:14)</p>
+<p style="font-weight:bold"><span class="compredmet">bazooka</span> | <span class="comname">pif</span> |  <a href="https://www.pifik.com">web</a> (v&nbsp;sobotu&nbsp;26.&nbsp;06.&nbsp;2004,&nbsp;v&nbsp;17:14)</p>
 <p>tak ted sem zjistil, ze pises pro bazooku... GJ chlape :), me to pouzivani &amp;amp; bylo celkem podezdrely, ale nejak sem si to nikdy nespojil. </p>
 </div>
 <div class="comment">

@@ -20,7 +20,7 @@ comments: []
 <p>Honzo - nebud smutny ja jsem si prvnich deset minut koncertu stale myslela, ze to bude ten jazz - ale pak uvadecka rekla neco v tom smyslu, ze pocita s tim, ze jsme zde z ruznych krestanskych sdruzeni, ale ze je jedno jestli jsme evangelici nebo katolici - jsme vsichni hlavne priznivci DUCHOVNI hudby a to je to hlavni!!!! Az tehdy jsem si uvedomila ze nastala nejaka chyba a ze to asi nebude jazzovy koncert - tak jsem si rekla ze pudu pryc ale hned vedle nas si sedla profesorka Kalocova a celou hodinu a pul se na nas usmivala!!! </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">dodatek</span> | <span class="comname">Pujíta</span> |  <a href="mailto:pujinka@centrum.cz">mail</a>  <a href="http://www.jesterky.unas.cz">http://www.jesterky.unas.cz</a> (v&nbsp;neděli&nbsp;21.&nbsp;09.&nbsp;2003,&nbsp;v&nbsp;20:28)</p>
+<p style="font-weight:bold"><span class="compredmet">dodatek</span> | <span class="comname">Pujíta</span> |  <a href="mailto:pujinka@centrum.cz">mail</a>  <a href="https://www.jesterky.unas.cz">https://www.jesterky.unas.cz</a> (v&nbsp;neděli&nbsp;21.&nbsp;09.&nbsp;2003,&nbsp;v&nbsp;20:28)</p>
 <p>Nastal chyba - nejak se to odeslalo predcasne... Takze jeste dodatek !!! <br> Potvrzuji tvou dedukci, ze se clovek muze dostat &quot;do nalady&quot; bez chemickych latek... Skauting je polozeny na tomhle faktu - alespon tedy nas oddil !!! </p>
 </div>
 <div class="comment">

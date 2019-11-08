@@ -121,16 +121,16 @@ dnech šílený traffic, například dneska to vypadá na podnebí takto:</p>
 <td class="l">ip-85-160-28-55.eurotel.cz</td>
 </tr>
 </table>
-<p>A to samé se mi děje na <a href="http://jesterky.skauti.cz">jesterky.skauti.cz</a>, mgvf a kdo ví, kde ještě..
+<p>A to samé se mi děje na <a href="https://jesterky.skauti.cz">jesterky.skauti.cz</a>, mgvf a kdo ví, kde ještě..
 Ví někdo o co běží?</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">ailyn</span> |  <a href="http://ailyn.wz.cz">http://ailyn.wz.cz</a> (neděle&nbsp;28.&nbsp;08.&nbsp;2005,&nbsp;15:39)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">ailyn</span> |  <a href="https://ailyn.wz.cz">https://ailyn.wz.cz</a> (neděle&nbsp;28.&nbsp;08.&nbsp;2005,&nbsp;15:39)</p>
 <p>diky bohu za smsky zdarma. byli jsme na horach v 9 lidech a nejak se nam to po ceste dolu roztrhalo na 3 skupinky. smsky zdarma nas zachranily, s mym dvacetikorunovym kreditem bych pekne kurvovala uz po druhe smsce, kdyz jsme se snazili zase spojit dohromady ;) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">test</span> | <span class="comname">endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a>  <a href="http://jan-martinek.com">http://podnebi.wz.cz</a> (&nbsp;6.&nbsp;09.&nbsp;2005,&nbsp;23:48)</p>
+<p style="font-weight:bold"><span class="compredmet">test</span> | <span class="comname">endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a>  <a href="https://jan-martinek.com">https://podnebi.wz.cz</a> (&nbsp;6.&nbsp;09.&nbsp;2005,&nbsp;23:48)</p>
 <p>pořád žiju ;-) dejte mi ještě moment.. </p>
 </div>
 <div class="comment">
@@ -142,7 +142,7 @@ Ví někdo o co běží?</p>
 <p>odběhl jsem pryc na cca dve hodinky od 14:38 | afk </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">test</span> | <span class="comname">endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a>  <a href="http://podnebi.jan-martinek.com">http://podnebi.jan-martinek.com</a> (sobota&nbsp;17.&nbsp;09.&nbsp;2005,&nbsp;14:45)</p>
+<p style="font-weight:bold"><span class="compredmet">test</span> | <span class="comname">endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a>  <a href="https://podnebi.jan-martinek.com">https://podnebi.jan-martinek.com</a> (sobota&nbsp;17.&nbsp;09.&nbsp;2005,&nbsp;14:45)</p>
 <p>test posledních komentářů </p>
 </div>
 <div class="comment">
@@ -154,7 +154,7 @@ Ví někdo o co běží?</p>
 <p>tak co jak pak je?A copak delame?ja na tebe porad myslim a styska se mi cim dal vic.Ja to bez tebe asi nevydrzim ja uz te chci mit u sebe!!!!!Az v pondeli co?To je docela kruty milacku ja to uz fakt nevydrzim.Strasne te MILUJU!!!!!!Zkus od nekoho pisnout.Moc te miluju,nikdy neprestanu a neamim te ztratit!!!!Si moje vsecko </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a>  <a href="http://podnebi.jan-martinek.com">http://podnebi.jan-martinek.com</a> (neděle&nbsp;20.&nbsp;11.&nbsp;2005,&nbsp;11:18)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a>  <a href="https://podnebi.jan-martinek.com">https://podnebi.jan-martinek.com</a> (neděle&nbsp;20.&nbsp;11.&nbsp;2005,&nbsp;11:18)</p>
 <p>no, asi se nekde stala chybka :) neco jako prolnuti paralelnich realit, nebo tak neco, ne? ;-) </p>
 </div>
 <div class="comment">
@@ -162,7 +162,7 @@ Ví někdo o co běží?</p>
 <p>KDE JSI??? DAVID </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a>  <a href="http://podnebi.jan-martinek.com">http://podnebi.jan-martinek.com</a> (pátek&nbsp;23.&nbsp;12.&nbsp;2005,&nbsp;00:19)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a>  <a href="https://podnebi.jan-martinek.com">https://podnebi.jan-martinek.com</a> (pátek&nbsp;23.&nbsp;12.&nbsp;2005,&nbsp;00:19)</p>
 <p>DOMA... END </p>
 </div>
 <div class="comment">

@@ -39,7 +39,7 @@ zase to dopadlo špatně..</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (&nbsp;8.&nbsp;02.&nbsp;2005,&nbsp;08:35)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (&nbsp;8.&nbsp;02.&nbsp;2005,&nbsp;08:35)</p>
 <p>ja tak nerad recitoval, ze jsem se tehdava radeji i sam prihlasil jako jeden z uplne prvnich, abych to mel za sebou a nemusel se po dalsich nekolik hodin stresovat, kdy me vyvola profka. tomu ve svem pripade rikam &quot;pud sebezachovy&quot;, protoze jinak mi hrozila smrt :) </p>
 </div>
 <div class="comment">
@@ -47,7 +47,7 @@ zase to dopadlo špatně..</p>
 <p>ehm, já většinou jdu &quot;recitovat&quot; pár dní až týdnů po ostatních.. ale už jsem přemýšlel nad stejnou metodou, jako jsi měl ty - asi to někdy zkusím :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Charlotte</span> |  <a href="http://wicked-angel.net">http://wicked-angel.net</a> (&nbsp;8.&nbsp;02.&nbsp;2005,&nbsp;16:07)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Charlotte</span> |  <a href="https://wicked-angel.net">https://wicked-angel.net</a> (&nbsp;8.&nbsp;02.&nbsp;2005,&nbsp;16:07)</p>
 <p>a já jezdila na trapné recitační soutěže a letos asi jedu zas :o) </p>
 </div>
 <div class="comment">
@@ -55,7 +55,7 @@ zase to dopadlo špatně..</p>
 <p>neříkám, že jsem proti recitaci - naopak, považuji to za umění. ale tato múza se mi asi širokým obloukem vyhnula ;) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Charlotte</span> |  <a href="http://wicked-angel.net">http://wicked-angel.net</a> (&nbsp;8.&nbsp;02.&nbsp;2005,&nbsp;17:17)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Charlotte</span> |  <a href="https://wicked-angel.net">https://wicked-angel.net</a> (&nbsp;8.&nbsp;02.&nbsp;2005,&nbsp;17:17)</p>
 <p>jenže mně taky a pan profesor si myslí, že na to mám :o) což mě akutně vytáčí... </p>
 </div>
 <div class="comment">
@@ -63,7 +63,7 @@ zase to dopadlo špatně..</p>
 <p><strong>charlotte&gt;</strong> se taky necháš ukecat ke všemu - škoda jen, že nechytám region čro1 vysočina :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Charlotte</span> |  <a href="http://wicked-angel.net">http://wicked-angel.net</a> (středa&nbsp;9.&nbsp;02.&nbsp;2005,&nbsp;17:58)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Charlotte</span> |  <a href="https://wicked-angel.net">https://wicked-angel.net</a> (středa&nbsp;9.&nbsp;02.&nbsp;2005,&nbsp;17:58)</p>
 <p>to je podraz :) BlackWolf mě taky podrazil... neřekl mi, že si mě bude chtět natáčet televize. achjo :) </p>
 </div>
 </div>

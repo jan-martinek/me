@@ -30,18 +30,18 @@ navazuje přátelské vztahy, je částečně pryč. Škoda ;)</p>
 </div>
 <div class="comment">
 <p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a> (středa&nbsp;23.&nbsp;02.&nbsp;2005,&nbsp;22:26)</p>
-<p>to bych o biologii mohl psát každý týden třikrát. spíš si zajdi na <a href="http://en.wikipedia.org">http://en.wikipedia.org</a> a prozkoumej si i přilehlé stránky.. </p>
+<p>to bych o biologii mohl psát každý týden třikrát. spíš si zajdi na <a href="https://en.wikipedia.org">https://en.wikipedia.org</a> a prozkoumej si i přilehlé stránky.. </p>
 </div>
 <div class="comment">
 <p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a> (středa&nbsp;23.&nbsp;02.&nbsp;2005,&nbsp;22:27)</p>
 <p>nějak mi to sežralo odkaz.. nech si vyhledat intron :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">divný den</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (středa&nbsp;23.&nbsp;02.&nbsp;2005,&nbsp;23:10)</p>
+<p style="font-weight:bold"><span class="compredmet">divný den</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (středa&nbsp;23.&nbsp;02.&nbsp;2005,&nbsp;23:10)</p>
 <p>nebyl dneska nějaký divný den? všichni kolem mě (včetně mě) měli pěknou smůlu, vám zrušili vodu a navíc biola nezklamala ;) a ještě ti to sežralo odkaz :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="http://www.php-weblog.com">http://www.php-weblog.com</a> (čtvrtek&nbsp;24.&nbsp;02.&nbsp;2005,&nbsp;14:49)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="https://www.php-weblog.com">https://www.php-weblog.com</a> (čtvrtek&nbsp;24.&nbsp;02.&nbsp;2005,&nbsp;14:49)</p>
 <p>sakra, takovej confort. nescafe 3in1 by bylo uplne luxusni, u nas horkou vodu nemaj </p>
 </div>
 <div class="comment">
@@ -57,7 +57,7 @@ navazuje přátelské vztahy, je částečně pryč. Škoda ;)</p>
 <p>zatím jediné řešení je termoska, jinak to nevidím..  <br>  <br> btw: a než kávu z automatu, to teda raděj nevímco :) <br>  <br> //zajímavé, kolik je tu závisláků :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="http://www.php-weblog.com">http://www.php-weblog.com</a> (pátek&nbsp;25.&nbsp;02.&nbsp;2005,&nbsp;21:34)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="https://www.php-weblog.com">https://www.php-weblog.com</a> (pátek&nbsp;25.&nbsp;02.&nbsp;2005,&nbsp;21:34)</p>
 <p>furt lepsi nez byt zavislej treba na cigaretach :)) </p>
 </div>
 <div class="comment">

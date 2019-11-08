@@ -18,7 +18,7 @@ kamarádka s extrémně dobrou náladou. Díky :)</p>
 <p>pěkně barevný, to je fajn:) <br> jen to rozhození vodorovných čar v headingu moc harmonické není, ale zvyknu si. Ale originalitě se meze nekladou, tak proč ne že? </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (čtvrtek&nbsp;19.&nbsp;05.&nbsp;2005,&nbsp;15:14)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (čtvrtek&nbsp;19.&nbsp;05.&nbsp;2005,&nbsp;15:14)</p>
 <p>jak ja se tesim domu... seriky mame oblepeny cely dum. Rano mi vonely na cestu ze skoly a odpoledne me vitaly... tak snad mi do zitrka neodkvetou :) </p>
 </div>
 <div class="comment">

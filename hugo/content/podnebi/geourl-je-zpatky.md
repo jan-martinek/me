@@ -22,7 +22,7 @@ si musel znova odpingnout web, protože původní databáze je asi pryč.</p>
 <p>Užitná hodnota sajty GeoURL je možná nízká (nebo aspoň neznám žádné praktické využití),
 ale pro srandu králíků je to hezký nástroj.</p>
 <p>UPDATE: Stará databáze by neměla být úplně pryč - aspoň podle
-<a href="http://geourl.org/news/">GeoURL Weblogu</a>. Nicméně asi se tam občas vyskytnou
+<a href="https://geourl.org/news/">GeoURL Weblogu</a>. Nicméně asi se tam občas vyskytnou
 nějaké chybky.. Podle stránek dostupných v mém okolí to vypadá, že proběhla
 nějaká selekce, ale podle jakého klíče, to nevím. Možná to pinglo všechny weby
 a wzko bylo zrovna spadlé. To je asi nejpravděpodobnější.</p>

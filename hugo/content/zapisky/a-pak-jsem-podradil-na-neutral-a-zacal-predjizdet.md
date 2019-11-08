@@ -24,7 +24,7 @@ po hodince jízdy přes 60km/h na čtyřku :)</p>
 <p>mno, mně rychlost překvapivě už problém nedělá. ale s mírou :) nejdřív bych raděj věděl, jak se to vlastně pořádně ovládá, než se budu řítit.. mm, jsem viděl tvůj pohled, když jsi vyjížděl ve středu od gymplu :) <br>  <br> nepropadej skepsi, třeba tu zkoušku někdy dáš :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (sobota&nbsp;19.&nbsp;03.&nbsp;2005,&nbsp;10:53)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (sobota&nbsp;19.&nbsp;03.&nbsp;2005,&nbsp;10:53)</p>
 <p>jet rychle není problém, zvlášť v jiném autě něž v autoškole:) spíš je problém se potom naučit jezdit aspoň trochu pomalu a podle předpisů. Jak jednou jedeš rychle, těžko se zpomaluje :) </p>
 </div>
 <div class="comment">

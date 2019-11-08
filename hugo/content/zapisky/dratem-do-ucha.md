@@ -10,7 +10,7 @@ tags: []
 Ucpané ucho hučí a hřeje, člověk přemýšlí co s tím.
 Inu, šel jsem do Lidlu a zakoupil vatičkové tyčinky, tyčinku vrazil do ucha skoro
 na doraz a... ucpal ucho definitivně. Z toho plyne jedno ponaučení, které jsem následně
-našel v <a href="http://www.florence.cz/cislo.php?stat=275">chytrém článku</a>:
+našel v <a href="https://www.florence.cz/cislo.php?stat=275">chytrém článku</a>:
 &bdquo;Tyčinky nebrat!&ldquo; Takovédle tyčinky jsou nahraditelné prstem (<em>fakt jo</em>,
 viz článek, nejsem nechuťák) a spešl dobré jsou jen pro malé děti.</p>
 <p>Konkrétně jde o to, že tyhle tyčinky nejsou určené k čištění zvukovodu,
@@ -46,7 +46,7 @@ rád poradím tu správnou paní doktorku. (Závrať jsem nakonec neměl, pohoda
 <p>molekuly vody jsou vzájemně spojené vodíkovými můstky, nicméně k mému uchu tyto molekuly nepřilnuly a tak pomocí přirozené zemské gravitace vypadaly do připraveného čehosi, co jsem měl u ucha. společně se slunečnicovým olejem a ušním humusem. </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">suchosch</span> |  <a href="http://suchosch.net">http://suchosch.net</a> (sobota&nbsp;23.&nbsp;12.&nbsp;2006,&nbsp;11:18)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">suchosch</span> |  <a href="https://suchosch.net">https://suchosch.net</a> (sobota&nbsp;23.&nbsp;12.&nbsp;2006,&nbsp;11:18)</p>
 <p>a nebo se ještě používají tzv. &quot;svíčky&quot; - zapálený srolovaný papír nebo tak nějak. snad se to i prodává v drogeriích. <br> já jsem si vyrobil čistítko uší z lega, s takovým tím motorkem :) </p>
 </div>
 <div class="comment">

@@ -35,7 +35,7 @@ obrátit monitor. Dost hrozné třeba na notebooku.</p>
 <p>nic jsi sice nepil, fajn .. ale jiné drogy nebyly??? ;)a ne že napíšeš: &quot;jo, čaj a kafe!&quot; ty nemusíme počítat, protože už máš vypěstovanou imunitu ;) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a>  <a href="http://jan-martinek.com">http://podnebi.wz.cz</a> (&nbsp;12.&nbsp;07.&nbsp;2005,&nbsp;21:54)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a>  <a href="https://jan-martinek.com">https://podnebi.wz.cz</a> (&nbsp;12.&nbsp;07.&nbsp;2005,&nbsp;21:54)</p>
 <p>nn, ani čaj a kafe. poslední kafe jsem měl před asi týdnem &amp; čaj někdy po ránu. a jiné drogy? hřiby, prášky, nic takového :)  <br>  <br> jsem si myslel, že mi nikdo neuvěří, že jsem nebyl pod vlivem. ale to mě jen dostatečně neznáte :) </p>
 </div>
 <div class="comment">

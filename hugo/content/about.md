@@ -23,12 +23,12 @@ My background is in sociology, political science and media studies.
 - I design a CRM for novice fundraisers that should help them to start working methodically (coming public soon).
 
 [ivana]: https://www.linkedin.com/in/ivanarybanska/
-[lukas]: http://lukaskubanek.com
+[lukas]: https://lukaskubanek.com
 [muni]: https://muni.cz
-[blender]: http://peerblender.com
+[blender]: https://peerblender.com
 [demagogsrc]: https://github.com/Demagog2/Demagog.cz
 [demagogteam]: https://github.com/orgs/Demagog2/teams/core
-[demagogcz]: http://demagog.cz
+[demagogcz]: https://demagog.cz
 
 <!-- ### I'm proud of these projects / This went well -->
 
@@ -36,10 +36,10 @@ My background is in sociology, political science and media studies.
 
 ## More about me
 
-[Github](http://github.com/jan-martinek)
+[Github](https://github.com/jan-martinek)
 &bull;&nbsp;[LinkedIn](https://cz.linkedin.com/in/janmartinek)
-&bull;&nbsp;[Twitter](http://twitter.com/endlife)
-&bull;&nbsp;[Instagram](http://instagram.com/endlife)
+&bull;&nbsp;[Twitter](https://twitter.com/endlife)
+&bull;&nbsp;[Instagram](https://instagram.com/endlife)
 &bull;&nbsp;[Goodreads](https://www.goodreads.com/user/show/19846169-jan-martinek)
-&bull;&nbsp;[Last.fm](http://twitter.com/user/jan-martinek)
-&bull;&nbsp;[8tracks](http://8tracks.com/endlife)
+&bull;&nbsp;[Last.fm](https://twitter.com/user/jan-martinek)
+&bull;&nbsp;[8tracks](https://8tracks.com/endlife)

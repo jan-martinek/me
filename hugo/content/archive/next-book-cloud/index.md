@@ -57,4 +57,4 @@ It’s an early design in the process of implementation. What’s your take? Do 
 
 Also, I’m currently searching for designers, developers, and partners, with whom we may produce the first complete implementation of the concept. Before this year is over, all the essential parts should be in place — and so should be a model of sustainability (based on partnership or service provision). 
 
-Find me on twitter [@ endlife](https://twitter.com/endlife) and check next-book on [github](http://github.com/next-book/).
+Find me on twitter [@ endlife](https://twitter.com/endlife) and check next-book on [github](https://github.com/next-book/).

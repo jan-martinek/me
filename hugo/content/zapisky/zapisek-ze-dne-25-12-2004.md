@@ -21,7 +21,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (neděle&nbsp;26.&nbsp;12.&nbsp;2004,&nbsp;10:08)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (neděle&nbsp;26.&nbsp;12.&nbsp;2004,&nbsp;10:08)</p>
 <p>jen takova otazka: slo by k poslednim komentarum dat neco jako &quot;#komentare&quot;, aby pri kliknuti na nej skocila obrazovka dolu na komentare a ne jen na dany text? Kvuli tomu (a sve lenosti) tuhle vychytavku moc nepouzivam... </p>
 </div>
 <div class="comment">

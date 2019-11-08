@@ -8,14 +8,14 @@ comments:
   - id: 11703
     author: suchosch
     author_email: suchosch@suchosch.net
-    author_url: http://suchosch.net
+    author_url: https://suchosch.net
     date: '2009-02-25 19:41:04 +0100'
     date_gmt: '2009-02-25 18:41:04 +0100'
     content: Katedra humanitní environmentalistiky? To fakt existuje? You must be kyding me!
   - id: 11704
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2009-02-25 20:54:25 +0100'
     date_gmt: '2009-02-25 19:54:25 +0100'
     content: Ani nevíš, o co přicházíš! Docela zajímavý obor opředený tolika stereotypy, že jeho absence ve tvém okolí musí být na duši ochuzující! :)

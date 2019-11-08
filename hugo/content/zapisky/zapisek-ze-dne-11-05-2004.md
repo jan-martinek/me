@@ -7,7 +7,7 @@ tags: []
 comments: []
 ---
 <div >  <a href="/assets/migrated/old-images/koliky.jpg"><img alt="kolíky" src="/assets/migrated/old-images/koliky.jpg"></a>  <a href="/assets/migrated/old-images/ruze.jpg"><img alt="růže" src="/assets/migrated/old-images/ruze.jpg"></a>  <a href="/assets/migrated/old-images/srdcovnik.jpg"><img alt="kolíky" src="/assets/migrated/old-images/srdcovnik.jpg"></a>  <a href="/assets/migrated/old-images/jesterky.jpg"><img alt="růže" src="/assets/migrated/old-images/jesterky.jpg"></a>  </div>
-<p>Nic mě nebaví, nedávno jsem někde (myslím, že to byl určitě <a href="http://juneau.wz.cz">juneau</a> plus  ještě někde) viděl výpisy x náhodných skladeb.. Tak jsem si v průběhu pár dní vypsal taky několik písniček..  Není to náhodný mix - nemám na disku moc místa, tak poslouchám spíš cédéčka, takže je to spíš postup  toho na co jsem měl zrovna náladu.. Jak se tak dívám na ten seznam, tak mi připadne divné, jak málo  je tam české hudby.. Přitom teď poslouchám místní věci docela často.. Co už.. (ty závorky jsou alba na kterých  jsou ty písničky - pro ty nechápavější)</p>
+<p>Nic mě nebaví, nedávno jsem někde (myslím, že to byl určitě <a href="https://juneau.wz.cz">juneau</a> plus  ještě někde) viděl výpisy x náhodných skladeb.. Tak jsem si v průběhu pár dní vypsal taky několik písniček..  Není to náhodný mix - nemám na disku moc místa, tak poslouchám spíš cédéčka, takže je to spíš postup  toho na co jsem měl zrovna náladu.. Jak se tak dívám na ten seznam, tak mi připadne divné, jak málo  je tam české hudby.. Přitom teď poslouchám místní věci docela často.. Co už.. (ty závorky jsou alba na kterých  jsou ty písničky - pro ty nechápavější)</p>
 <ul>
 <li>Cardigands: My favourite game (Gran Turismo)</li>
 <li>Sha-na-na: Blue moon (Grease (Pomáda) OST)</li>
@@ -63,7 +63,7 @@ comments: []
 <p>Tak no nejak sprav! Chodis jak telo bez duse !!! A taky se obcas vyspi! </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://juneau.wz.cz">web</a> (ve&nbsp;středu&nbsp;12.&nbsp;05.&nbsp;2004,&nbsp;v&nbsp;15:41)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://juneau.wz.cz">web</a> (ve&nbsp;středu&nbsp;12.&nbsp;05.&nbsp;2004,&nbsp;v&nbsp;15:41)</p>
 <p>no, to bys neveril, jak spanek pomaha. </p>
 </div>
 </div>

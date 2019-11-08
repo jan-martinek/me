@@ -8,21 +8,21 @@ comments:
   - id: 12622
     author: sibiřanka
     author_email: sibiranka@gmail.com
-    author_url: http://www.marigraf.cz
+    author_url: https://www.marigraf.cz
     date: '2010-12-04 20:34:56 +0100'
     date_gmt: '2010-12-04 19:34:56 +0100'
     content: Honzo, díky za článek. Babička je borec. Připomíná mi to moji matiku - sérií špatných postupů ke správnému výsledku.
   - id: 12623
     author: juneau
     author_email: nevybiram@tiscali.cz
-    author_url: http://reality-show.net
+    author_url: https://reality-show.net
     date: '2010-12-04 23:38:27 +0100'
     date_gmt: '2010-12-04 22:38:27 +0100'
     content: Ale fakt strašné!
   - id: 12624
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2010-12-05 06:21:43 +0100'
     date_gmt: '2010-12-05 05:21:43 +0100'
     content: Ta nejstrašnější věc je v tom, že lidé očekávají, že tohle je normální způsob, jak s počítačem pracovat. Očekávají tu spoustu kroků, které se jim zdají nesmyslné a zároveň nevyhnutelné, a programy tak složité, že je nikdy nemůžou zvládnout. Ach jo :/

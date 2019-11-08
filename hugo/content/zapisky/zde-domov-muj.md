@@ -26,7 +26,7 @@ začít těšit - už se těším, co napíšu příště :).</p>
 <p>originalni domena ;) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Filosof</span> |  <a href="http://blog.filosof.biz/">http://blog.filosof.biz/</a> (pondělí&nbsp;19.&nbsp;09.&nbsp;2005,&nbsp;20:31)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Filosof</span> |  <a href="https://blog.filosof.biz/">https://blog.filosof.biz/</a> (pondělí&nbsp;19.&nbsp;09.&nbsp;2005,&nbsp;20:31)</p>
 <p>gratz :-) </p>
 </div>
 </div>

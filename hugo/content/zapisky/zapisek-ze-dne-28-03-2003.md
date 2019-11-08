@@ -12,7 +12,7 @@ básničky poskládané ode dneška od nejnovější po nejstarší 2) nová úp
 sekci &quot;Život je krutý&quot; + dva slibované nové díly a 3) guestbook jsem
 přejmenoval na diskuzi, protože chci aby se tam něco dělo ;). Pro dnešek všechno...
 Snad to někdo ocení ;)... Jo, pokud jste si nevšimli banneru na vstupní stránce, tak
-ještě určitě zahlasujte v anketě <a href="http://lahvac.pooh.cz" target="_blank">Český
+ještě určitě zahlasujte v anketě <a href="https://lahvac.pooh.cz" target="_blank">Český
 lahváč 2003</a>, což je žebříček nejlepších webů v ČR. Anketu pořádá můj
-oblíbený server <a href="http://www.pooh.cz" target="_blank">Pooh.cz</a>. Hlasovat
+oblíbený server <a href="https://www.pooh.cz" target="_blank">Pooh.cz</a>. Hlasovat
 můžete až do konce dubna. Nemusím říkat, komu máte dát hlas :)).</p>

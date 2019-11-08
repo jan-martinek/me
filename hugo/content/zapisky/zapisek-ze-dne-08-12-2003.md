@@ -13,7 +13,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">...</span> | <span class="comname">juneau</span> |  <a href="http://juneau.wz.cz">http://juneau.wz.cz</a> (ve&nbsp;středu&nbsp;10.&nbsp;12.&nbsp;2003,&nbsp;v&nbsp;21:46)</p>
+<p style="font-weight:bold"><span class="compredmet">...</span> | <span class="comname">juneau</span> |  <a href="https://juneau.wz.cz">https://juneau.wz.cz</a> (ve&nbsp;středu&nbsp;10.&nbsp;12.&nbsp;2003,&nbsp;v&nbsp;21:46)</p>
 <p>vsechno nej k narozeninam :) muj web ma za sebou... pet mesicu. online jsem ovsem jiz bez mesice tri roky. nejak nam to utika... tak drzim palce do dalsi petiletky :) </p>
 </div>
 <div class="comment">

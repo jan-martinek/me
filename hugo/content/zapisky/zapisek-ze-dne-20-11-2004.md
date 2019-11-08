@@ -44,7 +44,7 @@ comments: []
 <p>třeba ne, ale vzhledem k tomu, že jsem právě rozjel regionální portál, nechci vzbuzovat naděje :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">.</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (pondělí&nbsp;22.&nbsp;11.&nbsp;2004,&nbsp;17:09)</p>
+<p style="font-weight:bold"><span class="compredmet">.</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (pondělí&nbsp;22.&nbsp;11.&nbsp;2004,&nbsp;17:09)</p>
 <p>teda, ani ja bych nenasel silu k psani takovych ... ustav evropske unie (rozsahem) :) </p>
 </div>
 <div class="comment">
@@ -52,7 +52,7 @@ comments: []
 <p><strong>ryska&gt;</strong> jee, toho commentu jsem si všiml až dneska.. sorry, ale mně se ten sníh fakt líbí.. třeba se ještě do března uzdravíš/srosteš, nepropadej depkám, nebudeš mít protilátky :) <br>  <br> aa, entropicture.. zase jsem u něj strávil celý den.. teď mi hrají coldplay - parachutes - teď zrovna we never change, taky zimní nálada (tak mě napadá, že jsem ty coldplaye možná už poslcohal včera, ale nechce se mi to zkoumat).. nesu? celý rundgang? ech kletě, to bude sranda :) <br>  <br> <strong>juneau&gt;</strong> doufám, že to není příliš ubíjející.. nějak se nekontroluju, když píšu za tak dlouho :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">what? :-)</span> | <span class="comname">God.zilla</span> |  <a href="http://blog.sedenka.net">http://blog.sedenka.net</a> (středa&nbsp;24.&nbsp;11.&nbsp;2004,&nbsp;14:30)</p>
+<p style="font-weight:bold"><span class="compredmet">what? :-)</span> | <span class="comname">God.zilla</span> |  <a href="https://blog.sedenka.net">https://blog.sedenka.net</a> (středa&nbsp;24.&nbsp;11.&nbsp;2004,&nbsp;14:30)</p>
 <p>tenhle preklad wtf me fakt dostal, dal jsem se zatim nedostal :-) </p>
 </div>
 <div class="comment">

@@ -12,8 +12,8 @@ předpokladů na vyzkoušení použitelnosti tohoto testu před uvedením do re�
 prostředí (kvalita otázek, úroveň, etc.)).</p>
 <p>A zkrácená hodina biologie (=část hodiny byla náhradní přestávkou) mě celkem
 napružila &amp; přivedla k věcem, o kterých jsem chtěl psát už předevčírem.
-Tehdy mě inspiroval zápisek <a href="http://akabelog.blogspot.com/">aKB</a> (proč jej nemám
-v líbeslincích?) <em><a href="http://akabelog.blogspot.com/2005/02/definice-vtem.html">Definice
+Tehdy mě inspiroval zápisek <a href="https://akabelog.blogspot.com/">aKB</a> (proč jej nemám
+v líbeslincích?) <em><a href="https://akabelog.blogspot.com/2005/02/definice-vtem.html">Definice
 výčtem</a></em> - tentokrát ne až tak svým obsahem, ale hlavně nadpisem (čistě asociace, nijak
 tímto neshazuji obsah, který má aKB silně kvalitní, doporučuju).</p>
 <p>Pozn. dneska asi nebudu moc vtipný, kdyžtak si počkejte na další textík :).</p>
@@ -32,7 +32,7 @@ se projevuje ________&ldquo;</em> nebyla úplná, nicméně definice pomocí &bd
 inzulinu&ldquo; nenapružila jen mě, ale i několik dalších lidí (juchú :)). Tak jsem
 se dal doma do trochy koumání, pročež, koho to zajímá, nechť koukne na tyhle linky:</p>
 <ul>
-<li><a href="http://www.aafp.org/afp/981015ap/mayfield.html">Diagnosis
+<li><a href="https://www.aafp.org/afp/981015ap/mayfield.html">Diagnosis
     and Classification of Diabetes Mellitus: New Criteria</a> - toto je článek Asociace
     amerických rodinných lékařů z 15. 10. 98, mimo jiné se v něm praví, že neuznávaná krátká odpověď
     &bdquo;... zvýšenou hladinou cukru&ldquo; je správná: <em>&bdquo;Any patient with two fasting plasma
@@ -40,16 +40,16 @@ se dal doma do trochy koumání, pročež, koho to zajímá, nechť koukne na ty
     diabetes mellitus.&ldquo;</em><br>  Pak je tady také o &bdquo;nefunkčním inzulínu&ldquo; - jehož nefunkčnost je způsobena rezistencí tělních buněk
     proti inzulínu <em>&bdquo;Type 2 diabetes mellitus is characterized by insulin resistance
     in peripheral tissue and an insulin secretory defect of the beta cell.&ldquo;</em> (pozn.:
-    <a href="http://www.diabetesindia.com/diabetes/diabetes_bdict.htm">definice
+    <a href="https://www.diabetesindia.com/diabetes/diabetes_bdict.htm">definice
     beta cell</a>: <em>&bdquo;A type of cell in the pancreas in areas called the Islets of Langerhans.
     Beta cells make and release insulin, a hormone that controls the level of glucose
     (sugar) in the blood.&ldquo;</em>)</li>
 <li>Pak jsem ještě hledal něco o tom, jak vzniká rezistence proti inzulinu a jak to vlastně
-    funguje &amp; pomohla mi <a href="http://wikipedia.org">wikipedia</a> ideálním článkem
-    <a href="http://en.wikipedia.org/wiki/Insulin_resistance">Insulin resistance</a>, docela
+    funguje &amp; pomohla mi <a href="https://wikipedia.org">wikipedia</a> ideálním článkem
+    <a href="https://en.wikipedia.org/wiki/Insulin_resistance">Insulin resistance</a>, docela
     zajímavé čtení s pár dalšími odkazy uvnitř..</li>
 <li>Abych nevypadal jako českoskeptik, tak i na českém netu se najdou celkem podrobné články,
-    například <a href="http://www.doktorka.cz/run/nemoci/nemoc.asp?id=57">článek na doktorka.cz</a>
+    například <a href="https://www.doktorka.cz/run/nemoci/nemoc.asp?id=57">článek na doktorka.cz</a>
     je celkem solidní, ale našel jsem jej až pozděj a není ani tak podrobný ve věcech, které
     jsem hledal.</li>
 </ul>
@@ -58,12 +58,12 @@ o něčem veselejším :).</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (čtvrtek&nbsp;10.&nbsp;02.&nbsp;2005,&nbsp;20:25)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (čtvrtek&nbsp;10.&nbsp;02.&nbsp;2005,&nbsp;20:25)</p>
 <p>Ze je internet k necemu dobry si casto dokazuji :) Pokud si prectes muj dnesni spot, tak zjistis, ze moji drahou polovicku rozbolelo jedno koukadylko... &quot;Ale vzdyt zitra beztak nemaji na ocnim pracovni den!&quot;, oponovala memu urgentnimu prani, aby sla k doktorovi. Za chvilku jsem se vratil: &quot;Murd. Ta a Ta, Po,St,Pá od 7:30 -14:00&quot;. <br>  <br> nekdy je to fajn vec. </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (čtvrtek&nbsp;10.&nbsp;02.&nbsp;2005,&nbsp;21:17)</p>
-<p>proč prostě nenapíšeš, že ti tvůj učitel &quot;nevyhovuje&quot;. Necheš ho otevřeně kritizovat? Stejně to tak dopadlo. Jinak zbytek - využití netu - je plně pravda, obzvláště bych zvýraznil <a href="http://www.wikipedia.org">www.wikipedia.org</a> Fakt moc díky lidem, kteří se podílejí na jejím obsahu. Pomalu si říkám jestli jim taky nepřispěju, i když peněz není nikdy nazbyt :) <br> BTW. : o nesystémovosti našeho školství by bylo možné napsat několik tučných knih :( </p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (čtvrtek&nbsp;10.&nbsp;02.&nbsp;2005,&nbsp;21:17)</p>
+<p>proč prostě nenapíšeš, že ti tvůj učitel &quot;nevyhovuje&quot;. Necheš ho otevřeně kritizovat? Stejně to tak dopadlo. Jinak zbytek - využití netu - je plně pravda, obzvláště bych zvýraznil <a href="https://www.wikipedia.org">www.wikipedia.org</a> Fakt moc díky lidem, kteří se podílejí na jejím obsahu. Pomalu si říkám jestli jim taky nepřispěju, i když peněz není nikdy nazbyt :) <br> BTW. : o nesystémovosti našeho školství by bylo možné napsat několik tučných knih :( </p>
 </div>
 <div class="comment">
 <p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Endlife</span> |  <a href="mailto:jan.martinek@post.cz">mail</a> (čtvrtek&nbsp;10.&nbsp;02.&nbsp;2005,&nbsp;21:42)</p>

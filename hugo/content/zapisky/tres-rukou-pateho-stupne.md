@@ -28,11 +28,11 @@ a bezradně hledá, pak hledá v labu, pak překvapivě.. zase nic..</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (&nbsp;28.&nbsp;06.&nbsp;2005,&nbsp;00:09)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (&nbsp;28.&nbsp;06.&nbsp;2005,&nbsp;00:09)</p>
 <p>ty jsi ale nesika :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">loser</span> |  <a href="http://www.theunderdoor.com">http://www.theunderdoor.com</a> (pondělí&nbsp;4.&nbsp;07.&nbsp;2005,&nbsp;22:13)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">loser</span> |  <a href="https://www.theunderdoor.com">https://www.theunderdoor.com</a> (pondělí&nbsp;4.&nbsp;07.&nbsp;2005,&nbsp;22:13)</p>
 <p>no jo, je to sranda ;) .... </p>
 </div>
 </div>

@@ -15,7 +15,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="http://www.pifik.com">web</a> (ve&nbsp;středu&nbsp;30.&nbsp;06.&nbsp;2004,&nbsp;v&nbsp;19:31)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">pif</span> |  <a href="https://www.pifik.com">web</a> (ve&nbsp;středu&nbsp;30.&nbsp;06.&nbsp;2004,&nbsp;v&nbsp;19:31)</p>
 <p>takove vaticky... mit dvd prehravav ve tride, natoz my nemame ani jeden v cely skole :)) </p>
 </div>
 <div class="comment">

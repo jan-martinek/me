@@ -6,7 +6,7 @@ category: nezařazené
 tags: []
 comments: []
 ---
-<p>Protentokrát udělám výjimku. Nebudu psát o celém minulém týdnu. Nemám chuť. Je sobota  večer a jen tak sedím a poslouchám U2 rádio (už mám zapojený trvalý net) &amp; občas to  prohodiím nějakou mp3 (třeba, kdo ví o co běží: <a href="http://karelsmrdi.wz.cz/vecernicek.mp3">světluščí   večerníček</a>), je mi smutno. Mám důvod? Nevím sám.</p>
+<p>Protentokrát udělám výjimku. Nebudu psát o celém minulém týdnu. Nemám chuť. Je sobota  večer a jen tak sedím a poslouchám U2 rádio (už mám zapojený trvalý net) &amp; občas to  prohodiím nějakou mp3 (třeba, kdo ví o co běží: <a href="https://karelsmrdi.wz.cz/vecernicek.mp3">světluščí   večerníček</a>), je mi smutno. Mám důvod? Nevím sám.</p>
 <p>Dneska jsem se byl podívat, jako minulý a předminulý rok, na skautskou vánoční akademii &amp;  jako obvykle to bylo skvělé. Scénky neměly prostě chybu, celé dvě a půl hodiny byly naprosto úchvatné.</p>
 <p>Chce se mi psát podrobněj, ale nevím kde začít.. ne, teď se mi chce psaní nechat a konstatovat,  that i liked it.. odbýt tohle všechno na pár řádcích.. hmm..</p>
 <p>o 12 minut pozděj. tak, v cdromce se usídlili rammsteini, tak teď možná budu chvílemi přemýšlet v němčině.  dalších 20 minut posun.. vánoční akademie, zpátky. takže v heslech: ještěrčí sníh, jako vždy úžasně audiovizuální a  emocionální zážitek (jakožto člověk, který se hodlá zabývat v budoucnu vizuálním uměním, můžu jen "úúúúúúúúúúú"  dělat &amp; závidět fantazii); vlčatí řepa - milééé; titanic - parádní ledovec; i skauti mají své dny -   vesele vypointované; ookova skoro one-man-show - muhehehe.. jo, a světlušky byly roztomilé..</p>

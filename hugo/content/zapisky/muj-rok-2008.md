@@ -15,7 +15,7 @@ comments:
   - id: 10636
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2009-01-02 21:06:48 +0100'
     date_gmt: '2009-01-02 20:06:48 +0100'
     content: "Jj, všechna ostatní alba včetně novější Volty napevno přirostlé k srdečnímu svalu a Medulla ne a ne. Až teď někdy na podzim to přišlo, z ničeho nic.\r\n\r\nBtw teď nedávno vydala Björk singl Náttúra v rámci nějakého Islandského ekologického projektu. Jako backing vocal je tam Thom Yorke, takže to pro mě byla nutnost :) Ale moc mě to nenadchlo, bylo to hodně repetitivní, Yorke schováný v digi efektu... Singl by stál za koupení (iTunes only) snad kvůli tomu projektu, ale hudebně mě to nevzalo. Po I've Seen it All jsem očekával něco jiného."
@@ -29,7 +29,7 @@ comments:
   - id: 10696
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2009-01-03 15:29:43 +0100'
     date_gmt: '2009-01-03 14:29:43 +0100'
     content: Tanec v temnotách byl úžasný, ale podruhé ho asi do konce nikdy neuvidím.
@@ -40,7 +40,7 @@ comments:
 <p>Březen. Uvolněný čas jsem záhy naprosto naplnil jinými aktivitami. Začali jsme s kolegou Pavlem připravovat FSSpodcast, přidal se chaotický Halas - fakultní časopis, naložil jsem si řádnou dávku kreditů a k tomu přibral jeden zajímavý a v jistých ohledech poněkud pekelný projekt. Navrch jsem začal uvažovat o přestěhování. Pořád jsem vysedával po divadlech a kavárnách. Daňové formuláře.</p>
 <p>Duben jsem strávil s vysokou hladinou fenylethylaminu. Modří už vědí. Krásné období plné očekávání a přemýšlení. Pěkný výlet na Blatiny. Začal jsem zase pořádně s nadšením fotit. Jinak stále plno práce, ve všech směrech.</p>
 <p>Květen mě vrátil zpět do zajetých kolejí, přichází další zkouškové, není čas na nic, snad jen krátká návštěva muzejní noci. </p>
-<p>Červen už ve znamení vyčerpání, při učení se na zkoušku ve skrytu kolegova privátu píšu asi pro mě nejdůležitější letošní zápisek "<a href="http://podnebi.jan-martinek.com/?p=744">Deziluze</a>". Zůstal bez komentářů na webu, o to víc přišlo mailů a dalších, většinou zhrozených, reakcí. Dokončuju další projekt, katederní web. Vše má být hotové patnáctého, ale materiály přicházejí pozdě a v mém plánu už to nesedí, příprava se tak protahuje (a dalšími změnami se pak protahuje na dalších několik měsíců). Perfektní víkend u kolegy Pavla s kolegy z Halasu. Kupuju si Moleskine a píšu si (a poprvé mi to vydrželo). Po delší době jsem začtený do poezie, tehdy hlavně do Jáchyma Topola. Poprvé vstupuju na letošní Bienále grafického designu.</p>
+<p>Červen už ve znamení vyčerpání, při učení se na zkoušku ve skrytu kolegova privátu píšu asi pro mě nejdůležitější letošní zápisek "<a href="https://podnebi.jan-martinek.com/?p=744">Deziluze</a>". Zůstal bez komentářů na webu, o to víc přišlo mailů a dalších, většinou zhrozených, reakcí. Dokončuju další projekt, katederní web. Vše má být hotové patnáctého, ale materiály přicházejí pozdě a v mém plánu už to nesedí, příprava se tak protahuje (a dalšími změnami se pak protahuje na dalších několik měsíců). Perfektní víkend u kolegy Pavla s kolegy z Halasu. Kupuju si Moleskine a píšu si (a poprvé mi to vydrželo). Po delší době jsem začtený do poezie, tehdy hlavně do Jáchyma Topola. Poprvé vstupuju na letošní Bienále grafického designu.</p>
 <p>Červenec a syndrom vyhoření. Beru si plánovanou dovolenou o pár dní dřív, vypínám mobil a koukám se na tři až čtyři filmy denně. Jsem doma sám, ráno nakrmím králíky a večer je zkontroluju, jinak sedím doma. Pak dozrává rybíz, obírám a poslouchám dvanáct a víc hodin denně epizody Radiolabu a Odvážných palců. Koncem měsíce je tradiční filmovka, která je nadmíru fajn, i FListy se odminula o dost polepšily, ač na ty skvělé z před pěti let neměly.</p>
 <p><img src='/assets/migrated/wp-uploads/2008/12/obraz582.jpg' alt='obraz582.jpg' /></p>
 <p>Plán aktivního srpna moc nevyšel, nejdřív mě pokosilo nějaké nachlazení, pak s tátou přetváříme ložnici. Týden trávím v Brně bez většího zvýšení produktivity, znovu mířím na Bienále. Na Marově oslavě narozenin se podruhé narodím, když jedu v jeho traktoru – řídí Mara, v půl jedné, osm promile minimálně.</p>

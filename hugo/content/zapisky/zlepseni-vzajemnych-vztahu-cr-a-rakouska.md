@@ -15,7 +15,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (středa&nbsp;5.&nbsp;09.&nbsp;2007,&nbsp;09:04)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (středa&nbsp;5.&nbsp;09.&nbsp;2007,&nbsp;09:04)</p>
 <p>K ranní kávě ideální :) </p>
 </div>
 <div class="comment">
@@ -23,7 +23,7 @@ comments: []
 <p>To jsem rád :) <br>  <br> Ještě by někdo mohl vysvětlit symboliku obsaženou v tom překrásném logotypu. Protože má interpretace je podivná: Vypadá to jako kopí, ale přece nebudu stavět projekt o souznění na symbolu lovu/boje, že... Tak nevím nevím. Navíc třásně na kopí bývají... á, teď mi to došlo: je to obraz mírového gesta, kopí vržené hrotem nazpátek. Úplně nový vyjadřovací prvek, nejspíš. <br>  <br> A ta barevnost. Zelená, červená, žlutá, modrá, černá... symbolizuje... no, to už fakt nevím, nemá někdo tohle nazdrojované od toho profíka, co to vymyslel? A výběr fontu, kterým je vysázená PRAHA - symbol modernity? jednoduchost? přímost? No, tohle mi hlava nebere. Jsem rád, že je zakrytý ten spodní řádek (viditelný na trikách), to by mě mohlo zmást ještě víc. </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">ailyn</span> |  <a href="http://deviantka.net">http://deviantka.net</a> (čtvrtek&nbsp;6.&nbsp;09.&nbsp;2007,&nbsp;22:35)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">ailyn</span> |  <a href="https://deviantka.net">https://deviantka.net</a> (čtvrtek&nbsp;6.&nbsp;09.&nbsp;2007,&nbsp;22:35)</p>
 <p>to si dělají pr... legraci? možná jsem malá a blbá, ale 100x raději temelín, než tepelnou elektrárnu. imho. </p>
 </div>
 <div class="comment">

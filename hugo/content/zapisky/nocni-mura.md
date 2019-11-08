@@ -20,7 +20,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (čtvrtek&nbsp;7.&nbsp;09.&nbsp;2006,&nbsp;13:15)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (čtvrtek&nbsp;7.&nbsp;09.&nbsp;2006,&nbsp;13:15)</p>
 <p>Téhle hrůze z prasklých karabinek rozumím. Jednou mi takhle praskla (vlastně ne, rozepnula se ... nějak divně) karabinka u narvané cestovky, když jsem jel z koleje a z toho necelého metru nad zemí žuchla na podlahu. <br>  <br> Ještě že to nebyl notebook, řekne si člověk, že? Nj, notebook byl na jejím dně :) Ale přežil bez úhony, takže stejné rozuzlení přeju i tvému miláčkovi. Notebooku. </p>
 </div>
 <div class="comment">
@@ -32,7 +32,7 @@ comments: []
 <p><strong>tracy</strong> Díky za upozornění, jsem rád že to šlo tak jednoduše vyřešit.. to junova čtečka je patrně ještě náročnější, mimo validitu chce i něco navíc a já nevím co :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (pátek&nbsp;8.&nbsp;09.&nbsp;2006,&nbsp;18:06)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (pátek&nbsp;8.&nbsp;09.&nbsp;2006,&nbsp;18:06)</p>
 <p>Nevim, treba Content-type: text/xml :) </p>
 </div>
 <div class="comment">
@@ -40,7 +40,7 @@ comments: []
 <p>to nedělá ani max-width a ten jede, takže.. jen vítr to ví :) </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (pátek&nbsp;8.&nbsp;09.&nbsp;2006,&nbsp;22:58)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (pátek&nbsp;8.&nbsp;09.&nbsp;2006,&nbsp;22:58)</p>
 <p>Parchant mlcenlivej... </p>
 </div>
 </div>

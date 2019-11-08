@@ -20,6 +20,6 @@ comments: []
 </div>
 <div class="comment">
 <p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">endlife</span> | (&nbsp;27.&nbsp;11.&nbsp;2007,&nbsp;15:20)</p>
-<p>Teda, to vůbec nevím. Narychlo jsem našel <a href="http://www.merci.cz/katalog.php">http://www.merci.cz/katalog.php</a> - ale to jsou už nějaké vychytané a ultradrahé. Kdo ví, jestli se ty původní ještě vyrábějí. </p>
+<p>Teda, to vůbec nevím. Narychlo jsem našel <a href="https://www.merci.cz/katalog.php">https://www.merci.cz/katalog.php</a> - ale to jsou už nějaké vychytané a ultradrahé. Kdo ví, jestli se ty původní ještě vyrábějí. </p>
 </div>
 </div>

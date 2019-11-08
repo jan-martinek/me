@@ -7,7 +7,7 @@ tags: []
 comments: []
 ---
 <p>Dneska je popeleční středa. Pokud se děsíte, co se z dalšího textu vyklube, není
-třeba (se děsit; třeba bych to čekal od tebe, <a href="http://reality-show.net">june</a> :))</p>
+třeba (se děsit; třeba bych to čekal od tebe, <a href="https://reality-show.net">june</a> :))</p>
 <p>Jednoduchý fakt je, že za 40 dnů (počítáno bez nedělí) budou Velikonoce. Nevím,
 ale přijde mi to nějak brzy - na to, že před pár dny začal nový rok. (I když..
 chvilku nad tím přemýšlím, &amp; Nový rok je dost dávno. Hodně dávno.) Velikonoce
@@ -28,7 +28,7 @@ nenutím (i když často moc nechápu)..</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://reality-show.net">http://reality-show.net</a> (čtvrtek&nbsp;10.&nbsp;02.&nbsp;2005,&nbsp;20:31)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://reality-show.net">https://reality-show.net</a> (čtvrtek&nbsp;10.&nbsp;02.&nbsp;2005,&nbsp;20:31)</p>
 <p>nejsem si dvakrat jisty, co by me melo desit (narazka na krestanstvi?) :) nevadi :) <br>  <br> popelecni stredu jsem oslavil spagetami s masovou omackou. <br>  <br> &quot;Dva špičáky, jeden placák.&quot; MontyPythoni chapu ;) </p>
 </div>
 <div class="comment">

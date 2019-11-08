@@ -22,7 +22,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Charlotte</span> |  <a href="http://wicked-angel.net">http://wicked-angel.net</a> (pondělí&nbsp;17.&nbsp;01.&nbsp;2005,&nbsp;16:27)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Charlotte</span> |  <a href="https://wicked-angel.net">https://wicked-angel.net</a> (pondělí&nbsp;17.&nbsp;01.&nbsp;2005,&nbsp;16:27)</p>
 <p>Guten morgen, gute nachmittag :-) <br> taky děkuju za session... příště tě nechám nejdřív psát a pak mluvit ;-) </p>
 </div>
 </div>

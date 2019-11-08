@@ -13,7 +13,7 @@ i když jsem po dobře mířeném Blančině dotazu &bdquo;A co jsi se dozvědě
 nového?&ldquo; nebyl skoro schopen říct co (a to v moderní české poezii teda
 nijak moc velký přehled nemám, zrovna se to trefilo). Přednesl několikero kruciálních
 básní, úplně překrásných. Kruci. Ální. (Kruciální: křížový, průsečíkový, ústřední,
-rozhodný, rozhodující (via <a href="http://www.abz.cz">abz.cz</a>)).</p>
+rozhodný, rozhodující (via <a href="https://www.abz.cz">abz.cz</a>)).</p>
 <p>Pak přišla sobota. Večer jsem uviděl princeznu v krásných modrých šatech,
 nejkrásnější na našem stužkovacím plese. Ples ubíhal rychle, povzbudivý
 projev na začátek (&bdquo;Tento ples je již třináctý - třináctka je zvláštní číslo

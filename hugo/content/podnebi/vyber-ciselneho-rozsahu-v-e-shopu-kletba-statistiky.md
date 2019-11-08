@@ -12,7 +12,7 @@ comments:
   - id: 16974
     author: Adam Fendrych
     author_email: adamuv@gmail.com
-    author_url: http://twitter.com/adlo
+    author_url: https://twitter.com/adlo
     date: '2012-12-12 10:16:58 +0100'
     date_gmt: '2012-12-12 09:16:58 +0100'
     content: 'Pěkný článek. Nepříliš promyšlený nápad k diskusi: nestačilo by na škále udělat v určitých místech větší "skoky"? To znamená, že pokud chytnu posuvník a potáhnu ho z krajní hodnoty 160 000 o jeden stupínek doleva, naskočí jako nejbližší hodnota 30 000. Tedy že onen krajní stupínek bude pod sebou skrývat všechny ulítlé tečky.'
@@ -26,7 +26,7 @@ comments:
   - id: 17043
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2012-12-31 09:55:53 +0100'
     date_gmt: '2012-12-31 08:55:53 +0100'
     content: "@Jakub Janda: Díky moc za insider komentář! Ale myslím, že se míjíme v tom, co jsem chtěl článkem říct :)\r\n\r\nCo se týče metody, kterou navrhuje Adam Fendrych v předchozím komentu, tam je zřejmý problém s tím neočekávaným chováním (vyskočí jiná hodnota, než by tam \"měla být\"), avšak u prostého oříznutí krajních hodnot (bez jakéhokoli složitějšího algoritmu a při použití kulatých hodnot jako ve stávající implementaci) pak chybějí pouze ty krajní hodnoty – a ty jsou stejné, pouze na ně díky ořezu outlierů zbyde více místa – takže fyzicky na displeji je pak rozdíl mezi 20 a 30 tisíci širší.\r\n\r\nNenavrhuji změnu způsobu, kterým se rozdělují intervaly, ale pouze vynechání krajních hodnot (z pohledu toho šoupátka by se to dalo nazvat spojením do jednoho intervalu), v nichž obvykle (když platí plusmínus normální rozložení pro danou sadu produktů) bývá málo produktů."
@@ -40,7 +40,7 @@ comments:
   - id: 17051
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2013-01-02 08:30:37 +0100'
     date_gmt: '2013-01-02 07:30:37 +0100'
     content: "Zkusím to přes příklad :) Posuvníky by při ořezání krajních hodnot mohly být v popisovaném případě (90 % hodnot je mezi 10k a 50k) v polohách:\r\n\r\nméně než 10k | 10k | 11k | 12k ... 49k | 50k | více než 50k\r\n\r\nTudíž např. u notebooků na Alze by notebooky nad 50k byly v jednom chlívku namísto ve 26 (v tuhle chvíli je na Alza jen 23 notebooků nad 50k a zároveň 114 notebooků pouze v rozsahu 20-25k). (26 ze 704 je něco pod 4 procenta.)\r\n\r\nNejde o nelineární skoky, tam je již zmiňovaný problém s nečekaným chováním ovládacího prvku."
@@ -54,7 +54,7 @@ comments:
   - id: 17056
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2013-01-03 07:22:56 +0100'
     date_gmt: '2013-01-03 06:22:56 +0100'
     content: ":-)\r\n\r\nV článku jsem přemýšlel nad jinými názvy, třeba min/max, ale určitě by se dalo vymyslet ještě něco výstižnějšího (případně to možná už někde najít v reálném užití). \r\n\r\nPopřemýšlím o tom, jak indikovat nejnižší/nejvyšší cenu – i když tam by to možná chtělo spíš uživatelské testování, jestli je to významný problém, protože uživatelé, kteří se řídí podle ceny nejspíše budou mít produkty stejně tak podle ceny i seřazené, takže nejnižší cenu vidí. Nejvyšší cenu IMHO mnoho uživatelů nehledá.\r\n\r\n(Tak mě napadá, že IMHO je taková anti-UX zkratka :-))"
@@ -64,11 +64,11 @@ comments:
     author_url: ''
     date: '2013-01-29 13:00:03 +0100'
     date_gmt: '2013-01-29 12:00:03 +0100'
-    content: Tak je nasazena nová verze šoupátka, která ignoruje horní a spodní půldecil. Vyzkoušejte, jak se vám líbí, například na http://www.alza.cz/notebooky/18842920.htm.
+    content: Tak je nasazena nová verze šoupátka, která ignoruje horní a spodní půldecil. Vyzkoušejte, jak se vám líbí, například na https://www.alza.cz/notebooky/18842920.htm.
   - id: 17178
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2013-01-29 13:04:42 +0100'
     date_gmt: '2013-01-29 12:04:42 +0100'
     content: Líbí! Přemýšlím o tom, jak moc je matoucí ten skok mezi krajními a těmi ostatními hodnotami, ale je to určitě jedno z možných řešení. Díky za echo, mám radost :)
@@ -82,27 +82,27 @@ comments:
   - id: 17180
     author: Tomáš Kafka
     author_email: tk@tomaskafka.com
-    author_url: http://tomaskafka.com
+    author_url: https://tomaskafka.com
     date: '2013-01-29 14:27:56 +0100'
     date_gmt: '2013-01-29 13:27:56 +0100'
-    content: "A btw, tady je hezké shrnutí problematiky numerických filtrů s nápadem přidat nad nebo do šoupátka histogram rozdělení cen produktů.\r\n\r\nhttp://uxmatters.com/mt/archives/2010/02/numeric-filters-issues-and-best-practices.php\r\n\r\nDo programu pro datové analytiky bych to určitě udělal, ale v byznyse taková upřímnost občas nefunguje a více možné vydělá 'neupřímné' šoupátko z předchozího komentáře :)."
+    content: "A btw, tady je hezké shrnutí problematiky numerických filtrů s nápadem přidat nad nebo do šoupátka histogram rozdělení cen produktů.\r\n\r\nhttps://uxmatters.com/mt/archives/2010/02/numeric-filters-issues-and-best-practices.php\r\n\r\nDo programu pro datové analytiky bych to určitě udělal, ale v byznyse taková upřímnost občas nefunguje a více možné vydělá 'neupřímné' šoupátko z předchozího komentáře :)."
   - id: 17181
     author: Tomáš Kafka
     author_email: tk@tomaskafka.com
-    author_url: http://tomaskafka.com
+    author_url: https://tomaskafka.com
     date: '2013-01-29 14:29:04 +0100'
     date_gmt: '2013-01-29 13:29:04 +0100'
-    content: 'A ještě trochu hrubý, ale funkční příklad šoupátka s histogramem: http://www.prisjakt.nu/kategori.php?k=101#rparams=l=s114148872'
+    content: 'A ještě trochu hrubý, ale funkční příklad šoupátka s histogramem: https://www.prisjakt.nu/kategori.php?k=101#rparams=l=s114148872'
   - id: 17383
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2013-03-03 01:37:22 +0100'
     date_gmt: '2013-03-03 00:37:22 +0100'
     content: "Tomáš: Díky za zajímavé komenty. Teď jsem si v rámci průzkumu procházel německé eshopy a jsou tam i ty nelineární šoupátka – spíš než kvůli rozložení mi to dává smysl z toho důvodu, že u produktu za 20 je rozumné přemýšlet o rozdílech plusmínus 3 Kč, u produktu za 200 už ne. \r\n\r\nAle i tak jsem nenašel žádné šoupátko, které by se mi v tomhle ohledu líbilo, všechny jsou \"divné\"... Mně napadlo právě třeba zobrazovat vždy jen první nebo druhý řád (jednotky, desítky, stovky) a tím tu stupnici profiltrovat, ale je to hodně neintuivní a člověk musí několikrát přejet tam a zpět, aby si byl jistý, co se děje.\r\n\r\nHistogram nad sliderem je hustý, ale ten švédský příklad je hodně velké monstrum :) Asi to dává smysl na takhle specializovaném webu (kde cílovka navíc ví, co to histogram je ;-)). Myslím, že z hlediska businessu je to celkem v pohodě, člověk vidí, kde je mainstream, kde jsou okraje apod. Ale jako UI je to IMHO náročné na pochopení... Určitě bych rád viděl uživatelská testování :)"
 ---
 <p>Chcete si koupit notebook. Máte něco kolem pětadvaceti tisíc, takže by vysněná mašina měla stát něco mezi dvaceti a třiceti. Tenhle rozsah tedy chcete nějak vyfiltrovat na e-shopu. Jak by měl vypadat ovládací prvek, který umožňuje snadno vybrat číselný rozsah?</p>
-<p>Pěkný a funkční příklad takového prvku má na webu <a href="http://www.alza.cz/notebooky/18842920.htm">Alza.cz</a>:</p>
+<p>Pěkný a funkční příklad takového prvku má na webu <a href="https://www.alza.cz/notebooky/18842920.htm">Alza.cz</a>:</p>
 <p><img src='/assets/migrated/wp-uploads/2012/12/screen-shot-2012-12-11-at-161755.png' alt='screen-shot-2012-12-11-at-161755.png' /></p>
 <p>Alzácký ovládací prvek má ale zásadní problém. Problémem je ignorování toho, jak v běžném světě vypadají soubory číselných hodnot. Ano, tohle smrdí statistikou, gaussovkami a podobnými věcmi, ale nic se nebojte – vygooglil jsem si obrázky! A skutečný zásadní problém objevíme společně!</p>
 <h3>Dobrodružství teorie</h3>

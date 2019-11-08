@@ -15,12 +15,12 @@ comments:
   - id: 17700
     author: Jan Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2013-04-03 22:13:56 +0200'
     date_gmt: '2013-04-03 21:13:56 +0200'
     content: "Zkusím to tak nějak převyprávět v bodech ještě trochu jinak:\r\n\r\nBěhem šestého semestru jsem řešil různé věci, kvůli kterým jsem nezvládl dobře pracovat na diplomce.\r\n\r\nProtože se mi změnila má životní situace, potřeboval jsem i výhledově pracovat – zároveň bych ale časem rád pokračoval na doktorském stupni, proto nedávalo smysl, abych studia zanechal. Proto jsem se rozhodl, že si psaní závěrečné práce rozložím do celého následujícího roku.\r\n\r\nPředpokládal jsem, že přerušení studia je vůči fakultě ve všech svých důsledcích neutrální — jako bych prostě pro fakultu půl roku neexistoval, platil si sám pojištění apod. a pak se vrátil, dotáhl diplomový seminář a zakončil studium — předpokládal jsem špatně a rozhodnutí o nepřerušení pro mě tedy bylo překvapivé..\r\n\r\nKvůli tomu, že nyní vedle studia pracuji (a je to týmová práce, kterou není snadné přerušit), mám jak na závěrečnou práci, tak i na přípravu k SZZ méně času, než bych považoval za vhodné. \r\n\r\nPíšeš, že se chystám \"úspěšně\" složit SZZ — všichni se asi chystají složit SZZ úspěšně, jinak by asi příprava nedávala smysl. Ale kvůli časovému omezení jsou nejspíše mé šance na dobré ohodnocení nižší. Což je mi celkem jedno. \r\n\r\nPrimární pro mě byla ta závěrečná práce, kde jsem chtěl zpracovávat zajímavé téma, které by mi i výhledově pomohlo se zpracováním projektu pro doktorský program, na jehož obsáhnutí nyní čas ani další zdroje mít nebudu. \r\n\r\nA obecně — já bych to výše sepsané asi nenazýval \"stěžováním si\". Výjimka má být výjimečná a pokud má situace nebyla shledána dostatečnou pro udělení výjimky, respektuji toto rozhodnutí. Článek vznikl skutečně jako vedlejší produkt sepisování žádosti o prominutí poplatku za studium a jeho publikováním jsem chtěl vyjádřit, že mi mé aktivity stály i za následné problémy v samotném studiu (problémy se naštěstí omezují na formální náležitosti, jejichž důležitost nezpochybňuji, netýkají se obsahu studia)."
 ---
-<p>Následující seznam jsem si zkompiloval při psaní žádosti o prominutí platby za prodloužené studium. Je to výčet zajímavějších aktivit spjatých více či méně těsně s mým studiem na <a href="http://fss.muni.cz">Fakultě sociálních studií</a> MU.</p>
+<p>Následující seznam jsem si zkompiloval při psaní žádosti o prominutí platby za prodloužené studium. Je to výčet zajímavějších aktivit spjatých více či méně těsně s mým studiem na <a href="https://fss.muni.cz">Fakultě sociálních studií</a> MU.</p>
 <p>Seznam klidně přeskočte. Pointa je pod ním.</p>
 <h4>Seznam</h4>
 <ul>
@@ -33,15 +33,15 @@ comments:
 <li>(Jo, a už jenom kampaň do senátu byl pokaždé celkem vysilující měsíc všelijakých aktivit.)</li>
 </ul>
 </li>
-<li><strong>Člen redakce <a href="http://casopishalas.cz">časopisu Halas</a> v letech 2007–2011 v rolích <a href="http://casopishalas.cz/clanky/author/?authorId=1">redaktora</a>, grafika, sazeče, tvůrce redakčního systému, administrátora webu. V současné době jsem stále technický administrátor webu.</strong></li>
-<li><strong>Několik témat jsem zpracoval na blogu <a href="http://servismag.cz">Servismag.cz</a>.</strong></li>
-<li><strong>Uspořádal jsem dva ročníky <a href="http://polbarcamp.cz">Politologického barcampu</a>.</strong>
+<li><strong>Člen redakce <a href="https://casopishalas.cz">časopisu Halas</a> v letech 2007–2011 v rolích <a href="https://casopishalas.cz/clanky/author/?authorId=1">redaktora</a>, grafika, sazeče, tvůrce redakčního systému, administrátora webu. V současné době jsem stále technický administrátor webu.</strong></li>
+<li><strong>Několik témat jsem zpracoval na blogu <a href="https://servismag.cz">Servismag.cz</a>.</strong></li>
+<li><strong>Uspořádal jsem dva ročníky <a href="https://polbarcamp.cz">Politologického barcampu</a>.</strong>
 <ul>
 <li>Propojování studentů různých fakult z ČR a SR, reálný kontakt s iniciativami fungujícími v politickém prostoru.</li>
 <li>Brněnský barcamp následoval studentský barcamp v Opavě a letos se chystá čtvrtý na začátku května v Praze.</li>
 </ul>
 </li>
-<li><strong>S <a href="http://www.pavelsima.cz">kolegou</a> jsme  v letech 2007–2008 natáčeli videopodcast z prostředí fakulty.</strong></li>
+<li><strong>S <a href="https://www.pavelsima.cz">kolegou</a> jsme  v letech 2007–2008 natáčeli videopodcast z prostředí fakulty.</strong></li>
 <li><strong>Propojuji politologických/sociologických znalostí s dalšími obory:</strong>
 <ul>
 <li>Přednášel jsem o „Uživatelské zkušenosti státu“, které propojují politickou vědu a design – např. na UXcamp Europe 2012 v Berlíně, Barcamp Brno 2012.</li>
@@ -66,12 +66,12 @@ comments:
 <li>Za oba stupně studia jsem získal 40 kreditů na oboru sociologie, který nebyl součástí mého programu (ale obsahově pěkně seděl s mým studiem <em>Mediálních studií</em> a magisterské specializace <em>Sociální hnutí a politická participace</em>); mnoho kurzů jsem odchodil bez zápisu nebo možnosti složit zkoušku (kvůli časnému termínu bakalářských státnic na začátku ledna jsem ztratil dva kurzy).</li>
 </ul>
 </li>
-<li><strong>A vedle toho jsem pracoval jako webdesignér na volné noze.</strong> Většinou spíše nárazově a z velké části zdarma (např. pro již zmíněný <a href="http://casopishalas.cz">školní časopis</a>). Zpracoval jsem např. web <a href="http://senat.fss.muni.cz">Senátu FSS</a> či Katedry med. studií a žurnalistiky v letech 2008–2010 (v tomto případě za odměnu ve formě stipendia).</li>
+<li><strong>A vedle toho jsem pracoval jako webdesignér na volné noze.</strong> Většinou spíše nárazově a z velké části zdarma (např. pro již zmíněný <a href="https://casopishalas.cz">školní časopis</a>). Zpracoval jsem např. web <a href="https://senat.fss.muni.cz">Senátu FSS</a> či Katedry med. studií a žurnalistiky v letech 2008–2010 (v tomto případě za odměnu ve formě stipendia).</li>
 </ul>
 <h4>Pointa</h4>
 <p>Magistra jsem studoval už šest semestrů – o rok déle, než bych měl. V šestém semestru už jsem tolik nestudoval a nezvládl jsem odevzdat závěrečnou práci (kapituloval jsem už někdy v říjnu, když jsem musel řešil různé nesouvisející problémy), chybělo mi tedy i osm kreditů z potřebných dvaceti (diplomový seminář je za 12 kreditů), žádal jsem tedy o výjimku z této povinnosti.</p>
 <p>Rozhodl jsem se, že si studium zároveň na semestr přeruším, abych se mohl v letních měsících zaměřit na zpracování kvalitní závěrečné práce. V žádosti o přerušení jsem napsal: <em>„Primárním důvodem je prodloužení doby, po kterou budu moci zpracovávat svou diplomovou práci. Ve stávajícím semestru se mi nepodařilo dosáhnout přiměřených výsledků a proto bych v práci rád pokračoval v průběhu následujícího roku. Rád bych po skončení magisterského stupně pokračoval ve studiu v doktorském programu, proto bych rád nyní zakončil prací, s níž budu spokojen.“</em></p>
-<p>Vedení fakulty mi dalo 7. února 2013 odpověď: <em>„Přerušení, o které jste žádal, by byla již příliš velká <a href="http://en.wiktionary.org/wiki/benevolence">benevolence</a>. Pokud jste cítil, že se potřebujete věnovat i jiným věcem, měl jste si studium přerušit, dokud jste na to měl nárok.“</em> (Během standardní doby studia je nárok na přerušení automatický.)</p>
+<p>Vedení fakulty mi dalo 7. února 2013 odpověď: <em>„Přerušení, o které jste žádal, by byla již příliš velká <a href="https://en.wiktionary.org/wiki/benevolence">benevolence</a>. Pokud jste cítil, že se potřebujete věnovat i jiným věcem, měl jste si studium přerušit, dokud jste na to měl nárok.“</em> (Během standardní doby studia je nárok na přerušení automatický.)</p>
 <p>Myslel jsem si, že přerušení studia je pro fakultu neutrální nebo alespoň pozitivnější než jeho neúspěšné ukončení (jsem si vědom, že přerušení může být faktorem v neúspěšném ukončení, ale motivace přístupem k doktorskému studiu je dost silná). Prodlužování studia nevnímám jako něco pozitivního, ale myslím si, že je v určitých případech obhajitelné. Zvlášť když student věnuje velké množství energie škole samotné.
 <p>Diplomku <a href="https://github.com/jan-martinek/diplomka">nakonec píšu (na úplně jiné téma)</a>. Držte mi prosím palce, 16. května je deadline a bude to ještě jízda.</p>
 <p>Ponaučení? <strong><em>Kažte</em> si život aktivitami navíc!</strong> Občas se nevyhnete tomu, že kvůli tomu něco zkazíte, ale pořád to stojí za pocit, že jste udělali něco, co pomohlo (či alespoň mohlo) změnit prostředí k lepšímu.</p>

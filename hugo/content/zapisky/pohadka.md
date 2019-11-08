@@ -19,7 +19,7 @@ comments: []
 <p>teda, rád bych vypíchl konkrétní prvky - ale teď mě nic konkrétního nenapadá - měl jsem to napsat už v pátek. co mě trochu napadá je to, že dobrá postava vítězí nad zlem tím, že poplete lucifera záměnou úpisů - to mi přijde jakoby princ bajaja neusekal drakovi hlavy, ale proplížil se dozadu, když drak spí, zarazil mu meč do zadku a nechal ho vykrvácet :)  <br>  <br> ale tohle není přesně to, na co jsem chtěl ukázat. zkusím si někde najít nějakou ukázku a popsat co konkrétně mi nevyhovuje.. </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Soooc</span> |  <a href="mailto:xsoc@gmail.com">mail</a>  <a href="http://ustinet.wz.cz">http://ustinet.wz.cz</a> (středa&nbsp;21.&nbsp;02.&nbsp;2007,&nbsp;10:17)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Soooc</span> |  <a href="mailto:xsoc@gmail.com">mail</a>  <a href="https://ustinet.wz.cz">https://ustinet.wz.cz</a> (středa&nbsp;21.&nbsp;02.&nbsp;2007,&nbsp;10:17)</p>
 <p>Ja budu mit silne OT ale :) <br>  <br> Na googlu uz neni podnebi na dotaz podnebi prvni !!! Preskocila te nejaka wikipedia !!! <br>  <br> Jinak Cert vi proc se mi vubec nelibilo pro svou ponurou atmosferu v pekle :) </p>
 </div>
 <div class="comment">
@@ -31,7 +31,7 @@ comments: []
 <p>peklo bylo nahodou veselé :)  <br> české peklo... teda chtěla sem říct peklo v českých pohádkách je vžycky perfektní </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">Peklo</span> | <span class="comname">Honza</span> |  <a href="mailto:jan.z@centrum.cz">mail</a>  <a href="http://www.janzak.cz">http://www.janzak.cz</a> (středa&nbsp;21.&nbsp;02.&nbsp;2007,&nbsp;22:14)</p>
+<p style="font-weight:bold"><span class="compredmet">Peklo</span> | <span class="comname">Honza</span> |  <a href="mailto:jan.z@centrum.cz">mail</a>  <a href="https://www.janzak.cz">https://www.janzak.cz</a> (středa&nbsp;21.&nbsp;02.&nbsp;2007,&nbsp;22:14)</p>
 <p>To je pravda, peklo ztvárněné v českých pohádkách je the best, nejlepší považuji v pohádce S čerty nejsou žerty.... </p>
 </div>
 </div>

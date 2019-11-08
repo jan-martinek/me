@@ -15,7 +15,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="http://juneau.wz.cz">http://juneau.wz.cz</a> (v&nbsp;sobotu&nbsp;13.&nbsp;12.&nbsp;2003,&nbsp;v&nbsp;21:15)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">juneau</span> |  <a href="https://juneau.wz.cz">https://juneau.wz.cz</a> (v&nbsp;sobotu&nbsp;13.&nbsp;12.&nbsp;2003,&nbsp;v&nbsp;21:15)</p>
 <p>tak jak jsi to prezil? na svoje tanecni uz nevzpominam, dost mozna proto, ze jsem na tom byl s nervama podobne jako ty :) </p>
 </div>
 </div>

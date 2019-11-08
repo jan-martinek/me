@@ -11,4 +11,4 @@ comments: []
 <p>Předplatil jsem si časopis s francouzskými písmenky - zatím jen písmenka, až koupím pořádný slovník,  tak přijde na slova (a třeba možná i věty). Zatím tomu přespříliš nerozumím (přesněji řečeno s obtížemi  přeložím nadpisy článků), ale to se zlepší :).</p>
 <p>Dneska byl den otevřených dveří v našem milovaném ústavu (přezdíváno <strong>&quot;den otevřených klecí&quot;</strong>),  což byla nakonec docela sranda. Jen si asi nesmím brát osobně výrok našeho třídního: &quot;Je tu dneska  hodně lidí, tak se raděj někam ukliďte.&quot; :).</p>
 <p>Tak mi to nějak připomíná... dneska začaly podzimní prázdniny. <strong>Neee, už zasee...</strong> co já budu celé ty  tři dny dělat? Ach jo...</p>
-<p><strong>Vyšla nová bazooka,</strong> stahujte na <a href="http://bazooka.wz.cz">bazooka.wz.cz</a> a čtěte,  skvělá jako obvykle...</p>
+<p><strong>Vyšla nová bazooka,</strong> stahujte na <a href="https://bazooka.wz.cz">bazooka.wz.cz</a> a čtěte,  skvělá jako obvykle...</p>

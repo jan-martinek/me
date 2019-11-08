@@ -21,7 +21,7 @@ věci zapomínám, takže tu určitě ještě něco doplním...</p>
 </ul>
 <h3>březen</h3>
 <ul>
-<li>Kulturní vrchol roku: pokec s Petrem Koubským v knihovně, Mistr a Markétka ve Zlíně &amp; <a href="http://dsmgv.wz.cz/hra.php?idhra=15&view=program">Átreovci</a> od souboru našeho Gymplu.</li>
+<li>Kulturní vrchol roku: pokec s Petrem Koubským v knihovně, Mistr a Markétka ve Zlíně &amp; <a href="https://dsmgv.wz.cz/hra.php?idhra=15&view=program">Átreovci</a> od souboru našeho Gymplu.</li>
 </ul>
 <h3>duben</h3>
 <ul>
@@ -50,7 +50,7 @@ věci zapomínám, takže tu určitě ještě něco doplním...</p>
 <li>Ježek v bazénu u Blanky. Neuplaval to.</li>
 <li>Zápis na FSS MU, Mediální studia a žurnalistika + Politologie. Zklamání ze strašné organizace.</li>
 <li>První dva projekty se zadřely.</li>
-<li>Letní filmová škola: především jediná kopie filmu afrického režiséra, která za jeho přítomnosti částečně shořela (ale vesele to vynahradil spoustou zajímavostí, třeba že Švýcaři učí afričany rybařit) a <a href="http://www.imdb.com/title/tt0445158/">13 Jezer</a> + Glen Hansard, Huun-huur-tu, Kenny Endo + Joji Hirota + John Neptune a další koncerty.</li>
+<li>Letní filmová škola: především jediná kopie filmu afrického režiséra, která za jeho přítomnosti částečně shořela (ale vesele to vynahradil spoustou zajímavostí, třeba že Švýcaři učí afričany rybařit) a <a href="https://www.imdb.com/title/tt0445158/">13 Jezer</a> + Glen Hansard, Huun-huur-tu, Kenny Endo + Joji Hirota + John Neptune a další koncerty.</li>
 </ul>
 <h3>srpen</h3>
 <ul>

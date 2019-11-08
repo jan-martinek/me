@@ -26,7 +26,7 @@ comments: []
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">suchosch</span> |  <a href="http://suchosch.net">http://suchosch.net</a> (sobota&nbsp;4.&nbsp;08.&nbsp;2007,&nbsp;20:03)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">suchosch</span> |  <a href="https://suchosch.net">https://suchosch.net</a> (sobota&nbsp;4.&nbsp;08.&nbsp;2007,&nbsp;20:03)</p>
 <p>pěkný hrušky :) </p>
 </div>
 </div>

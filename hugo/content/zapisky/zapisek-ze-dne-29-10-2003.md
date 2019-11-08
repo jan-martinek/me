@@ -16,9 +16,9 @@ comments: []
 <p>Doufám, že to přinese <strong>aspoň</strong> nějaký užitek ;).</p>
 <p>Vyrábění guestbooků mírným pozměněním css stylů pro různé stránky (občas sice předělám kód, ale jen občas)  mi zvyšuje sebevědomí. Asi začnu sbírat hlášky jako např.:</p>
 <ul>
-<li>Vzkazovník - kniha návštěv. Za ten bych chtěla strašně moc poděkovat                       svému spolužákovi Honzovi, který ho pro mě vytvořil :)                       (<a href="http://jesterky.unas.cz">Ještěrky</a>)</li>
-<li>guesbook mé díky patří Honzovi, jehož  schopnosti sou uchvacující  (<a href="http://iqland.wz.cz">IQland</a>)</li>
-<li>MÁM GUESTBOOK!!! Dík Endlifovi DĚKUJI!!! (<a href="http://bus-wanderer.wz.cz">bus-wanderer</a>)</li>
+<li>Vzkazovník - kniha návštěv. Za ten bych chtěla strašně moc poděkovat                       svému spolužákovi Honzovi, který ho pro mě vytvořil :)                       (<a href="https://jesterky.unas.cz">Ještěrky</a>)</li>
+<li>guesbook mé díky patří Honzovi, jehož  schopnosti sou uchvacující  (<a href="https://iqland.wz.cz">IQland</a>)</li>
+<li>MÁM GUESTBOOK!!! Dík Endlifovi DĚKUJI!!! (<a href="https://bus-wanderer.wz.cz">bus-wanderer</a>)</li>
 </ul>
 <p><strong>Tohle se mi líbí :-).</strong></p>
 <p>Další prázdninový den přinesl jen další prázdno, tak se pro dnešek  s přáním pěkného dne (a nejen tohoto) loučím :-)</p>

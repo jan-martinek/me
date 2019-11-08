@@ -14,7 +14,7 @@ Po vyčerpávající diskusi na icq toho asi dneska víc nevymyslím :)</p>
 <div class="import-komentaru">
 <p><strong>Import komentářů ze starší verze webu</strong></p>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (pondělí&nbsp;7.&nbsp;02.&nbsp;2005,&nbsp;20:15)</p>
+<p style="font-weight:bold"><span class="compredmet">..</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (pondělí&nbsp;7.&nbsp;02.&nbsp;2005,&nbsp;20:15)</p>
 <p>jo tak přesně tohle se mi stává ... a někdy až nechutně často </p>
 </div>
 </div>

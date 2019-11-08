@@ -41,7 +41,7 @@ trochu soustředěné texty o něčem. Jedna kapitola mého života se zalomila
 <p>taky přeju hodně štěstí a zároveň jsem zvědavý </p>
 </div>
 <div class="comment">
-<p style="font-weight:bold"><span class="compredmet">readers</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="http://ondrejmaca.wz.cz">http://ondrejmaca.wz.cz</a> (sobota&nbsp;5.&nbsp;02.&nbsp;2005,&nbsp;17:38)</p>
+<p style="font-weight:bold"><span class="compredmet">readers</span> | <span class="comname">Wikih</span> |  <a href="mailto:ondrejmaca@centrum.cz">mail</a>  <a href="https://ondrejmaca.wz.cz">https://ondrejmaca.wz.cz</a> (sobota&nbsp;5.&nbsp;02.&nbsp;2005,&nbsp;17:38)</p>
 <p>taky napíšu příspěvek, jen aby bylo vidět, že se možná i vrátí více čtenářů :) Třeba jako já </p>
 </div>
 <div class="comment">

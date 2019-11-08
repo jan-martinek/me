@@ -20,19 +20,19 @@ comments:
   - id: 14060
     author: Honza Martinek
     author_email: jan.martinek@post.cz
-    author_url: http://jan-martinek.com
+    author_url: https://jan-martinek.com
     date: '2011-08-02 11:57:44 +0200'
     date_gmt: '2011-08-02 10:57:44 +0200'
-    content: "Ahoj, videa jsem chtěl umístit na Vimeo, ale zdržely mě problémy s platební kartou - nakonec jsem se na to vykašlal a nahrávám videa přes běžný účet. Takže každý týden by se mělo objevit nové video na stránce http://www.vimeo.com/album/1657552\r\n\r\nJak budu mít chvilku, začnu ty odkazy házet na FB a domluvím se s přednášejícími, aby to šlo prolinkovat se slajdy."
+    content: "Ahoj, videa jsem chtěl umístit na Vimeo, ale zdržely mě problémy s platební kartou - nakonec jsem se na to vykašlal a nahrávám videa přes běžný účet. Takže každý týden by se mělo objevit nové video na stránce https://www.vimeo.com/album/1657552\r\n\r\nJak budu mít chvilku, začnu ty odkazy házet na FB a domluvím se s přednášejícími, aby to šlo prolinkovat se slajdy."
 ---
 <p>V posledních letech se v Česku a na Slovensku objevilo několik barcampů (součást širšího fenoménu tzv. „ne-konferencí“) zaměřených na IT, webové technologie a startupy. Díky tomu, že mě zajímají jak web a média, tak politologie, napadlo mě přenést tento formát mezi politology. 4. června 2011 se tak konal první non-IT barcamp v ČR. </p>
 <p><img src='/assets/migrated/wp-uploads/2011/07/app_full_proxyphp.png' alt='app_full_proxyphp.png' /></p>
 <p>Rád bych předal co nejvíce informací o organizaci podobné akce dál, tak bude tento článek trochu delší – ale po dočtení doufám budete trochu blíž k tomu, abyste uspořádali vlastní barcamp, nebo se alespoň nějakého zúčastnili. Kvůli délce ovšem raději předem odpovím na otázku položenou v titulku: „Skvěle!“</p>
 <h3>Co je to barcamp?</h3>
-<p>Barcamp je menší neformální konference, jejímž jediným pravidlem je, že pro účastníky musí být vstup zdarma (více informací naleznete na <a href="http://barcamp.org/">oficiálních stránkách</a>). Podstatnou vlastností barcampu je snaha o to, aby maximum přítomných zároveň přednášelo a aby vznikala co nejsilnější interakce mezi všemi. </p>
+<p>Barcamp je menší neformální konference, jejímž jediným pravidlem je, že pro účastníky musí být vstup zdarma (více informací naleznete na <a href="https://barcamp.org/">oficiálních stránkách</a>). Podstatnou vlastností barcampu je snaha o to, aby maximum přítomných zároveň přednášelo a aby vznikala co nejsilnější interakce mezi všemi. </p>
 <p><img src='/assets/migrated/wp-uploads/2011/07/244308_2051575097164_1478105313_32348530_1125053_o.jpg' alt='244308_2051575097164_1478105313_32348530_1125053_o.jpg' /></p>
 <p>Samotný program se na barcampech často vytváří až na místě – účastníci nabídnou témata a společně se odhlasují nejzajímavější přednášky, ty se pak konají. Nicméně vzhledem k tomu, že to byla první akce podobného typu mezi politology, sestavili jsme přibližný program předem.</p>
-<p>Pro posílení vazeb a komunikace jsem se ve dvou prvcích nechal inspirovat pražským Clevisáckým barcampem (moc díky <a href="http://twitter.com/#!/VitekJezek">@VitekJezek</a> za rady s organizací):</p>
+<p>Pro posílení vazeb a komunikace jsem se ve dvou prvcích nechal inspirovat pražským Clevisáckým barcampem (moc díky <a href="https://twitter.com/#!/VitekJezek">@VitekJezek</a> za rady s organizací):</p>
 <ul>
 <li>crowdsourcovaným obědem, kdy každý účastník přinesl něco dobrého a z toho vznikl obědový raut s rozličnými jídly a</li>
 <li>hlasovací soutěží s cenami, v níž mohl každý účastník „olajkovat“ co se mu líbilo: přednášku, jídlo nebo samotného účastníka. Pro potřeby politologické akce jsem přidal vtípek – každý účastník získal samolepky podle svého politického přesvědčení (pravice/levice) a ceny byly udělovány nejen za nejvyšší počet „lajků“, ale i za levicové a pravicové „lajky“.</li>
